@@ -27,8 +27,10 @@ Datum und Uhrzeit des Aufrufs und die aufgerufene Adresse, um die Seite auszulie
 den Dienst vor Missbrauch zu schützen. Wir selbst erhalten diese Daten nicht und werten
 keine Zugriffe aus.
 
-- **Rechtsgrundlage:** unser berechtigtes Interesse, die Rechtstexte der App öffentlich
-  und sicher bereitzustellen (Art. 6 Abs. 1 lit. f DSGVO; Art. 31 Abs. 1 DSG).
+- **Rechtsgrundlage (EU/EWR):** unser berechtigtes Interesse, die Rechtstexte der App
+  öffentlich und sicher bereitzustellen (Art. 6 Abs. 1 lit. f DSGVO). **Schweiz:** Das DSG
+  verlangt dafür keine Rechtsgrundlage; die Bearbeitung ist verhältnismässig und für dich
+  erkennbar (Art. 6 DSG).
 - **Übermittlung in die USA:** GitHub ist unter dem EU-US Data Privacy Framework und dem
   Swiss-U.S. Data Privacy Framework zertifiziert.
 - **Speicherdauer:** nach den Regeln von GitHub, siehe die

@@ -322,17 +322,26 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
     Anschliessend wird es verschlüsselt gespeichert (als Dokument, Wundfoto
     oder Profilbild, siehe Abschnitt 4.1), und die Zwischenkopie wird
     unmittelbar danach gelöscht.
-  - Beim Ansehen eines gespeicherten Dokuments/PDFs (temporäre
-    Klartext-Kopie für einen externen Viewer) und beim PDF-Export (z. B.
-    Notfallausweis, Arztzusammenfassung) entsteht ebenfalls eine solche
-    Zwischenkopie; sie wird nicht sofort, sondern spätestens beim Sperren,
+  - Beim Ansehen eines gespeicherten Dokuments/PDFs in einer externen App
+    entsteht eine Klartext-Zwischenkopie, die diese App lesen darf, solange
+    sie das Dokument anzeigt. Die automatische Sperre greift währenddessen
+    frühestens nach 10 Minuten ohne Bedienung von PocketSana (ist deine
+    eingestellte Sperrzeit länger, gilt diese), beim Ausschalten des
+    Bildschirms sofort. Mit dem Sperren schliesst PocketSana die externe
+    Anzeige, entzieht die Freigabe und löscht die Kopie; wird PocketSana
+    währenddessen vom System beendet, geschieht das beim nächsten Start.
+    Externe Apps, die das Dokument in einem eigenen Fenster öffnen, kann
+    PocketSana nicht schliessen.
+  - Beim PDF-Export (z. B. Notfallausweis, Arztzusammenfassung) entsteht
+    ebenfalls eine solche Zwischenkopie; sie wird spätestens beim Sperren,
     beim Wechsel in den Hintergrund oder beim nächsten App-Start gelöscht
     (wird die App während der PDF-Erzeugung gesperrt, sofort).
   - Die Dokumentensuche entschlüsselt zur Texterkennung vorübergehend noch
     nicht indizierte Dokumente in denselben Cache.
   - Es handelt sich dabei **nicht** um eine dauerhafte unverschlüsselte
-    Kopie. Diese Zwischenkopien werden beim Sperren, beim Wechsel in den
-    Hintergrund und beim App-Start gelöscht. Ausnahme beim App-Start:
+    Kopie. Diese Zwischenkopien werden beim Sperren (auch beim Wechsel in den
+    Hintergrund, ausser während der Kamera-Übergabe oder einer externen
+    Anzeige, siehe oben) und beim App-Start gelöscht. Ausnahme beim App-Start:
     Kamera-Zwischenbilder, die jünger als 10 Minuten sind, bleiben liegen,
     damit eine gerade laufende Aufnahme nicht verloren geht, wenn Android die
     App währenddessen beendet; beim Sperren werden auch sie gelöscht. Bleibt
@@ -340,9 +349,9 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
     zusätzlich gelöscht, sobald bei der nächsten Aufnahme eine mehr
     als 10 Minuten alte Datei gefunden wird (beim Medikamentenplan-Scan,
     dessen Durchsicht länger dauern kann: 2 Stunden).
-  - Ausserhalb der App sichtbar werden sie nur für den kurzen, technisch
-    notwendigen Moment der Übergabe an die System-Kamera-App bzw. einen von
-    dir gewählten externen Viewer oder ein Freigabe-Ziel. Diese Freigabe ist
+  - Ausserhalb der App sichtbar werden sie nur für die Dauer der Übergabe
+    an die System-Kamera-App bzw. der Anzeige in einem von dir gewählten
+    externen Viewer (siehe oben) oder für ein Freigabe-Ziel. Diese Freigabe ist
     zeitlich und auf genau diese eine Datei beschränkt — es ist kein
     offener, dauerhafter Zugriff.
 - **Benachrichtigungen:** werden für Medikamenten- und Termin-Erinnerungen

@@ -310,7 +310,10 @@ die App vom Gerät entfernst.
 - **Testphase:** Der volle Funktionsumfang ist während der ersten **14 Tage
   ab der ersten Einrichtung dieser Installation** nutzbar (wird ein Backup
   wiederhergestellt, läuft die darin gespeicherte, ursprüngliche Testphase
-  weiter), **ohne dass dafür ein kostenpflichtiger Abo-Vertrag mit Google
+  weiter; fehlt dieser Eintrag im Backup oder wurde er verändert, gilt die
+  Testphase als abgelaufen. Die Testphase setzt eine richtig gehende
+  Geräteuhr voraus: Liegt ihr Beginn nach der Geräteuhr in der Zukunft, gilt
+  sie ebenfalls als abgelaufen), **ohne dass dafür ein kostenpflichtiger Abo-Vertrag mit Google
   Play oder uns zustande kommt oder eine Zahlungsmethode hinterlegt wird**.
   Diese Testphase gewährt die App selbst: Es handelt sich um eine rein
   lokale Freischaltung, die vollständig offline funktioniert und keine
@@ -412,7 +415,7 @@ Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen
 Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
 des Vertragsschlusses (des tatsächlichen Kaufabschlusses bei Google Play).
 Um dein Widerrufsrecht auszuüben, musst du Google Commerce Limited (c/o
-Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland) **oder** uns (Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, contact.pocketsana@gmail.com) mittels einer eindeutigen Erklärung (z. B. per
+Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland) **oder** uns (Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 81 304 71 24, contact.pocketsana@gmail.com) mittels einer eindeutigen Erklärung (z. B. per
 E-Mail oder über Google Play) über deinen Entschluss, diesen Vertrag zu
 widerrufen, informieren.
 Du kannst dafür das untenstehende Muster-Widerrufsformular verwenden, das
@@ -446,7 +449,7 @@ kann diesen Anteil von der Erstattung abziehen.
 den Vertrag widerrufen willst):
 
 - An Google Commerce Limited, c/o Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland, **oder** an
-  Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, contact.pocketsana@gmail.com:
+  Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 81 304 71 24, contact.pocketsana@gmail.com:
 - Hiermit widerrufe ich den von mir abgeschlossenen Vertrag über die
   Erbringung der folgenden Dienstleistung: PocketSana Premium (Abo).
 - Bestellt am: _____
