@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}PocketSana</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="{{ '/assets/icon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body class="{{ page.body_class | default: 'doc' }}">
+  <a class="skip" href="#inhalt">Zum Inhalt</a>
+  <header class="site-header">
+    <div class="bar">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/icon.png' | relative_url }}" alt="" width="32" height="32">
+        <span>PocketSana</span>
+      </a>
+      <nav aria-label="Hauptnavigation">
+        <a href="{{ '/datenschutz' | relative_url }}"{% if page.url == '/datenschutz' or page.url == '/datenschutz.html' %} aria-current="page"{% endif %}>Datenschutz</a>
+        <a href="{{ '/nutzungsbedingungen' | relative_url }}"{% if page.url == '/nutzungsbedingungen' or page.url == '/nutzungsbedingungen.html' %} aria-current="page"{% endif %}>Nutzungsbedingungen</a>
+        <a href="{{ '/impressum' | relative_url }}"{% if page.url == '/impressum' or page.url == '/impressum.html' %} aria-current="page"{% endif %}>Impressum</a>
+      </nav>
+    </div>
+  </header>
+  <main id="inhalt">
+    <article>
+{{ content }}
+    </article>
+  </main>
+  <footer class="site-footer">
+    <div class="bar">
+      <span>Daniel Felbar · Sargans · <a href="mailto:contact.pocketsana@gmail.com">contact.pocketsana@gmail.com</a></span>
+      <span><a href="{{ '/website-datenschutz' | relative_url }}">Datenschutz dieser Website</a></span>
+    </div>
+  </footer>
+</body>
+</html>
