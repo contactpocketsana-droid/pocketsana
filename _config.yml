@@ -1,0 +1,11 @@
+title: PocketSana
+description: Gesundheitstagebuch für Android – lokal und verschlüsselt auf deinem Gerät.
+lang: de-CH
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+exclude:
+  - aktualisieren.pl
+  - LIESMICH.md
