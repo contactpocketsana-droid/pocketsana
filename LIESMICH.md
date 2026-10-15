@@ -24,5 +24,5 @@ Die Adressen für die App und die Play Console sind dann:
 ## Nach einer Änderung der Rechtstexte
 
 `perl aktualisieren.pl` übernimmt Datenschutzerklärung und Nutzungsbedingungen aus
-`meine-akte-main/legal/`. Danach die beiden Dateien `datenschutz.md` und `nutzungsbedingungen.md`
+dem Zweig `multiplatform` von `meine-akte` (gemeinsame Fassung Android + iPhone, Owner-Entscheid 15.10.2026; gelesen per `git show`). Danach die beiden Dateien `datenschutz.md` und `nutzungsbedingungen.md`
 im Repository ersetzen (hochladen, Commit).
