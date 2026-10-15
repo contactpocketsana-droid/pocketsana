@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Gesundheitstagebuch für Android
+title: Gesundheitstagebuch auf deinem Smartphone
 body_class: home
 permalink: /
 ---
 
 # Deine Gesundheitsdaten. Nur auf deinem Gerät.
 
-<p class="lead">PocketSana ist ein Gesundheitstagebuch für Android. Vitalwerte, Medikamente,
+<p class="lead">PocketSana ist ein Gesundheitstagebuch auf deinem Smartphone. Vitalwerte, Medikamente,
 Termine, Dokumente und Journale bleiben verschlüsselt auf deinem Handy – ohne Konto bei uns,
 ohne Server.</p>
 
