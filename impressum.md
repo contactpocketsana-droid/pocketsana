@@ -36,7 +36,7 @@ E-Mail: [info@prodacts.at](mailto:info@prodacts.at)
 
 PocketSana – Meine Gesundheitsdaten<br>
 Paketname: ch.meineakte<br>
-Entwickler bei Google Play: Daniel Felbar (Inhaber von PocketSana Felbar)
+Entwickler bei Google Play: PocketSana Felbar (Inhaber Daniel Felbar)
 
 ## Verbraucherschlichtung
 
