@@ -6,7 +6,7 @@ permalink: /datenschutz
 
 # Datenschutzerklärung — PocketSana – Meine Gesundheitsdaten
 
-Stand: 24. September 2026
+Stand: 14. Oktober 2026
 
 ## 1. Kurzfassung
 
@@ -14,7 +14,8 @@ PocketSana speichert alle von dir eingegebenen Gesundheitsdaten
 **ausschliesslich lokal und verschlüsselt auf deinem Gerät** (zu den
 Ausnahmen — dem unverschlüsselten Einstellungsspeicher und den kurzlebigen
 Arbeitskopien im App-Cache — siehe Abschnitte 4.1 und 4.7). Es gibt keinen
-Server, kein Nutzerkonto, keine Cloud-Synchronisation und keine Übertragung
+Server, kein Online-Konto bei uns (Profile und PIN richtest du nur lokal auf
+deinem Gerät ein), keine Cloud-Synchronisation und keine Übertragung
 deiner Gesundheitsdaten an uns oder Dritte. Die App enthält keine von uns
 eingebaute Analyse-/Tracking-Software und keine Werbung (zu den technischen
 Diagnosekomponenten der Google-Bibliotheken siehe Abschnitte 5 und 14). Wir
@@ -46,7 +47,7 @@ Datenbearbeitung entscheidet (Art. 4 Nr. 7 DSGVO; Art. 5 lit. j DSG). Bei
 deinen Einträgen entscheidest allein du, was du erfasst, wozu, wie lange
 und ob du es jemandem weitergibst; die App speichert sie ausschliesslich
 verschlüsselt auf deinem Gerät, und wir erhalten sie zu keinem Zeitpunkt —
-es gibt keinen Server, kein Konto und keine Übertragung an uns. Das Führen
+es gibt keinen Server, kein Online-Konto bei uns und keine Übertragung an uns. Das Führen
 deiner eigenen Gesundheitsaufzeichnungen ist damit eine rein persönliche
 Tätigkeit, auf die die Datenschutzgesetze nicht anwendbar sind (Art. 2
 Abs. 2 lit. c DSGVO; Art. 2 Abs. 2 lit. a DSG). Wir stellen dir dafür nur
@@ -56,9 +57,12 @@ Für die wenigen Verarbeitungen, die wir selbst durchführen — die Einsicht
 in die Bestell- und Abo-Angaben, die uns Google in der Play Console
 anzeigt (Bestellnummer, Bestelldatum, Land, Ort und Postleitzahl,
 Gerätemodell, Betrag und Währung, Abo-Status; keine Zahlungsdaten; für
-Rückerstattungen, Widerrufe und Buchhaltung), und die
-Beantwortung von Support-Anfragen an uns —, ist Daniel Felbar, Salamanderweg 1,
-7320 Sargans, Schweiz, E-Mail: contact.pocketsana@gmail.com, verantwortlich.
+Rückerstattungen, Widerrufe und Buchhaltung), die
+Beantwortung von Support-Anfragen an uns (einschliesslich
+Widerrufserklärungen per E-Mail) und von öffentlichen Bewertungen
+im Store (Abschnitt 7) —, ist PocketSana Felbar (Einzelunternehmen,
+Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz,
+UID CHE-485.068.824, E-Mail: contact.pocketsana@gmail.com, verantwortlich.
 Die Abo-Abwicklung selbst (Kauf, Zahlung, Verlängerung, Rechnung) führt Google durch (Abschnitt 9). Weil wir keine Niederlassung in
 der EU haben, die App dort aber anbieten, haben wir nach Art. 27 DSGVO einen
 Vertreter in der EU benannt: Stefan Felbar, Hasenfeldstrasse 70, 6890
@@ -74,12 +78,12 @@ erfüllen die Informationspflicht über Identität und Kontaktdaten des Verantwo
 
 Diese Datenschutzerklärung ist bewusst für mehrere Rechtsordnungen zugleich
 geschrieben, weil sie parallel Anwendung finden können. Die Grundsätze
-(Abschnitte 4–15) gelten einheitlich; die Abschnitte 16–22 fassen zusammen,
+(Abschnitte 4–15) gelten einheitlich; die Abschnitte 16–21 fassen zusammen,
 was **zusätzlich** je nach deinem Aufenthaltsort gilt.
 
 Wichtig für die Reichweite: Die nachfolgend genannten Gesetze gelten für
 die **von uns** durchgeführten Verarbeitungen (Abschnitt 2, zweiter
-Absatz: Abo-/Kaufdaten, Support-Anfragen). Deine Einträge in der App fallen nicht darunter, weil du
+Absatz: Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, Antworten auf Store-Bewertungen). Deine Einträge in der App fallen nicht darunter, weil du
 sie selbst und ausschliesslich für persönliche Zwecke führst (Abschnitt 2,
 erster Absatz). Wir beschreiben sie in dieser Erklärung trotzdem
 ausführlich, damit du weisst, wie die App mit ihnen umgeht.
@@ -99,10 +103,12 @@ ausführlich, damit du weisst, wie die App mit ihnen umgeht.
   angeboten wird; mit mehreren
   eigenständigen, teils bundesstaatlichen Regelwerken für Gesundheitsdaten.
   Zusätzliche Punkte: Abschnitt 19.
-- **Kanada** — PIPEDA gilt bundesweit extraterritorial; für die Provinz
+- **Kanada** — für den Fall, dass die App dort angeboten wird: PIPEDA gilt
+  dann bundesweit extraterritorial; für die Provinz
   Québec gelten zusätzliche, eigenständige Pflichten. Zusätzliche Punkte:
   Abschnitt 20.
-- **Australien, Neuseeland, Singapur** — Zusätzliche Punkte: Abschnitt 21.
+- **Australien, Neuseeland, Singapur** — für den Fall, dass die App dort
+  angeboten wird. Zusätzliche Punkte: Abschnitt 21.
 - **Alle anderen Länder** — die App ist in über 50 Sprachen verfügbar;
   diese Datenschutzerklärung geht bewusst nicht auf jedes einzelne Land ein.
   Unabhängig von den oben genannten Rechtsordnungen gilt für dich zusätzlich
@@ -115,9 +121,9 @@ ausführlich, damit du weisst, wie die App mit ihnen umgeht.
 Wo mehrere Regelwerke gelten, wenden wir **den jeweils strengeren Massstab**
 an, statt widersprüchliche Standards nebeneinander zu betreiben.
 
-**Sprachfassung dieser Erklärung:** Bei Widersprüchen zwischen
-Sprachfassungen ist die deutsche Fassung massgeblich — vorbehaltlich
-Abschnitt 20 (Québec).
+**Sprachfassung dieser Erklärung:** Übersetzungen in weitere Sprachen dienen
+nur der Information. Bei Widersprüchen zwischen Sprachfassungen ist die
+deutsche Fassung massgeblich (zu Québec siehe Abschnitt 20).
 
 ## 4. Welche Daten die App speichert und wo sie liegen
 
@@ -126,8 +132,9 @@ Abschnitt 20 (Québec).
 Du erfasst und verwaltest in der App: Vitalwerte, Symptom-/Verlaufsjournale,
 Medikamente, Termine, Dokumente und Fotos (z. B. Befunde, Rezepte),
 Notfallausweis-/Patientenverfügungsdaten. Dazu gehören auch zwei besonders
-sensible Journale: **Menstruationszyklus** (reproduktive Gesundheit) und
-**Substanzkonsum** (z. B. Alkohol, Tabak, Drogen).
+sensible Journale: **Menstruationszyklus** (reproduktive Gesundheit; in der
+App «Zyklustracker») und **Substanzkonsum** (z. B. Alkohol, Tabak, Drogen; in
+der App «Suchtmittel-Tracking»).
 
 Darüber hinaus speichert die App auf deinem Gerät: Profil-Stammdaten (Name,
 Geburtsdatum, Blutgruppe, Allergien, Grösse, Profilfoto, freitextliche
@@ -145,9 +152,16 @@ Volltext, der zur Suche verschlüsselt in der Datenbank gespeichert wird.
   mit 600'000 Durchläufen). Ohne deine PIN lässt sich diese Hülle nicht
   öffnen und damit auch der Datenbankschlüssel nicht gewinnen. Die
   Schlüsselableitung wurde im Lauf der Zeit verstärkt; bestehende
-  Installationen werden beim Entsperren automatisch auf den aktuellen Stand
-  gebracht. Zusätzlich über den Android Keystore geschützt, wenn du die
-  biometrische Entsperrung aktivierst. **Hinweis:** Für Kameraaufnahmen,
+  Installationen werden beim nächsten Entsperren mit der PIN oder bei einem
+  PIN-Wechsel automatisch auf den aktuellen Stand gebracht. Aktivierst du die
+  biometrische Entsperrung, legt die App eine zweite Hülle des
+  Datenbankschlüssels an. Sie ist mit einem Schlüssel im Android Keystore
+  verschlüsselt, den das Gerät nur nach einer erfolgreichen biometrischen
+  Prüfung freigibt. Dieser Schlüssel wird ungültig, sobald du auf dem Gerät
+  ein neues biometrisches Merkmal registrierst oder alle entfernst; dann gilt
+  wieder nur die PIN. Das ist ein zweiter, alternativer Zugangsweg neben der
+  PIN, kein zusätzlicher Schutz. Die PIN-Hülle bleibt unverändert bestehen.
+  **Hinweis:** Für Kameraaufnahmen,
   das Ansehen von Dokumenten/PDFs und den PDF-Export entstehen technisch
   bedingt kurzzeitige, automatisch wieder gelöschte unverschlüsselte
   Arbeitskopien im App-Cache — Details und die genauen Löschfristen dazu in
@@ -168,8 +182,12 @@ Volltext, der zur Suche verschlüsselt in der Datenbank gespeichert wird.
   fünf auf die
   Datentypen Puls, Sauerstoffsättigung, Körpertemperatur, Schlaf und
   Blutdruck bezogene Import-Zeitstempel sowie eine Zusammenfassung des
-  letzten Health-Connect-Imports mit Anzahlen. **Diese Aufzählung ist nicht
-  abschliessend.** Daraus lässt sich ablesen, **welche** Journale du nutzt —
+  letzten Health-Connect-Imports mit Anzahlen. Für die Erinnerungen kommen
+  hinzu: die Zeitpunkte der für die nächsten sieben Tage eingeplanten
+  Medikamenten-Erinnerungen, die dabei gültige Zeitzone und die internen
+  Nummern der Termine mit Erinnerung (ohne Medikamentennamen oder
+  Termininhalte). **Diese Aufzählung ist nicht abschliessend.** Daraus
+  lässt sich ablesen, **welche** Journale du nutzt —
   auch, ob du die besonders sensiblen Journale Menstruationszyklus und
   Substanzkonsum verwendest —, nicht aber, was darin steht; die
   bildschirmbezogenen Merkposten tragen dafür unter anderem die
@@ -187,9 +205,13 @@ Volltext, der zur Suche verschlüsselt in der Datenbank gespeichert wird.
   bestimmst du, nicht wir. Wir werten diese Daten nicht aus, klassifizieren
   sie nicht und erhalten sie nie zu Gesicht.
   Die einfachen Statistiken, die dir die App anzeigt (Durchschnitte,
-  Minimum/Maximum, Einnahme-Zähler, Gramm reiner Alkohol, durchschnittliche
-  Zykluslänge, BMI), sind reine rechnerische Zusammenfassungen deiner
-  eigenen Einträge und keine medizinische Auswertung.
+  Minimum/Maximum, Einnahme-Zähler und Einnahmetreue in Prozent, Fortschritt
+  zu deinem selbst gesetzten Trinkziel, Gramm reiner Alkohol und
+  Wochendurchschnitte beim Substanzkonsum und beim Stuhlgang-Journal,
+  durchschnittliche Zykluslänge, BMI sowie die Schmerz-Körperkarte, deren
+  Helligkeit die durchschnittliche Intensität zeigt), sind reine rechnerische
+  Zusammenfassungen deiner eigenen Einträge. Sie sind keine medizinische
+  Auswertung und keine Bewertung.
 
 ### 4.2 Ernährungs- und Aktivitätsdaten
 
@@ -211,11 +233,15 @@ deines Geräts:
 
 Diese Kommunikation läuft ausschliesslich **lokal auf dem Gerät** über die
 geräteinterne Schnittstelle von Health Connect, nicht über das Internet. Die App schreibt nie Daten nach Health Connect zurück (nur
-Lesezugriff). Puls, SpO2, Temperatur und Blutdruck werden nach deinem
-Tastendruck, oder — falls du die automatische Aktualisierung in den
+Lesezugriff). Puls, SpO2, Temperatur und Blutdruck werden, wenn du in den
+Einstellungen auf «Jetzt importieren» tippst, oder — falls du die automatische Aktualisierung in den
 Einstellungen aktivierst — automatisch bei jedem Entsperren der App, als
 **Stundenmittelwert** (bis zu 24 Werte pro Tag je Messgrösse) in die
-App-eigenen Vitalwerte übernommen. Bei jedem Import liest die App zusätzlich
+App-eigenen Vitalwerte übernommen. Beim ersten Import, und wenn der letzte
+Import mehr als 30 Tage zurückliegt (z. B. nach einer Pause ohne Abo),
+übernimmt die App höchstens die Werte der letzten 30 Tage (bei Schlaf
+einschliesslich des Tages davor). Ältere Werte in Health Connect bleiben
+unberücksichtigt. Bei jedem Import liest die App zusätzlich
 die letzten 48 Stunden vor dem vorherigen Import erneut ein, weil viele Uhren
 ihre Messwerte erst verzögert an Health Connect übergeben; die Stundenwerte
 in diesem Zeitfenster werden dabei ersetzt, von dir bearbeitete Werte bleiben
@@ -224,11 +250,12 @@ zwischenzeitlich gelöscht hast, kann dadurch beim nächsten Import erneut
 erscheinen, solange die betroffene Stunde noch im Zeitfenster liegt;
 umgekehrt verschwindet ein unbearbeiteter Importwert aus diesem Zeitfenster
 in der Regel auch in der App, wenn er in Health Connect gelöscht wurde.
-Schlaf-Sitzungen werden dagegen unverändert (1:1, da hier ohnehin nur
-höchstens ein bis zwei Einträge pro Nacht anfallen) in das Schlaf-Journal
+Schlaf-Sitzungen werden dagegen als einzelne Nächte in das Schlaf-Journal
 übernommen — inklusive der Schlafphasen (REM/Tief/Leicht/Wach) und deren
 zeitlichem Verlauf während der Nacht, sofern dein Gerät solche Phasendaten
-liefert. Auch hier liest die App den Vortag des letzten Imports erneut ein
+(mindestens REM-, Tief- oder Leichtschlaf) liefert. Liefern mehrere Quellen
+(z. B. Uhr und Handy) überlappende Einträge für dieselbe Nacht, übernimmt die
+App nur einen davon (bevorzugt den mit Schlafphasen, sonst den längeren). Auch hier liest die App den Vortag des letzten Imports erneut ein
 und ersetzt die importierten Nächte dieser Tage. Importierte Nächte lassen
 sich nicht bearbeiten, nur löschen; eine gelöschte importierte Nacht kann
 erneut erscheinen. Von dir selbst erfasste Nächte bleiben unberührt. **Schritte,
@@ -251,34 +278,47 @@ App keine Daten aus Health Connect; sie fragt lediglich ab, ob Health
 Connect verfügbar ist und welche Berechtigungen du erteilt hast, um das in
 den Einstellungen anzuzeigen. Ändert sich der Umfang der
 importierten Datentypen oder der Hinweistext wesentlich, fragt die App dich
-erneut.
+nicht von sich aus. Sie setzt stattdessen den Import und die Anzeige der
+Sportwerte aus Health Connect aus, bis du in den Einstellungen über «Mit
+Health Connect verbinden» erneut zustimmst.
 
 ### 4.4 Zugangsdaten: PIN und Biometrie
 
 - Deine PIN wird nicht im Klartext gespeichert, sondern ausschliesslich zur
   Schlüsselableitung verwendet (siehe 4.1).
 - Wenn du die biometrische Entsperrung (Fingerabdruck/Gesicht) aktivierst,
-  verlassen die biometrischen Rohdaten **nie** die App bzw. das
-  Betriebssystem: Die Erkennung läuft über die Biometrie-Funktion des
+  gelangen die biometrischen Rohdaten **nie** in die App und verlassen das
+  Betriebssystem nicht: Die Erkennung läuft über die Biometrie-Funktion des
   Betriebssystems; der Schlüssel liegt im geschützten Sicherheitsbereich des
   Geräts. Die App erhält ausschliesslich ein Erfolgs-/Misserfolgs-Signal
   ("entsperrt" / "nicht entsperrt"), niemals Fingerabdruck- oder
   Gesichtsdaten selbst.
+- Die App bietet dir die biometrische Entsperrung nach der PIN-Einrichtung
+  an; du kannst sie überspringen und jederzeit in den Einstellungen ein- oder
+  ausschalten.
 
 ### 4.5 Backups und Exporte
 
 - Ein Backup ist ein ZIP-Archiv, dessen Bestandteile — Datenbank,
-  verschlüsselte PIN-Hülle, Dokumente/Fotos — einzeln verschlüsselt sind;
-  Dateinamen/-grössen und der Startzeitpunkt der Testphase sind darin
-  unverschlüsselt. Es wird nur erstellt, wenn du das aktiv auslöst, und nur
+  verschlüsselte PIN-Hülle, Dokumente/Fotos — einzeln verschlüsselt sind.
+  Unverschlüsselt sind darin: Dateinamen und -grössen, der Startzeitpunkt der
+  Testphase samt einer Signatur, die ihn vor nachträglicher Änderung schützt,
+  sowie die Versionsnummer des Datenbankaufbaus (Schemaversion), damit eine
+  ältere App-Version ein neueres Backup ablehnen kann. Es wird nur erstellt,
+  wenn du das aktiv auslöst, und nur
   an einen von dir gewählten Speicherort. Wir selbst erhalten diese Datei
   nie. **Hinweis:** Das Backup enthält die PIN-Hülle des Datenbankschlüssels
   und ist ausschliesslich durch deine PIN geschützt — es gibt keine separate
   Backup-Passphrase. Wer die Datei besitzt, kann die PIN offline
   durchprobieren, **ohne** die Sperr-Fehlversuchsverzögerung der App. Der
   Schutz hängt deshalb allein an der Länge deiner PIN (neu angelegte PINs:
-  8 bis 12 Ziffern; ältere PINs können ab 6 Ziffern kürzer sein). Behandle die
-  Backup-Datei wie ein sensibles Dokument.
+  8 bis 12 Ziffern; ältere PINs können kürzer sein, mindestens
+  aber 6 Ziffern). Ein Backup
+  bleibt mit der PIN geschützt, die beim Erstellen galt, und lässt sich nach
+  einem PIN-Wechsel nur mit dieser alten PIN wiederherstellen. Die App weist
+  dich beim PIN-Wechsel darauf hin, ein neues Backup zu erstellen. Wechselst
+  du die PIN, weil andere sie kennen könnten, lösche ältere Backups. Behandle
+  die Backup-Datei wie ein sensibles Dokument.
 - Ein Backup lässt sich nur während der Ersteinrichtung der App
   wiederherstellen, also bevor eine PIN vergeben ist. Auf einem bereits
   eingerichteten Gerät löschst du dafür zuerst in den Android-Einstellungen
@@ -288,11 +328,24 @@ erneut.
 - Automatische, systemweite Cloud-Backups sind für diese App auf
   Systemebene deaktiviert — weder Android-Cloud-Backup noch die "Von altem
   auf neues Gerät übertragen"-Funktion übertragen App-Daten dieser App.
-- **PDF-Exporte und externe Anzeige:** Du kannst aus der App PDFs erzeugen
-  (Notfallausweis, Terminexport/Arztzusammenfassung — mit Name,
-  Geburtsdatum, Allergien, Medikamenten, Notfallkontakten und
-  Hausarzt-Angaben) und gespeicherte Dokumente über den Teilen-/Öffnen-Dialog
-  in einer externen App anzeigen lassen. Solche Exporte und Freigaben
+- **PDF-Exporte und externe Anzeige:** Du kannst aus der App zwei Arten von
+  PDFs erzeugen:
+  - **Notfallausweis:** Name, Geburtsdatum, Alter, Blutgruppe, Allergien,
+    Nahrungsmittelunverträglichkeiten, die aktuell laufenden Medikamente (mit
+    Wirkstoff, Stärke/Dosis, Einnahmerhythmus und Einnahmezeiten), eine
+    Statistik deiner Vitalwerte der letzten 7 Tage (Anzahl, Minimum, Maximum,
+    Mittelwert), Notfallkontakte, Hausarzt-Angaben sowie die als
+    Patientenverfügung abgelegten Dokumente (Titel und Datum; das vollständige
+    Dokument wird als zusätzliche Seiten angehängt).
+  - **Arzttermin-Export:** Name, Geburtsdatum, Alter, der gewählte Zeitraum
+    (standardmässig die letzten 90 Tage) und die Einträge der von dir
+    gewählten Bereiche. Es gibt bis zu 22 Bereiche, standardmässig sind alle
+    ausgewählt, auch Substanzkonsum und Menstruationszyklus. Von Wundfotos
+    enthält er nur Serie, Anzahl und Zeitraum, keine Bilder. Allergien,
+    Notfallkontakte und Hausarzt-Angaben enthält er nicht.
+
+  Zudem kannst du gespeicherte Dokumente über den Teilen-/Öffnen-Dialog in
+  einer externen App anzeigen lassen. Solche Exporte und Freigaben
   verlassen die Verschlüsselung der App. Du entscheidest selbst, wohin sie
   gehen und wer sie erhält; ab dem Moment der Weitergabe liegt ihr Schutz
   bei dir bzw. bei der empfangenden App oder Person.
@@ -310,10 +363,13 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
 
 ### 4.7 Kamera und Erinnerungen
 
-- **Kamera:** wird ausschliesslich für die Fotodokumentation (z. B.
-  Wundverlauf) genutzt, mit Live-Vorschau direkt in der App. Die
-  Kamera-Berechtigung wird erst beim ersten tatsächlichen
-  Fotografier-Versuch angefragt, nicht schon beim App-Start. **Hinweis
+- **Kamera:** wird nur für Fotos genutzt, die du selbst in der App aufnimmst:
+  für die Fotodokumentation (z. B. Wundverlauf) und dein Profilbild mit
+  Live-Vorschau direkt in der App, für Dokumente und den Scan deines
+  Medikamentenplans über die Kamera-App deines Geräts. Bei Dokumenten und
+  beim Medikamentenplan-Scan läuft die Texterkennung auf dem Gerät
+  (Abschnitte 4.1 und 5). Die Kamera-Berechtigung wird erst beim ersten
+  tatsächlichen Fotografier-Versuch angefragt, nicht schon beim App-Start. **Hinweis
   (technisch bedingt):** Bei einigen Vorgängen entstehen kurzzeitig
   unverschlüsselte Arbeitskopien im App-eigenen, vor anderen Apps
   geschützten Cache-Verzeichnis:
@@ -332,7 +388,7 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
     währenddessen vom System beendet, geschieht das beim nächsten Start.
     Externe Apps, die das Dokument in einem eigenen Fenster öffnen, kann
     PocketSana nicht schliessen.
-  - Beim PDF-Export (z. B. Notfallausweis, Arztzusammenfassung) entsteht
+  - Beim PDF-Export (z. B. Notfallausweis, Arzttermin-Export) entsteht
     ebenfalls eine solche Zwischenkopie; sie wird spätestens beim Sperren,
     beim Wechsel in den Hintergrund oder beim nächsten App-Start gelöscht
     (wird die App während der PDF-Erzeugung gesperrt, sofort).
@@ -354,15 +410,37 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
     externen Viewer (siehe oben) oder für ein Freigabe-Ziel. Diese Freigabe ist
     zeitlich und auf genau diese eine Datei beschränkt — es ist kein
     offener, dauerhafter Zugriff.
-- **Benachrichtigungen:** werden für Medikamenten- und Termin-Erinnerungen
-  sowie für die (periodisch geprüfte) Backup-Erinnerung genutzt. Eine
-  Medikamenten-Erinnerung kann den Medikamentennamen und die Dosis
-  enthalten, eine Termin-Erinnerung die Fachrichtung, die behandelnde
-  Person und den Ort. In den Einstellungen kannst du "Diskrete Erinnerungen"
-  einschalten (Standard: aus); dann zeigen Medikamenten- und
-  Termin-Erinnerungen nur einen neutralen Hinweis ohne Medikamenten-, Arzt-
-  oder Ortsnamen. Ob es sich um eine Medikamenten- oder Termin-Erinnerung
-  handelt und bei Medikamenten die Anzahl, bleibt erkennbar.
+- **Bildinformationen (Metadaten):** Kameras schreiben oft zusätzliche
+  Angaben in die Bilddatei (sogenannte EXIF-Daten, z. B. Aufnahmezeitpunkt,
+  Gerätemodell und — wenn das in der Kamera-App eingeschaltet ist — den
+  Aufnahmeort). Wählst du für die Fotodokumentation ein Foto aus deinen
+  Dateien, übernimmt PocketSana daraus auf dem Gerät nur den
+  Aufnahmezeitpunkt als Vorschlag für Datum und Uhrzeit, den du ändern
+  kannst. Einen allfälligen Aufnahmeort wertet die App nicht aus und zeigt
+  ihn nicht an. Ausgewählte Fotos und Dokumente sowie Aufnahmen mit der
+  Kamera-App deines Geräts speichert sie jedoch unverändert, also samt
+  diesen Angaben (verschlüsselt, auch im Backup). Öffnest du ein solches
+  Dokument in einer externen App, erhält diese die Datei mit diesen
+  Angaben. Fotos, die du direkt in der App aufnimmst, enthalten keinen
+  Aufnahmeort; dein Profilbild speichert die App nach dem Zuschneiden ohne
+  solche Angaben, und in die PDF-Exporte gelangen sie nicht. Möchtest du
+  keinen Aufnahmeort in deinen Fotos, schalte die Ortsangabe in der
+  Kamera-App deines Geräts aus.
+- **Benachrichtigungen:** werden für Medikamenten- und Termin-Erinnerungen,
+  für die (periodisch geprüfte) Backup-Erinnerung sowie für zwei neutrale
+  Hinweise genutzt (Zeitzonenwechsel und Neustart des Geräts, siehe unten).
+  Eine Medikamenten-Erinnerung kann den Medikamentennamen und die Dosis
+  enthalten, eine Termin-Erinnerung den Zeitpunkt des Termins (z. B.
+  «Morgen, 08:30»), die Fachrichtung, die behandelnde Person und den Ort. In
+  den Einstellungen kannst du "Diskrete Erinnerungen" einschalten (Standard:
+  aus); dann zeigen Medikamenten- und Termin-Erinnerungen nur einen
+  neutralen Hinweis ohne Medikamenten-, Arzt- oder Ortsnamen. Erkennbar
+  bleiben, ob es sich um eine Medikamenten- oder Termin-Erinnerung handelt,
+  bei Medikamenten die Anzahl und bei Terminen der Zeitpunkt. Die Erlaubnis
+  für Mitteilungen fragt die App erst dort an, wo sie gebraucht wird: im
+  letzten Einrichtungsschritt für die Backup-Erinnerung, beim Einrichten
+  einer Medikamenten- oder Termin-Erinnerung sowie einmalig in den
+  Backup-Einstellungen bzw. beim Ändern des Backup-Intervalls.
   - Medikamenten- und Termin-Erinnerungen setzen die Berechtigung für
     exakte Alarme voraus, damit sie pünktlich statt mit Systemverzögerung
     erscheinen. Diese Berechtigung erteilst du selbst in den
@@ -376,7 +454,19 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
     Tage, Termin-Erinnerungen ohne diese Begrenzung auch für weiter in der
     Zukunft liegende Termine. Nach
     einem Geräteneustart setzen sie erst nach dem nächsten Entsperren wieder
-    ein.
+    ein. Waren Erinnerungen eingeplant, zeigt die App deshalb nach dem
+    Neustart, sofern Mitteilungen erlaubt sind, den neutralen Hinweis
+    «Erinnerungen pausiert» mit der Bitte, PocketSana zu öffnen (ohne
+    Medikamenten-, Arzt- oder Ortsnamen). Er verschwindet beim nächsten
+    Entsperren. Dafür nutzt die App die Android-Berechtigung, über den
+    Abschluss des Gerätestarts informiert zu werden (RECEIVE_BOOT_COMPLETED).
+    Die Datenbank liest sie dabei nicht, sondern nur die Angabe, ob
+    Erinnerungen eingeplant waren. Wechselst du die Zeitzone
+    (z. B. auf Reisen), während PocketSana
+    gesperrt ist, bleiben bereits eingeplante Medikamenten-Erinnerungen auf der Uhrzeit der bisherigen
+    Zeitzone, bis du PocketSana wieder entsperrst; sofern Mitteilungen
+    erlaubt sind, weist dich die App mit einer Mitteilung (ohne
+    Medikamentennamen) darauf hin.
   - Die Erinnerungstexte selbst verlassen dabei nie das Gerät — sie werden
     lokal vom Betriebssystem angezeigt, nicht über einen externen
     Push-Dienst zugestellt.
@@ -400,9 +490,22 @@ Testphasen-Startzeitpunkt liegt zudem im Backup (Abschnitt 4.5).
 
 Durch unseren eigenen Code: keine Nutzungsstatistiken, kein Tracking, keine
 Werbe-ID-Auswertung (die Werbe-ID-Berechtigung ist nicht einmal deklariert),
-keine Absturzberichte an einen Drittanbieter, keine Standortdaten, kein
-Zugriff auf Kontakte/Kalender ausserhalb dessen, was du selbst manuell in ein
+keine Absturzberichte an einen Drittanbieter, keine Standortdaten (die App
+fragt keine Standortberechtigung an und ermittelt keinen Standort; zu
+Ortsangaben in Fotos siehe Abschnitt 4.7), kein Zugriff auf
+Kontakte/Kalender ausserhalb dessen, was du selbst manuell in ein
 Journal einträgst.
+
+**Google Play (Android vitals):** Unabhängig von unserem Code erfassen Google Play und
+das Android-System auf Geräten, auf denen in den Android- bzw. Google-Einstellungen das
+Teilen von Nutzungs- und Diagnosedaten mit Google eingeschaltet ist, technische
+Stabilitätsdaten zu Apps (z. B. Abstürze, nicht reagierende App, Fehlerstelle im
+Programmcode, Gerätemodell, Android-Version). Google stellt uns diese Daten in der Play
+Console nur als zusammengefasste Statistik und technische Fehlerberichte zur Verfügung
+(«Android vitals») — ohne deinen Namen, ohne dein Google-Konto und ohne Inhalte, die du
+in der App erfasst. Google verarbeitet diese Daten in eigener Verantwortung nach seiner
+[Datenschutzerklärung](https://policies.google.com/privacy). Du kannst das Teilen in den
+Android- bzw. Google-Einstellungen unter «Nutzungs- und Diagnosedaten» abschalten.
 
 **Google-Bibliotheken:** Die für die Texterkennung genutzte Google-Bibliothek
 ML Kit und die Google-Play-Billing-Bibliothek für das Abo enthalten eine
@@ -411,10 +514,11 @@ darüber technische Diagnose- und Nutzungsmetadaten an Google senden
 (Geräteinformationen, App-Paketname und -version, eine
 installationsbezogene Kennung, Performance-Kennzahlen und Fehlercodes —
 keine Bild- oder Textinhalte). ML Kit würde diese Daten auf zwei Wegen an Google melden: unmittelbar aus
-der App und über die Google-Play-Dienste auf deinem Gerät, die solche
+der App (diesen Weg nutzt auch die Diagnose-Komponente der Billing-Bibliothek)
+und über die Google-Play-Dienste auf deinem Gerät, die solche
 Meldungen unter ihrer eigenen Kennung weiterleiten. **Beide Wege haben wir
-in der App unterbunden:** den ersten, indem die Übertragungskomponente kein
-Ziel mehr hat und die Daten verwirft, bevor sie gespeichert oder gesendet
+in der App unterbunden:** den ersten — für beide Bibliotheken —, indem die
+Übertragungskomponente kein Ziel mehr hat und die Daten verwirft, bevor sie gespeichert oder gesendet
 werden; den zweiten, indem der Meldeaufruf beim Bau der App entfernt wird.
 Dass beides wirkt, prüfen wir bei jeder Aktualisierung dieser Bibliotheken
 am fertigen App-Paket. Was bleibt, ist die in Abschnitt 4.1 genannte lokale
@@ -453,8 +557,13 @@ oder Marketingzwecken.
 
 **Unsere eigenen Verarbeitungen:** Einsicht in die Bestell- und Abo-Angaben
 in der Google Play Console (Rückerstattungen, Widerrufe, Buchhaltung) und
-Prüfung deines Abo-Status in der App (Abschnitte 4.6, 9) und Beantwortung deiner Support-Anfragen, wenn du uns
-per E-Mail schreibst. Weitere Zwecke gibt es nicht.
+Prüfung deines Abo-Status in der App (Abschnitte 4.6, 9); die Beantwortung deiner Support-Anfragen, wenn du uns
+per E-Mail schreibst; die Beantwortung öffentlicher Bewertungen im Google Play Store über die dort
+vorgesehene Antwortfunktion (wir sehen dabei deinen öffentlichen Anzeigenamen, deine Sternebewertung, deinen Text und das Datum sowie die technischen Angaben, die Google dazu in der Play Console anzeigt, z. B. Gerätemodell, Android- und App-Version und Sprache);
+zudem die Fehlerbehebung anhand der technischen Fehlerberichte, die uns Google in der
+Play Console bereitstellt («Android vitals»), wenn du das Teilen von Nutzungs- und Diagnosedaten in den
+Einstellungen deines Geräts erlaubt hast (Abschnitt 5); sie enthalten für uns keine Personendaten. Weitere
+Zwecke gibt es nicht.
 
 ## 8. Rechtsgrundlage und der Bildschirm beim ersten Start
 
@@ -471,9 +580,10 @@ Datenschutzerklärung und die Nutzungsbedingungen verlinkt. Er enthält zwei
 Kästchen:
 
 - Du bestätigst, dass du verstanden hast, dass deine Gesundheitsdaten
-  ausschliesslich auf diesem Gerät liegen und ohne PIN und Backup
-  unwiederbringlich verloren sind (der Bildschirm erklärt dazu auch, dass
-  wir die PIN nicht zurücksetzen können).
+  ausschliesslich auf diesem Gerät liegen und unwiederbringlich verloren sein
+  können, wenn du deine PIN vergisst oder kein Backup hast (der Bildschirm
+  erklärt dazu auch, dass wir deine Daten in keinem Fall wiederherstellen
+  können).
 - Du akzeptierst die Nutzungsbedingungen, nimmst diese Datenschutzerklärung
   zur Kenntnis und bestätigst, dass du mindestens 18 Jahre alt bist.
 
@@ -500,8 +610,12 @@ Absatz):**
   Abo-Abwicklung selbst führt Google durch (Abschnitt 9). Support-Anfragen,
   einschliesslich Widerrufserklärungen per E-Mail, verarbeiten wir zur
   Beantwortung bzw. Abwicklung deiner Anfrage. Rechtsgrundlage ist
-  jeweils **Art. 6 Abs. 1 lit. b DSGVO**. Eine Ausnahme davon ist die
-  zehnjährige Aufbewahrung der Auszahlungs- und Umsatzberichte für die
+  jeweils **Art. 6 Abs. 1 lit. b DSGVO**. Öffentliche Bewertungen im Google
+  Play Store beantworten wir gestützt auf unser berechtigtes Interesse, auf
+  öffentliche Rückmeldungen zu antworten (**Art. 6 Abs. 1 lit. f DSGVO**).
+  Gesundheitsangaben, die du in einer Bewertung selbst öffentlich machst,
+  verarbeiten wir nur zur Beantwortung (Art. 9 Abs. 2 lit. e DSGVO).
+  Eine Ausnahme von lit. b ist auch die zehnjährige Aufbewahrung der Auszahlungs- und Umsatzberichte für die
   Buchhaltung (Abschnitt 11): Sie dauert über das Vertragsende hinaus an
   und lässt sich deshalb nicht auf lit. b stützen. Wir stützen sie auf unser
   berechtigtes Interesse, die Aufbewahrungspflicht des Schweizer
@@ -514,9 +628,11 @@ Absatz):**
   stützen wir die Aufbewahrung von Widerrufserklärungen, die uns per E-Mail
   erreichen, über das Vertragsende hinaus (Abschnitt 11). Weitere eigene
   Verarbeitungen führen wir
-  nicht durch (zu den Google-Bibliotheken siehe Abschnitt 5). Eine Einwilligung nach Art. 9 Abs. 2
-  lit. a DSGVO ist nicht erforderlich, weil wir keine besonderen Kategorien
-  personenbezogener Daten verarbeiten. Schreibst du uns in einer
+  nicht durch (zu den Google-Bibliotheken und zu den Fehlerberichten von Google (Android vitals), die für
+  uns keine Personendaten enthalten, siehe Abschnitte 5 und 7). Eine Einwilligung nach Art. 9 Abs. 2
+  lit. a DSGVO ist für deine Einträge in der App nicht erforderlich, weil wir
+  sie nicht verarbeiten (Abschnitt 2); zu Gesundheitsangaben in einer
+  Bewertung siehe oben. Schreibst du uns in einer
   Support-Anfrage freiwillig Gesundheitsangaben, verarbeiten wir sie allein
   zur Beantwortung, gestützt auf deine damit ausdrücklich erklärte
   Einwilligung (Art. 9 Abs. 2 lit. a DSGVO), und löschen sie danach. Diese
@@ -530,7 +646,7 @@ Absatz):**
   DSG). Das ist bei den genannten Verarbeitungen der Fall.
 - **Musst du uns Daten bereitstellen, und was passiert sonst?** Für die
   Nutzung der App musst du uns keinerlei Daten bereitstellen — es gibt
-  weder ein Konto noch eine Registrierung, und deine Einträge erreichen uns
+  weder ein Konto bei uns noch eine Registrierung, und deine Einträge erreichen uns
   ohnehin nie (Abschnitt 2). Bestellangaben entstehen nur dann, wenn du ein
   Abo abschliesst; sie fallen im Kaufvorgang bei Google Play an und sind für
   dessen Abwicklung erforderlich (Abschnitt 9). Eine Support-Anfrage an uns
@@ -548,8 +664,9 @@ Abschnitt 15.
   Klein- und Überseegebieten nach Googles Länderliste (z. B. Monaco,
   Gibraltar) Verkäuferin des Abos, in der Schweiz und den übrigen Ländern
   Zahlungsabwicklerin als
-  unsere Vertreterin; Google Play selbst betreibt **Google Ireland
-  Limited**. Erhält den Kaufstatus und den Google-Kontobezug
+  unsere Vertreterin. Betreiberin von Google Play selbst ist für Nutzer:innen im
+  EWR und in der Schweiz **Google Ireland Limited**, in den übrigen Ländern
+  (einschliesslich Vereinigtes Königreich) **Google LLC**. Erhält den Kaufstatus und den Google-Kontobezug
   für die Zahlungsabwicklung (keine Gesundheitsdaten) — Rolle: eigenständig
   Verantwortlicher (kein Auftragsbearbeiter nach Art. 9 DSG bzw. kein
   Auftragsverarbeiter nach Art. 28 DSGVO); Google verarbeitet diese Daten
@@ -560,9 +677,9 @@ Abschnitt 15.
   dafür nötigen Angaben (Bestellnummer, Datum, Name, soweit genannt) an
   Google Commerce Limited weiter oder veranlassen die Erstattung in der Play
   Console.
-- **Health Connect** (Android-Systemdienst) — erhält keine Daten von uns;
-  im Gegenteil: liefert uns Daten, rein lokal auf dem Gerät — Rolle: kein
-  Datenempfänger im rechtlichen Sinn.
+- **Health Connect** (Android-Systemdienst) — erhält keine Daten von der
+  App; im Gegenteil: liefert der App Daten, rein lokal auf deinem Gerät —
+  Rolle: kein Datenempfänger im rechtlichen Sinn.
 - **ML Kit (Texterkennung)** — erhält keine Nutzerinhalte; die
   Texterkennung läuft auf dem Gerät, und beide Übertragungswege für
   Diagnose-Metadaten sind in der App unterbunden (Abschnitt 5) — Rolle:
@@ -572,9 +689,14 @@ Abschnitt 15.
   Support-Anfragen, die du uns schreibst; Google verarbeitet sie dabei nach
   seinen eigenen Nutzungs- und Datenschutzbedingungen; Übermittlung in die
   USA nach Abschnitt 10.
+- **Google Play (Bewertungen)** — Google betreibt die Bewertungsfunktion
+  (im EWR und in der Schweiz **Google Ireland Limited**, in den übrigen Ländern
+  einschliesslich Vereinigtes Königreich **Google LLC**); unsere Antwort auf deine Bewertung veröffentlicht
+  Google öffentlich im Store — Rolle: eigenständig Verantwortlicher.
 
 Ausser den oben genannten, eng begrenzten Rollen von Google (Abo-Abwicklung,
-E-Mail-Dienst für Support-Anfragen) geben wir **keine** Daten an Dritte
+E-Mail-Dienst für Support-Anfragen, Veröffentlichung unserer Antworten auf
+Store-Bewertungen) geben wir **keine** Daten an Dritte
 weiter — bei uns gibt es keine eigene Infrastruktur, über die das technisch
 möglich wäre.
 
@@ -583,7 +705,8 @@ möglich wäre.
 Da praktisch keine Datenübermittlung an uns oder Dritte stattfindet, sind
 die Bestimmungen zur grenzüberschreitenden Bekanntgabe (Art. 16 f. DSG;
 Kapitel V DSGVO) grösstenteils nicht einschlägig. Ausnahmen: Support-E-Mails an unsere Gmail-Adresse (Abschnitt 9) und die im
-Rahmen der Kaufabwicklung an Google übermittelten Zahlungsbezugsdaten.
+Rahmen der Kaufabwicklung an Google übermittelten Zahlungsbezugsdaten sowie unsere
+Antworten auf Store-Bewertungen in Google Play.
 Diese Daten können von Google in die USA übermittelt werden.
 
 **Schweiz:** Hier ist der Kaufvertrag über das Abo mit uns geschlossen;
@@ -600,8 +723,8 @@ DSG).
 Königreich und in den zugehörigen Klein- und Überseegebieten nach Googles
 Länderliste ist **Google Commerce Limited** (Irland)
 Verkäuferin des Abos. Sie wickelt Kauf, Zahlung, Rechnung und
-Rückerstattung als eigenständige Verantwortliche ab; Google Play selbst
-betreibt **Google Ireland Limited**. Der Vertrag über die Nutzung der App
+Rückerstattung als eigenständige Verantwortliche ab; Betreiberin von Google Play selbst ist
+im EWR **Google Ireland Limited**, im Vereinigten Königreich **Google LLC**. Der Vertrag über die Nutzung der App
 besteht mit uns. Soweit
 Daten an Google LLC in die
 USA weiterübermittelt werden, stützt sich Google nach eigenen Angaben in
@@ -614,8 +737,8 @@ als Rückfalloption.
 Die Übermittlung liegt in Googles eigener Verantwortung als unabhängiger
 Verantwortlicher; Einzelheiten stehen in Googles eigener
 Datenschutzerklärung.
-Auch Support-E-Mails an unsere Gmail-Adresse werden von Google (USA)
-gespeichert und übermittelt; dafür gelten dieselben Übermittlungsgrundlagen
+Auch Support-E-Mails an unsere Gmail-Adresse und unsere Antworten auf
+Store-Bewertungen werden von Google (USA) gespeichert und übermittelt; dafür gelten dieselben Übermittlungsgrundlagen
 (Swiss-U.S. Data Privacy Framework, EU-U.S. Data Privacy Framework bzw. für
 das Vereinigte Königreich dessen UK-Erweiterung).
 
@@ -639,6 +762,10 @@ Kauf- und Abodaten in der Google Play Console
 unterliegen den Aufbewahrungsregeln von Google Play. Auszahlungs- und
 Umsatzberichte aus der Play Console bewahren wir für die Buchhaltung zehn
 Jahre auf (Art. 958f OR); darüber hinaus legen wir keine eigene Kopie an.
+Unsere Antworten auf Store-Bewertungen bleiben im Google Play Store
+sichtbar, solange deine Bewertung dort veröffentlicht ist; eine eigene Kopie
+legen wir nicht an. Widersprichst du (Abschnitt 15), entfernen wir unsere
+Antwort.
 
 **Ausnahme Papierkorb:** Bereits von dir gelöschte, aber noch nicht
 endgültig entfernte Einträge liegen im Papierkorb und werden dort
@@ -663,7 +790,8 @@ nicht Verantwortlicher sind (Abschnitt 2):
 
 - Verschlüsselte Datenbank (AES-256), deren Schlüssel über eine aus deiner
   PIN abgeleitete Hülle geschützt ist — siehe Abschnitt 4.1.
-- Android Keystore für die optionale biometrische Absicherung.
+- Android Keystore für den optionalen biometrischen Zugangsweg (zweite
+  Schlüsselhülle, siehe Abschnitt 4.1).
 - Backups als ZIP-Archiv mit einzeln verschlüsselten Bestandteilen, nur auf
   deinen ausdrücklichen Wunsch erstellt (siehe Abschnitt 4.5).
 - Auf Systemebene deaktivierte automatische Android-Backups und
@@ -703,8 +831,9 @@ Vorfall bei dieser Architektur unwahrscheinlich. Unabhängig davon
 informieren wir dich über einen Hinweis in der App (mit dem nächsten
 App-Update) und über den Store-Eintrag, wenn wir von
 einer Schwachstelle in der Verschlüsselung der App erfahren, die deine lokal
-gespeicherten Einträge betrifft — auch ohne gesetzliche Meldepflicht, weil
-wir für diese Einträge nicht Verantwortlicher sind (Abschnitt 2). Sollte eine Verletzung des Schutzes von Daten auftreten,
+gespeicherten Einträge betrifft — freiwillig, denn eine gesetzliche
+Meldepflicht besteht dafür nicht, weil wir für diese Einträge nicht
+Verantwortlicher sind (Abschnitt 2). Sollte eine Verletzung des Schutzes von Daten auftreten,
 für die wir verantwortlich sind:
 
 - **EU:** Ist ein Risiko für deine Rechte und Freiheiten wahrscheinlich,
@@ -719,10 +848,13 @@ für die wir verantwortlich sind:
   wenn das zu deinem Schutz erforderlich ist oder wenn der EDÖB es verlangt
   (**Art. 24 Abs. 4 DSG**).
 - **USA:** Nach der FTC Health Breach Notification Rule (16 CFR Part 318)
-  informieren wir bei einer "eligible breach" ungesicherter Daten eines
-  "Personal Health Record" die FTC sowie die betroffenen Personen — siehe
-  Abschnitt 19 für die Einordnung als PHR-Anbieterin und die dort
-  beschriebene Ausnahme für verschlüsselt ("gesichert") gespeicherte Daten.
+  informieren wir bei einer "breach of security" (unbefugte Erlangung oder Offenlegung)
+  ungesicherter "PHR identifiable health information" die FTC sowie die
+  betroffenen Personen; fehlen uns Kontaktangaben, benachrichtigen wir
+  ersatzweise über einen gut sichtbaren Hinweis auf unserer Website während
+  90 Tagen — siehe Abschnitt 19 für die Einordnung als PHR-Anbieterin und
+  die dort beschriebene Ausnahme für verschlüsselt ("gesichert")
+  gespeicherte Daten.
 - **Kanada:** Entsprechendes gilt nach PIPEDA (Meldepflicht bei "real risk
   of significant harm") gegenüber dem Office of the Privacy Commissioner of
   Canada (OPC) sowie den betroffenen Personen, und nach der Québecer Loi 25
@@ -789,21 +921,29 @@ wir keinen Zugriff darauf haben, übst du deine Rechte an diesen Einträgen
 schlicht nichts von ihnen, worüber wir für dich verfügen könnten. Die
 nachfolgenden Gesetzesartikel gelten deshalb im rechtlichen Sinn für die
 wenigen Daten, die wir selbst verarbeiten (Abschnitt 2, zweiter Absatz:
-Abo-/Kaufdaten, Support-Anfragen); für deine Einträge stehen dir die
+Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, Antworten auf Store-Bewertungen); für
+deine Einträge stehen dir die
 entsprechenden Funktionen der App unabhängig davon jederzeit zur
-Verfügung. Bei Abo-/Kaufdaten und Support-Anfragen wende dich an
+Verfügung. Bei Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen und Antworten auf
+Store-Bewertungen wende dich an
 contact.pocketsana@gmail.com.
 
 - **Auskunft** — Alle Journale sind jederzeit einsehbar — Art. 25 DSG
   (Schweiz); Art. 15 DSGVO (EU).
 - **Berichtigung** — Alle Einträge sind jederzeit editierbar; Ausnahmen:
   Bei aus Health Connect importierten Stundenwerten sind Datum und Uhrzeit
-  fest, importierte Schlafnächte lassen sich nur löschen (Abschnitt 4.3) —
-  Art. 32 Abs. 1 DSG (Schweiz); Art. 16 DSGVO (EU).
+  fest, importierte Schlafnächte lassen sich nur löschen (Abschnitt 4.3).
+  Wundfotos lassen sich nur hinzufügen und löschen. Erfasste Einnahmen im
+  Einnahmeprotokoll lassen sich löschen und neu erfassen, aber nicht
+  bearbeiten — Art. 32 Abs. 1 DSG (Schweiz); Art. 16 DSGVO (EU).
 - **Löschung** — in der App auf mehreren Wegen (siehe unten) — Art. 32
   Abs. 2 lit. c DSG (Schweiz); Art. 17 DSGVO (EU).
   - Einzelne Einträge: Papierkorb (Wiederherstellen/endgültig löschen) oder
-    Massenlöschung nach Zeitraum in den Einstellungen. Papierkorb-Einträge
+    die Funktion «Alte Einträge aufräumen» in den Einstellungen, die ältere
+    Einträge gesammelt in den Papierkorb verschiebt (ausgenommen sind
+    Medikamente, Patientenverfügungen, Apparaturen/Katheter, Hilfsmittel,
+    Vorsorge-Einträge mit eingetragener Fälligkeit und laufende
+    Aufenthalte; sie lassen sich einzeln löschen). Papierkorb-Einträge
     werden dort automatisch endgültig gelöscht, sobald du die App nach
     Ablauf von 30 Tagen seit dem Löschen das nächste Mal entsperrst oder den
     Papierkorb öffnest. Vorher wird nichts endgültig entfernt; einen
@@ -814,14 +954,18 @@ contact.pocketsana@gmail.com.
     im Papierkorb gilt anschliessend dieselbe weitere 30-Tage-Frist.
   - Ein einzelnes Profil: im Bearbeiten-Bildschirm des Profils über "Profil
     löschen". Dabei werden seine Journaleinträge, Dokumente und das
-    Profilbild sofort und endgültig gelöscht, ohne Papierkorb-Frist. Das
+    Profilbild sofort und endgültig gelöscht, ohne Papierkorb-Frist; auch
+    seine je Profil gespeicherten Anzeige-Einstellungen (etwa Trinkziel und
+    gemerkte Filter) werden entfernt. Das
     letzte verbleibende Profil kann in der App nicht gelöscht werden.
   - Sämtliche Daten: siehe "Löschung sämtlicher Daten" unten.
 - **Einschränkung** — Deaktivieren einzelner Funktionen (z. B.
-  Health-Connect-Anbindung trennen) — Art. 18 DSGVO (EU; kein direktes
-  Schweizer Pendant).
+  die automatische Health-Connect-Aktualisierung in den Einstellungen
+  ausschalten oder die Leseberechtigungen in den Health-Connect-Einstellungen
+  deines Geräts entziehen; bereits übernommene Werte bleiben gespeichert, bis
+  du sie löschst) — Art. 18 DSGVO (EU; kein direktes Schweizer Pendant).
 - **Datenübertragbarkeit** — Backup-Export (siehe Abschnitt 4.5) oder
-  PDF-Exporte (Notfallausweis, Terminexport/Arztzusammenfassung) — Art. 28
+  PDF-Exporte (Notfallausweis, Arzttermin-Export) — Art. 28
   DSG (Schweiz); Art. 20 DSGVO (EU).
 - **Beenden der Nutzung** — Für deine Einträge hast du uns keine Einwilligung
   erteilt (Abschnitt 8); dort gibt es also nichts zu widerrufen. Du beendest die Nutzung
@@ -849,19 +993,29 @@ contact.pocketsana@gmail.com.
   Dieser Weg erscheint **nur**, wenn sich die App nicht mehr entsperren
   lässt — etwa weil die Schlüsseldatei oder die Datenbank beschädigt ist.
   Er ist ein Ausweg für diesen Fehlerfall, kein regulärer Weg zum Löschen.
-  Er löscht die Datenbank, die Schlüsseldateien, alle Dokumente und Fotos. Den
+  Er löscht die Datenbank, die Schlüsseldateien, alle Dokumente und Fotos.
+  Dabei werden auch alle geplanten Medikamenten- und Terminerinnerungen sowie
+  alle angezeigten Benachrichtigungen der App entfernt; die Backup-Erinnerung
+  startet erst nach der erneuten Einrichtung wieder. Den
   unverschlüsselten Einstellungsspeicher (Abschnitt 4.1) rührt das
-  Zurücksetzen dagegen nicht an; bis zur Deinstallation bleiben deshalb
+  Zurücksetzen dagegen nicht an – ausgenommen die Zuordnung für den
+  Health-Connect-Import (Zielprofil, automatischer Import, Import-Zeitpunkte
+  und -Zusammenfassung), der Vermerk, dass die Backup-Einführung
+  abgeschlossen ist (sie erscheint bei der neuen Einrichtung wieder), der
+  Zeitpunkt des letzten Backups, die Register der geplanten Erinnerungen sowie
+  die je Profil gespeicherten Anzeige-Einstellungen (Trinkziel, angezeigte
+  Vitalwert-Arten, gemerkte Zeitraum- und Diagrammfilter, auf- oder
+  zugeklappte Listen, Zeitspanne der Sportdaten);
+  bis zur Deinstallation bleiben deshalb
   technische Einstellungen und Anzeigemerkposten erhalten, unter anderem:
   Zeitpunkt und Textfassung deiner Bestätigung beim ersten Start sowie eine
-  allfällige Ablehnung einer geänderten Fassung (Abschnitt 8), die Merkposten für den
+  allfällige Ablehnung einer geänderten Fassung (Abschnitt 8), deine Zustimmung zum
   Health-Connect-Import, die gewählte Sprache, die Schriftgrösse (falls fest
   gewählt), die Option "Diskrete Erinnerungen", die
   Akzentfarbe, die Zeit bis zur automatischen Sperre, das Intervall der
-  Backup-Erinnerung und der Zeitpunkt des letzten Backups sowie die in
-  Abschnitt 4.1 genannten Komfort-Einstellungen (ausgeblendete Journale,
-  angezeigte Vitalwert-Arten, voreingestellte Einnahmezeiten,
-  Blutzucker-Einheit, Trinkziel, gemerkte Zeitraum- und Diagrammfilter).
+  Backup-Erinnerung sowie die in
+  Abschnitt 4.1 genannten übrigen Komfort-Einstellungen (ausgeblendete
+  Journale, voreingestellte Einnahmezeiten, Blutzucker-Einheit).
   Diese Aufzählung ist nicht abschliessend.
   Journaleinträge, Messwerte, Dokumente und Fotos sind nicht darunter.
   Ebenfalls nicht gelöscht werden der zwischengespeicherte Abo-Status und
@@ -899,7 +1053,7 @@ Anzeigen gegen private Verantwortliche wie uns nur bei Verdacht auf
 systematische Verstösse von einigem Gewicht — anders als eine
 EU-Aufsichtsbehörde nach Art. 77 DSGVO besteht **keine Pflicht**, eine
 einzelne individuelle Beschwerde zu bearbeiten oder zu entscheiden. Der
-eigentliche individuelle Rechtsweg gegen uns als Privatperson ist die
+eigentliche individuelle Rechtsweg gegen uns als private Verantwortliche ist die
 **Zivilklage** nach Art. 32 DSG (siehe Berichtigung/Löschung oben).
 
 Ein **Recht auf keine ausschliesslich automatisierte Entscheidung** ist
@@ -909,15 +1063,17 @@ automatisierten Einzelentscheidung): Die App trifft keine automatisierten
 Einzelfallentscheidungen mit Rechtswirkung für dich — sie zeigt deine
 eigenen Eingaben und die von dir freigegebenen, aus Health Connect
 importierten Werte an und fasst sie allenfalls rechnerisch zusammen
-(Durchschnitte, Minimum/Maximum, Stundenmittelwerte, Zähler, BMI), ohne sie
+(Durchschnitte, Minimum/Maximum, Stundenmittelwerte, Zähler und
+Prozentanteile, BMI; vollständige Liste in Abschnitt 4.1), ohne sie
 medizinisch zu bewerten (siehe Abschnitte 4.1, 4.3 und 7).
 
 Ein **Widerspruchsrecht** (Art. 21 DSGVO) gilt nur für Verarbeitungen auf
 Basis eines berechtigten Interesses oder für Direktwerbung. Direktwerbung
 betreiben wir nicht. Auf ein berechtigtes Interesse stützen wir allein die
-zehnjährige Aufbewahrung der Buchhaltungsunterlagen und die Aufbewahrung von
+zehnjährige Aufbewahrung der Buchhaltungsunterlagen, die Aufbewahrung von
 Widerrufserklärungen als Nachweis (Abschnitt 8 in Verbindung mit Abschnitt
-11). Dagegen steht dir das **Widerspruchsrecht
+11) und die Beantwortung öffentlicher Bewertungen im Store (Abschnitt 8).
+Dagegen steht dir das **Widerspruchsrecht
 nach Art. 21 DSGVO** zu. Wir prüfen deinen Widerspruch im Einzelfall; weil
 uns das Schweizer Buchführungsrecht (Art. 958f OR) die Aufbewahrung der
 Buchhaltung zwingend vorschreibt und Widerrufserklärungen der
@@ -942,9 +1098,10 @@ Datenbearbeitung durch uns kannst du an den Eidgenössischen Datenschutz- und
 Öffentlichkeitsbeauftragten (EDÖB) richten: [edoeb.admin.ch](https://www.edoeb.admin.ch).
 
 Eine Datenschutz-Folgenabschätzung (Art. 22 DSG) ist für unsere Bearbeitungen
-nicht erforderlich, weil wir deine Gesundheitsdaten nicht bearbeiten und die
+nicht erforderlich, weil wir deine Einträge in der App nicht bearbeiten und die
 verbleibenden Bearbeitungen (Abo-/Kaufdaten, Support-Anfragen,
-Widerrufserklärungen) kein hohes
+Widerrufserklärungen, Antworten auf Store-Bewertungen; Gesundheitsangaben
+darin nur vereinzelt und allein zur Beantwortung, Abschnitt 8) kein hohes
 Risiko für deine Persönlichkeit mit sich bringen. Ein Verzeichnis der
 Bearbeitungstätigkeiten (Art. 12 DSG) führen wir für diese verbleibenden
 Bearbeitungen (Abschnitt 17).
@@ -965,7 +1122,9 @@ Bearbeitungen (Abschnitt 17).
   DSGVO). Deine Einträge in der App verarbeiten weder wir noch der Vertreter.
 - **Kein Datenschutzbeauftragter (Art. 37 DSGVO):** Unsere Kerntätigkeit
   besteht nicht in einer umfangreichen Verarbeitung besonderer Kategorien
-  personenbezogener Daten; deine Gesundheitsdaten verarbeiten wir nicht.
+  personenbezogener Daten; deine Einträge in der App verarbeiten wir nicht,
+  Gesundheitsangaben aus Support-Anfragen oder Bewertungen nur vereinzelt zur
+  Beantwortung (Abschnitt 8).
   Ansprechperson für alle Datenschutzfragen ist der in Abschnitt 2 genannte
   Verantwortliche (contact.pocketsana@gmail.com), daneben unser Vertreter in
   der EU.
@@ -975,7 +1134,7 @@ Bearbeitungen (Abschnitt 17).
 - **Verzeichnis der Verarbeitungstätigkeiten (Art. 30 DSGVO):** Wir führen
   ein Verzeichnis unserer Verarbeitungstätigkeiten; es umfasst nur die
   verbleibenden Verarbeitungen (Abo-/Kaufdaten, Support-Anfragen,
-  Widerrufserklärungen). Auch unser Vertreter führt ein Verzeichnis
+  Widerrufserklärungen, Antworten auf Store-Bewertungen). Auch unser Vertreter führt ein Verzeichnis
   dieser Verarbeitungen (Art. 30 Abs. 1 DSGVO).
 - Dir steht das Beschwerderecht bei der für deinen Aufenthaltsort
   zuständigen Datenschutz-Aufsichtsbehörde zu (Art. 77 DSGVO).
@@ -1038,9 +1197,14 @@ Menstruations-/Zyklusdaten und Substanzkonsum-Einträge als "Consumer Health Dat
 weiter Begriff, unabhängig von Unternehmensgrösse oder Umsatz**. Es verlangt
 von Anbietern, die solche Daten **erheben**, eine gesonderte Einwilligung
 vor der Erhebung sowie eine eigenständige
-Consumer-Health-Data-Datenschutzerklärung. Wir erheben
-diese Daten nicht — sie bleiben auf deinem Gerät und erreichen uns nie
-(Abschnitt 2). Da wir deine Daten zudem weder verkaufen noch mit Dritten
+Consumer-Health-Data-Datenschutzerklärung. Wir erheben diese Daten nicht
+aus der App — deine Einträge bleiben auf deinem Gerät und erreichen uns nie
+(Abschnitt 2). Gesundheitsangaben, die du uns freiwillig in einer
+Support-Anfrage schreibst, verarbeiten wir allein zur Beantwortung mit
+deiner Einwilligung und löschen sie danach (Abschnitt 8). Sollten wir die
+App in den USA anbieten, stellen wir dafür zusätzlich eine eigene, kurze
+Consumer-Health-Data-Datenschutzerklärung bereit, die diesen Fall abdeckt.
+Da wir deine Daten zudem weder verkaufen noch mit Dritten
 teilen, sind die verschärften Anforderungen für "Sale"/"Sharing" nicht
 einschlägig; die Transparenzangaben in dieser Erklärung stellen wir
 unabhängig davon bereit. **Betroffene Personen aus
@@ -1052,14 +1216,18 @@ gewährt Auskunfts-, Lösch-, Berichtigungs- und Übertragbarkeitsrechte sowie
 ein Recht, Verkauf/Weitergabe zu untersagen und die Nutzung "sensibler
 personenbezogener Daten" (worunter Gesundheitsdaten fallen) einzuschränken.
 Diese Pflichten treffen nur "Businesses" oberhalb bestimmter Schwellen
-(u. a. Verarbeitung von Daten von ≥100'000 kalifornischen
-Verbraucher:innen/Haushalten pro Jahr, oder Jahresumsatz über einer
-inflationsangepassten Schwelle). Nach aktuellem Stand erreichen wir diese
-Schwellen nicht. Unabhängig davon erfüllen wir die materiellen
-CCPA-Grundsätze bereits (keine Datenweitergabe, jederzeitige
+(Jahresumsatz über einer inflationsangepassten Schwelle, 2025: 26,625 Mio.
+USD; Kauf, Verkauf oder Teilen der Daten von ≥100'000 kalifornischen
+Verbraucher:innen/Haushalten pro Jahr; oder mindestens 50 % des Umsatzes
+aus dem Verkauf oder Teilen von Personendaten). Nach aktuellem Stand
+erreichen wir diese Schwellen nicht. Unabhängig davon erfüllen wir die
+materiellen CCPA-Grundsätze bereits (keine Datenweitergabe, jederzeitige
 Löschung/Auskunft in der App). Vergleichbare, schwellenwertabhängige
-Regelwerke bestehen zusätzlich in Colorado, Connecticut und Virginia; auch
-deren Schwellen erreichen wir nach aktuellem Stand nicht.
+Regelwerke bestehen zusätzlich in Colorado und Virginia; auch deren
+Schwellen erreichen wir nach aktuellem Stand nicht. Für Consumer Health
+Data gelten in Nevada (SB 370) und – für einzelne Pflichten – in
+Connecticut (SB 3) Regeln ohne Grössenschwelle; wir wenden darauf denselben
+Massstab an wie im Washington-Absatz.
 
 **Kalifornien, USA — Confidentiality of Medical Information Act (CMIA):**
 Anders als CCPA/CPRA kennt der CMIA (California Civil Code § 56.06) keine
@@ -1078,14 +1246,15 @@ Kanadas Bundesgesetz **PIPEDA** knüpft nach ständiger Praxis des Office of
 the Privacy Commissioner of Canada an einen "echten und wesentlichen Bezug"
 ("real and substantial connection") zu Kanada an. Ein solcher Bezug entsteht, sobald und soweit die App
 Personen in Kanada über den Google Play Store angeboten wird — eine
-physische Niederlassung in Kanada ist dafür nicht erforderlich. Für Nutzer:innen in der Provinz **Québec** gilt zusätzlich die
+physische Niederlassung in Kanada ist dafür nicht erforderlich. Für Nutzer:innen in der Provinz **Québec** gilt dann zusätzlich die
 **Loi 25**, die ebenfalls unabhängig von einer Niederlassung dort an die
 Verarbeitung von Personendaten von Personen in Québec anknüpft. Deine
 Gesundheitsdaten gelten dabei als "sensible Personendaten"
 ("renseignements personnels sensibles"), für deren Erhebung eine
 ausdrückliche Einwilligung erforderlich wäre. Wir erheben sie nicht — sie
 bleiben auf deinem Gerät (Abschnitt 2); für die wenigen Daten, die wir
-selbst verarbeiten (Abo-/Kaufdaten, Support-Anfragen), gelten die
+selbst verarbeiten (Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, Antworten auf
+Store-Bewertungen), gelten die
 Angaben in Abschnitt 8. Verantwortlich für den Datenschutz nach Loi 25 ist mangels
 anderer Ernennung die Person mit der obersten Entscheidungsgewalt — siehe
 Abschnitt 2 für die Kontaktangabe.
@@ -1094,18 +1263,19 @@ Abschnitt 2 für die Kontaktangabe.
 dich einseitig vorformulierter Vertrag müssen dir die Nutzungsbedingungen
 und diese Datenschutzerklärung, wenn du in Québec ansässig bist, nach der
 *Charte de la langue française* zuerst auf **Französisch** zur Verfügung
-gestellt werden. Eine französische Fassung ist derzeit nicht verfügbar.
+gestellt werden. Eine massgebliche französische Fassung ist derzeit nicht
+verfügbar; die französische Übersetzung dient nur der Information.
 Solange das so ist, bieten wir die App Personen mit Wohnsitz in Québec
 nicht an — siehe die entsprechende Klausel in den Nutzungsbedingungen,
 Teil A.10.
 
 ## 21. Australien, Neuseeland, Singapur: zusätzlich geltende Punkte
 
-**Australien:** Der *Privacy Act 1988* (Cth) mit den 13 Australian Privacy
-Principles (APPs) gilt für uns **vollständig**, weil wir als
-Einzelperson die für kleine Unternehmen
-(Jahresumsatz ≤ AUD 3 Mio.) sonst greifende
-Ausnahme nicht in Anspruch nehmen können: Diese Ausnahme gilt nicht für
+**Australien:** Sobald wir die App in Australien anbieten, gilt der
+*Privacy Act 1988* (Cth) mit den 13 Australian Privacy Principles (APPs)
+für uns **vollständig**: Die für kleine Unternehmen (Jahresumsatz
+≤ AUD 3 Mio.) sonst greifende Ausnahme, unter die wir als Einzelunternehmen
+an sich fielen, können wir nicht in Anspruch nehmen, denn sie gilt nicht für
 Anbieter eines "health service", und die App kann unter diesen weiten
 Begriff fallen (§6FB Privacy Act 1988), weil sie der Dokumentation/Verwaltung
 deiner Gesundheit dient. Wir gehen deshalb vorsorglich davon aus, dass die
@@ -1118,7 +1288,8 @@ der App aus. Beschwerden kannst du an das *Office of the Australian
 Information Commissioner* (OAIC, [oaic.gov.au](https://www.oaic.gov.au))
 richten.
 
-**Neuseeland:** Der *Privacy Act 2020* gilt für uns unabhängig davon, dass
+**Neuseeland:** Sobald wir die App in Neuseeland anbieten, gilt der
+*Privacy Act 2020* für uns unabhängig davon, dass
 wir keine physische Präsenz in Neuseeland haben (Section 4: "carrying on
 business in New Zealand" setzt weder Gewinn noch Entgelt noch einen Sitz vor
 Ort voraus). Der neuseeländische *Health Information Privacy Code 2020* —
@@ -1139,8 +1310,8 @@ Grössenschwelle kennt der PDPA für diese Pflicht nicht.
 
 ## 22. Kinder/Jugendliche
 
-Diese App **richtet sich ausschliesslich an Erwachsene (mindestens 18 Jahre)** und ist nicht
-dafür bestimmt, wissentlich Daten von Kindern unter 13 Jahren zu erheben.
+Diese App **richtet sich ausschliesslich an Erwachsene (mindestens 18 Jahre)**;
+wir erheben wissentlich keine Daten von Kindern unter 13 Jahren.
 Das generelle Mindestalter für die Nutzung der App ergibt sich aus den
 Nutzungsbedingungen, Teil A.4; die 13-Jahre-Grenze hier ist die spezifisch
 US-rechtliche Untergrenze nach dem Kinderschutzgesetz COPPA. **Für das
@@ -1157,8 +1328,8 @@ COPPA erfasst nur Daten, die "from a child" erhoben werden, nicht Daten
 über ein Kind, die ein Erwachsener einträgt. Deshalb gilt zusätzlich:
 **Zusatzprofile haben keine eigenen Zugangsdaten** und sind nicht
 eigenständig durch das Kind selbst einlogg- oder bedienbar — sie sind reine
-Datensätze innerhalb der Installation der erwachsenen Person (ein Konto
-gibt es nicht).
+Datensätze innerhalb der Installation der erwachsenen Person (ein Online-Konto
+bei uns gibt es nicht).
 
 ## 23. Änderungen dieser Erklärung
 

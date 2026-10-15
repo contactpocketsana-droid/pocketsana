@@ -8,15 +8,19 @@ permalink: /impressum
 
 ## Anbieter
 
-Daniel Felbar<br>
+PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar)<br>
 Salamanderweg 1<br>
 7320 Sargans<br>
 Schweiz
 
+UID: CHE-485.068.824<br>
+Handelsregister des Kantons St. Gallen<br>
+Vertretungsberechtigt: Daniel Felbar (Inhaber)
+
 ## Kontakt
 
 E-Mail: [contact.pocketsana@gmail.com](mailto:contact.pocketsana@gmail.com)<br>
-Telefon: [+41 81 304 71 24](tel:+41813047124)
+Telefon: [+41 76 462 67 76](tel:+41764626776)
 
 Rückmeldungen zur Barrierefreiheit der App nehmen wir unter derselben E-Mail-Adresse entgegen.
 
@@ -32,7 +36,7 @@ E-Mail: [info@prodacts.at](mailto:info@prodacts.at)
 
 PocketSana – Meine Gesundheitsdaten<br>
 Paketname: ch.meineakte<br>
-Entwickler bei Google Play: Daniel Felbar
+Entwickler bei Google Play: Daniel Felbar (Inhaber von PocketSana Felbar)
 
 ## Verbraucherschlichtung
 

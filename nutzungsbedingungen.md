@@ -6,7 +6,7 @@ permalink: /nutzungsbedingungen
 
 # Nutzungsbedingungen (AGB) — PocketSana – Meine Gesundheitsdaten
 
-Stand: 24. September 2026
+Stand: 15. Oktober 2026
 
 Diese Nutzungsbedingungen bestehen aus drei Teilen: **Teil A** regelt die
 allgemeine Nutzung der App, **Teil B** die Bedingungen des
@@ -20,15 +20,18 @@ medizinischen Haftungsausschluss.
 ### A.1 Geltungsbereich
 
 Diese Nutzungsbedingungen gelten für die Nutzung der App "PocketSana – Meine
-Gesundheitsdaten" (nachfolgend "die App"), bereitgestellt von Daniel Felbar.
+Gesundheitsdaten" (nachfolgend "die App"), bereitgestellt von PocketSana Felbar
+(Einzelunternehmen, Inhaber Daniel Felbar).
 
 **Anbieter (geografische Anschrift):**
 
-- Daniel Felbar
+- PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar)
 - Salamanderweg 1
 - 7320 Sargans
 - Schweiz
+- Telefon: +41 76 462 67 76
 - E-Mail: contact.pocketsana@gmail.com
+- UID: CHE-485.068.824 (Handelsregister des Kantons St. Gallen)
 
 Vor der ersten Nutzung der App bestätigst du diese Nutzungsbedingungen
 ausdrücklich und nimmst die Datenschutzerklärung zur Kenntnis; beide
@@ -39,14 +42,19 @@ abrufbar.
 
 PocketSana ist ein Werkzeug zur **eigenständigen Dokumentation** von
 Gesundheitsdaten, das vollständig lokal auf deinem Gerät läuft. Für die App
-ist **kein Nutzerkonto bei uns** erforderlich und es existiert kein
-Server, auf dem deine Daten gesichert wären. Das hat direkte Konsequenzen:
+ist **kein Online-Konto bei uns** erforderlich: Profile und PIN richtest du
+nur lokal auf deinem Gerät ein, und es existiert kein Server, auf dem deine
+Daten gesichert wären. Das hat direkte Konsequenzen:
 
 - Es gibt **kein Passwort-Reset** durch uns — wir kennen deine PIN nicht und
   können sie nicht zurücksetzen.
-- **Du selbst bist für dein Backup verantwortlich.** Bei Verlust der PIN und
-  ohne vorhandenes Backup sind deine Daten unwiederbringlich verloren — das
-  ist eine bewusste Konsequenz der lokalen Verschlüsselung, kein Fehler.
+- **Du selbst bist für dein Backup verantwortlich.** Geht dein Gerät verloren,
+  wird die App gelöscht oder werden ihre Daten zurückgesetzt, sind deine Daten
+  ohne Backup unwiederbringlich verloren. Ein Backup ist mit der PIN geschützt,
+  die beim Erstellen galt, und lässt sich nur mit dieser PIN wiederherstellen.
+  Vergisst du deine PIN, hilft dir deshalb auch ein Backup nicht weiter —
+  ausser du kennst die PIN noch, mit der es erstellt wurde. Das ist eine
+  bewusste Konsequenz der lokalen Verschlüsselung, kein Fehler.
 
 Die App ist für den **privaten Gebrauch** bestimmt. Wenn du sie in einem
 beruflichen Umfeld einsetzt (z. B. in der Pflege oder in einer Arztpraxis),
@@ -68,7 +76,7 @@ für dich geltenden Berufs- und Schweigepflichten.
   dir zu vertretenden unberechtigten Verarbeitung entstehen, einschliesslich
   angemessener Kosten der Rechtsverteidigung. **Ein Zusatzprofil für ein Kind darf ausschliesslich von
   dir als Erziehungsberechtigte:r selbst bedient werden** — das Kind selbst
-  darf kein eigenständiger Zugang zu "seinem" Profil erhalten (kein eigenes
+  darf keinen eigenständigen Zugang zu "seinem" Profil erhalten (kein eigenes
   Passwort/eigene Anmeldung). Diese Abgrenzung ist verbindlich und nicht nur
   eine Empfehlung.
 - **Exporte und Backups enthalten auch personenbezogene Daten Dritter**, die
@@ -162,9 +170,9 @@ nach Teil B.1; wir wirken an der Abhilfe mit, weil wir die Leistung liefern.
 Für
 Verbraucher:innen im **Vereinigten Königreich** gelten insoweit die
 Qualitätsrechte des *Consumer Rights Act 2015* (Teil 1, Kapitel 3) für
-digitale Inhalte. Auch diese Einschränkungen gelten nur im Rahmen des
-Vorbehalts in Teil A.10 — zwingende Gewährleistungsrechte deines
-Wohnsitzstaats bleiben unberührt.
+digitale Inhalte. Auch die Einschränkungen im ersten Absatz («wie besehen»,
+«Best Effort») gelten nur im Rahmen des Vorbehalts in Teil A.10 —
+zwingende Gewährleistungsrechte deines Wohnsitzstaats bleiben unberührt.
 
 ### A.8 Was ohne Abo weiterhin möglich ist – und was nicht
 
@@ -199,18 +207,24 @@ in diesen Bedingungen "Lesemodus ohne Abo".
 
 Wir können diese Bedingungen ändern, etwa bei neuen Funktionen oder
 geänderter Rechtslage. Wesentliche, für dich nachteilige Änderungen (z. B.
-Preiserhöhung, Einschränkung des Leistungsumfangs) kündigen wir dir
-**mindestens 30 Tage im Voraus** per In-App-Hinweis an (wir kennen keine
+Einschränkungen des Leistungsumfangs, etwa wenn eine Funktion wegfällt oder
+nur noch mit Abo nutzbar ist; für Preiserhöhungen gilt nicht dieser Absatz,
+sondern ausschliesslich der folgende) kündigen wir dir **mindestens 30 Tage im
+Voraus** mit einem Hinweis in der App an (wir kennen keine
 E-Mail-Adressen unserer Nutzerinnen und Nutzer, ausser du hast uns selbst
 geschrieben); in diesem Fall steht dir für
 ein laufendes Abo ein **Sonderkündigungsrecht** zum Zeitpunkt des
-Inkrafttretens der Änderung zu. Das Datum oben zeigt den Stand der
+Inkrafttretens der Änderung zu; bei einem im Voraus bezahlten Zeitraum
+(z. B. Jahresabo) erstatten wir dir auf Anfrage über Google Play den Anteil,
+der auf die Zeit nach dem Inkrafttreten entfällt. Das Datum oben zeigt den Stand der
 aktuellen Fassung.
 
-**Preiserhöhungen bei einem über Google Play abgeschlossenen Abo:** Eine
-Erhöhung des Abo-Preises wird für dein laufendes Abo nur wirksam, wenn du
-ihr in der Mitteilung bzw. im Ablauf von Google Play ausdrücklich zustimmst.
-Stimmst du nicht zu, endet dein Abo zum Ende des laufenden, bereits
+**Preiserhöhungen bei einem über Google Play abgeschlossenen Abo:** Wir
+erhöhen den Preis für ein laufendes Abo nur mit deiner Zustimmung: Bei Google
+Play wählen wir dafür das Verfahren, bei dem du der Erhöhung in der Mitteilung
+bzw. im Ablauf von Google Play ausdrücklich zustimmen musst, oder wir belassen
+dir den bisherigen Preis. Google Play informiert dich mindestens 30 Tage vor
+einer Preiserhöhung. Stimmst du nicht zu, endet dein Abo zum Ende des laufenden, bereits
 bezahlten Abrechnungszeitraums — deine Daten bleiben nach Teil A.8 erhalten.
 
 Geänderte Bedingungen gelten für dich erst, wenn du sie in der App
@@ -219,11 +233,12 @@ Bestätigungsbildschirm erneut). Dort kannst du auch «Nicht zustimmen (keine
 neuen Einträge)» wählen. Dann gilt für dich die bisherige Fassung weiter: Deine
 bestehenden Einträge bleiben wie im Lesemodus ohne Abo (Teil A.8) les-,
 bearbeit- und exportierbar, und du kannst weiterhin Backups erstellen; neue
-Einträge sind erst möglich, wenn du die geänderte Fassung akzeptierst. Eine
+Einträge sind erst möglich, wenn du die geänderte Fassung akzeptierst — ausser
+während einer laufenden Testphase oder eines laufenden bezahlten Abos. Eine
 laufende Testphase oder ein laufendes bezahltes Abo kannst du wie bisher
-nutzen, solange es ohne Unterbrechung weiterläuft (auch über Verlängerungen
-hinweg). In der App kannst du ein neues Abo erst abschliessen, nachdem du die
-geänderte Fassung akzeptiert hast; schliesst du ein Abo direkt über Google
+nutzen, auch für neue Einträge, solange es ohne Unterbrechung weiterläuft
+(auch über Verlängerungen hinweg). In der App kannst du ein neues Abo erst
+abschliessen, nachdem du die geänderte Fassung akzeptiert hast; schliesst du ein Abo direkt über Google
 Play ab, kannst du es nutzen, für dich gilt aber bis zu deiner Zustimmung die
 bisherige Fassung. Die Zustimmung kannst du jederzeit nachholen — in
 den Einstellungen unter "Rechtliches" oder sobald du einen neuen Eintrag
@@ -251,10 +266,11 @@ entsprechenden nationalen Vorschriften (z. B. § 38 ZPO in Deutschland).
 Diese Einschränkungen gehen der Rechtswahl-/Gerichtsstandsklausel vor, soweit
 zwingendes Recht sie verlangt.
 
-**Sprache:** Diese Bedingungen liegen derzeit nur auf Deutsch vor;
-Übersetzungen können folgen. Die deutsche Fassung bleibt auch dann
-massgeblich, Übersetzungen dienen nur der Verständlichkeit. Für Québec gilt
-die nachfolgende Ausnahme.
+**Sprache:** Massgeblich ist die deutsche Fassung dieser Bedingungen; bei
+Abweichungen geht sie Übersetzungen vor. Übersetzungen in weitere Sprachen
+dienen nur der Information und Verständlichkeit. Zwingende gesetzliche
+Auslegungsregeln zu deinen Gunsten bleiben unberührt. Zu Québec siehe unten
+den Absatz «Kanada, insbesondere Québec».
 
 **Vereinigtes Königreich:** Wir behandeln Verbraucher:innen im UK nach
 denselben Grundsätzen wie EU-/EWR-Verbraucher:innen (zwingendes
@@ -266,8 +282,8 @@ Contracts (Information, Cancellation and Additional Charges) Regulations
 **Kanada, insbesondere Québec:** Wenn du in der Provinz Québec ansässig
 bist, müssen dir diese Nutzungsbedingungen sowie die Datenschutzerklärung
 nach der *Charte de la langue française* **zuerst in französischer Sprache**
-zur Verfügung gestellt werden. Solange keine französische Fassung vorliegt,
-bieten wir die App Personen mit Wohnsitz in Québec nicht an. Zwingende Vorschriften des kanadischen
+zur Verfügung gestellt werden. Solange keine massgebliche französische
+Fassung vorliegt (die französische Übersetzung dient nur der Information), bieten wir die App Personen mit Wohnsitz in Québec nicht an. Zwingende Vorschriften des kanadischen
 Verbraucherrechts, insbesondere zu automatisch verlängerten Verträgen (u. a.
 *Consumer Protection Act* Québec), bleiben vorbehalten.
 
@@ -308,19 +324,21 @@ die App vom Gerät entfernst.
 ### B.1 Abo-Modell
 
 - **Testphase:** Der volle Funktionsumfang ist während der ersten **14 Tage
-  ab der ersten Einrichtung dieser Installation** nutzbar (wird ein Backup
-  wiederhergestellt, läuft die darin gespeicherte, ursprüngliche Testphase
-  weiter; fehlt dieser Eintrag im Backup oder wurde er verändert, gilt die
-  Testphase als abgelaufen. Die Testphase setzt eine richtig gehende
-  Geräteuhr voraus: Liegt ihr Beginn nach der Geräteuhr in der Zukunft, gilt
-  sie ebenfalls als abgelaufen), **ohne dass dafür ein kostenpflichtiger Abo-Vertrag mit Google
-  Play oder uns zustande kommt oder eine Zahlungsmethode hinterlegt wird**.
-  Diese Testphase gewährt die App selbst: Es handelt sich um eine rein
-  lokale Freischaltung, die vollständig offline funktioniert und keine
-  Google-Play-Testphase ist.
+  ab der ersten Einrichtung dieser Installation** nutzbar, **ohne dass dafür
+  ein kostenpflichtiger Abo-Vertrag mit Google Play oder uns zustande kommt
+  oder eine Zahlungsmethode hinterlegt wird**. Diese Testphase gewährt die
+  App selbst: Es handelt sich um eine rein lokale Freischaltung, die
+  vollständig offline funktioniert und keine Google-Play-Testphase ist. Wird
+  ein Backup wiederhergestellt, läuft die darin gespeicherte, ursprüngliche
+  Testphase weiter; fehlt dieser Eintrag im Backup oder wurde er verändert,
+  gilt die Testphase als abgelaufen. Die Testphase setzt zudem eine richtig
+  gehende Geräteuhr voraus: Liegt ihr Beginn nach der Geräteuhr in der
+  Zukunft, gilt sie ebenfalls als abgelaufen.
 - Erst wenn du danach (oder freiwillig früher) den Kauf von PocketSana
   Premium **aktiv über den Google-Play-Kaufdialog abschliesst**, kommt ein
-  kostenpflichtiger Abo-Vertrag zustande. **Wer dabei dein Vertragspartner
+  kostenpflichtiger Abo-Vertrag zustande. Schliesst du den Kauf
+  während der Testphase ab, beginnt die Abrechnung sofort; die restlichen
+  Testtage verfallen. **Wer dabei dein Vertragspartner
   ist, hängt von deinem Land ab:**
   - **EU, EWR (einschliesslich Liechtenstein), Vereinigtes Königreich sowie
     die zugehörigen Klein- und Überseegebiete, für die Google Commerce
@@ -339,15 +357,43 @@ die App vom Gerät entfernst.
     Rückerstattungen über Google Play ab.
   - Der Vertrag über die Nutzung der App selbst, also diese
     Nutzungsbedingungen, besteht in allen Ländern mit uns.
-- Ab dem Kaufabschluss wird das Abo automatisch zum
-  jeweils gültigen Preis kostenpflichtig **monatlich verlängert**, sofern du
-  nicht vorher kündigst. Preis, Abrechnungsintervall und die
+- **Monats- und Jahresabo:** PocketSana Premium gibt es als **Monatsabo**
+  (Abrechnung monatlich) und – nicht in allen Ländern – als **Jahresabo**
+  (Abrechnung jährlich im Voraus). Welche Abos für dich erhältlich sind,
+  zeigen dir die App und der Google-Play-Kaufdialog. Beide Abos schalten
+  dieselben Funktionen frei (Teil A.8).
+- **Verlängerung:** Ab dem Kaufabschluss verlängert sich das Abo automatisch
+  zum jeweils gültigen Preis um den gewählten Abrechnungszeitraum (einen
+  Monat bzw. ein Jahr), solange du es nicht kündigst (zu Preiserhöhungen
+  siehe Teil A.9). Preis, Abrechnungszeitraum und die
   Verlängerungsbedingungen werden dir vor Abschluss im
-  Google-Play-Kaufdialog angezeigt.
+  Google-Play-Kaufdialog angezeigt. Google Play informiert dich vor der
+  Verlängerung eines Jahresabos in der Regel per E-Mail; massgeblich sind
+  die Angaben von Google Play.
+- **Für Verbraucher:innen in Deutschland** gelten beim Jahresabo abweichend
+  davon die Regeln der deutschen Google-Play-Nutzungsbedingungen (derzeit,
+  Stand der Fassung vom 5. November 2025): Nach dem ersten Jahr verlängert sich das Abo auf
+  unbestimmte Zeit; du kannst es dann jederzeit mit sofortiger Wirkung
+  kündigen und erhältst über Google Play eine anteilige Erstattung für die
+  verbleibenden Tage des laufenden Abrechnungszeitraums.
+- **Wechsel zwischen Monats- und Jahresabo:** In der App selbst ist kein
+  Wechsel vorgesehen. Soweit Google Play in der Google-Play-Abo-Verwaltung
+  einen Wechsel anbietet, gilt: Wechselst du vom Monats- zum Jahresabo, wird
+  der Jahrespreis sofort fällig; die bereits bezahlte Restzeit deines
+  Monatsabos rechnet Google Play dir als zusätzliche Laufzeit an. Wechselst
+  du vom Jahres- zum Monatsabo, gilt der Wechsel ab dem Ende des bezahlten
+  Jahres.
+- Massgeblich sind ergänzend die Google-Play-Nutzungsbedingungen deines
+  Landes; zwingende Verbraucherrechte deines Wohnsitzlandes bleiben
+  unberührt.
 - **Kündigung:** jederzeit über die Google-Play-Abo-Verwaltung (Play Store →
   Zahlungen und Abos → Abos), auch direkt aus den Einstellungen der App
   heraus verlinkt, unabhängig davon, wer dein Vertragspartner ist. Eine
-  Kündigung wird zum Ende des laufenden Abrechnungszeitraums wirksam.
+  Kündigung wird zum Ende des laufenden, bereits bezahlten
+  Abrechnungszeitraums wirksam (beim Jahresabo also zum Ende des Abo-Jahres;
+  zur Sonderregel in Deutschland siehe oben). Eine anteilige Erstattung des
+  laufenden Zeitraums erfolgt nur, soweit die Google-Play-Erstattungsrichtlinien
+  oder zwingendes Recht es vorsehen oder Teil A.9 es bestimmt.
 - Zur Konsequenz eines beendeten Abos für deine bereits erfassten Daten
   siehe Teil A.8.
 - **Offline-Gnadenfrist:** Ist die App zeitweise offline und kann den
@@ -415,7 +461,7 @@ Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen
 Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
 des Vertragsschlusses (des tatsächlichen Kaufabschlusses bei Google Play).
 Um dein Widerrufsrecht auszuüben, musst du Google Commerce Limited (c/o
-Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland) **oder** uns (Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 81 304 71 24, contact.pocketsana@gmail.com) mittels einer eindeutigen Erklärung (z. B. per
+Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland) **oder** uns (PocketSana Felbar, Einzelunternehmen, Inhaber Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 76 462 67 76, contact.pocketsana@gmail.com) mittels einer eindeutigen Erklärung (z. B. per
 E-Mail oder über Google Play) über deinen Entschluss, diesen Vertrag zu
 widerrufen, informieren.
 Du kannst dafür das untenstehende Muster-Widerrufsformular verwenden, das
@@ -449,7 +495,7 @@ kann diesen Anteil von der Erstattung abziehen.
 den Vertrag widerrufen willst):
 
 - An Google Commerce Limited, c/o Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland, **oder** an
-  Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 81 304 71 24, contact.pocketsana@gmail.com:
+  PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 76 462 67 76, contact.pocketsana@gmail.com:
 - Hiermit widerrufe ich den von mir abgeschlossenen Vertrag über die
   Erbringung der folgenden Dienstleistung: PocketSana Premium (Abo).
 - Bestellt am: _____
@@ -483,13 +529,13 @@ App hilft dir, deine Gesundheitsdaten übersichtlich festzuhalten — sie
 ersetzt aber **keine ärztliche Beratung, Diagnose oder Behandlung**. Die
 App gibt **keine medizinischen Ratschläge** und **bewertet oder
 interpretiert deine Werte nicht** (keine Referenzbereiche, keine
-Warnstufen, keine Hervorhebung "auffälliger" Werte; ein blosser
+Warnstufen, keine Hervorhebung "auffälliger" Werte). Ein blosser
 Tippfehler-Hinweis bei Eingaben weit ausserhalb des physiologisch
-Möglichen, z. B. einer Sauerstoffsättigung über 100 %, ist keine
+Möglichen (z. B. einer Sauerstoffsättigung über 100 %) ist keine
 medizinische Bewertung; bei Vitalwerten blockiert er das Speichern nicht,
 bei der Körpergrösse im Profil sind nur Werte zwischen 30 und 272 cm
-speicherbar). Sie ist eine reine
-Dokumentationshilfe, kein Diagnosewerkzeug. Einfache Statistiken, die die
+speicherbar. Die App ist eine reine
+Dokumentationshilfe. Einfache Statistiken, die die
 App anzeigt (z. B. Durchschnitt, Minimum/Maximum, Anzahl der
 Medikamenteneinnahmen, Reinalkohol in Gramm, durchschnittliche Zykluslänge,
 BMI), sind reine Rechenzusammenfassungen deiner eigenen Einträge und keine
@@ -521,7 +567,11 @@ Neustart des Geräts und das Erfordernis der Systemberechtigung «Alarme &
 Erinnerungen». Auch eine bereits eingeplante Termin-Erinnerung kann dadurch
 verzögert, unterdrückt oder gar nicht ausgelöst werden.
 Nach einem Neustart des Geräts werden Erinnerungen ebenfalls erst wieder
-ausgelöst, nachdem du PocketSana geöffnet und entsperrt hast.
+ausgelöst, nachdem du PocketSana geöffnet und entsperrt hast. Wechselst du
+die Zeitzone (z. B. auf Reisen), während PocketSana gesperrt ist, bleiben
+bereits eingeplante Medikamenten-Erinnerungen auf der Uhrzeit der bisherigen Zeitzone, bis du
+PocketSana wieder entsperrst; sofern Mitteilungen erlaubt sind, weist dich
+die App mit einer Mitteilung (ohne Medikamentennamen) darauf hin.
 
 Wir setzen die technisch verfügbaren Mittel ein (u. a. exakte Alarme über
 die entsprechende Systemberechtigung). Ohne die Systemberechtigung «Alarme
@@ -536,9 +586,11 @@ Dosierhilfe mit eigenem Alarm oder die Unterstützung einer weiteren
 Person). Für Schäden aus einer verspäteten, ausgebliebenen oder fehlerhaft
 dargestellten Erinnerung haften wir nicht, soweit die Ursache im Verhalten
 des Betriebssystems oder in Geräteeinstellungen liegt, die ausserhalb
-unseres Einflussbereichs liegen. Unberührt bleiben die Haftung für eigenes
-vorsätzliches oder grobfahrlässiges Verhalten sowie die zwingende Haftung
-für Personen- und Gesundheitsschäden nach geltendem Recht (siehe Teil A.6).
+unseres Einflussbereichs liegen, oder darin, dass du die App länger als
+sieben Tage nicht entsperrt hast, sodass — wie in diesem Teil C beschrieben —
+keine weiteren Medikamenten-Erinnerungen eingeplant waren. Unberührt bleiben
+die Haftung für eigenes vorsätzliches oder grobfahrlässiges Verhalten sowie
+die Haftung für Personen- und Gesundheitsschäden nach Teil A.6.
 
 **Bei gesundheitlichen Beschwerden oder in einem Notfall** wende dich
 immer an eine Ärztin, einen Arzt oder die reguläre Notrufnummer deines
@@ -546,9 +598,9 @@ Landes — **nicht an diese App**. Die App ersetzt in keinem Fall den
 Notruf.
 
 Umfang und Grenzen unserer Haftung regeln Teil A.6 und dieser Teil C
-(Vorsatz, grobe Fahrlässigkeit, die Verletzung wesentlicher
+(für Vorsatz, grobe Fahrlässigkeit, die Verletzung wesentlicher
 Vertragspflichten sowie von uns zu vertretende Personen- und
-Gesundheitsschäden bleiben nach Teil A.6 haftbar).
+Gesundheitsschäden haften wir nach Teil A.6 weiterhin).
 
 Dieser Hinweis entspricht inhaltlich dem Warnhinweis, den du beim ersten
 App-Start bestätigst, ist aber ausführlicher; für den Umfang des

@@ -6,14 +6,15 @@ permalink: /website-datenschutz
 
 # Datenschutz dieser Website
 
-Stand: 24. September 2026
+Stand: 14. Oktober 2026
 
 Dieser Hinweis gilt nur für diese Website. Für die App gilt die
 [Datenschutzerklärung der App]({{ '/datenschutz' | relative_url }}).
 
 ## Verantwortlicher
 
-Daniel Felbar, Salamanderweg 1, 7320 Sargans, Schweiz,
+PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1,
+7320 Sargans, Schweiz, UID CHE-485.068.824,
 [contact.pocketsana@gmail.com](mailto:contact.pocketsana@gmail.com).
 Vertreter in der EU: Stefan Felbar, Hasenfeldstrasse 70, 6890 Lustenau, Österreich,
 [info@prodacts.at](mailto:info@prodacts.at).

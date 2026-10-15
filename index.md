@@ -8,13 +8,13 @@ permalink: /
 # Deine Gesundheitsdaten. Nur auf deinem Gerät.
 
 <p class="lead">PocketSana ist ein Gesundheitstagebuch für Android. Vitalwerte, Medikamente,
-Termine, Dokumente und Journale bleiben verschlüsselt auf deinem Handy – ohne Konto,
+Termine, Dokumente und Journale bleiben verschlüsselt auf deinem Handy – ohne Konto bei uns,
 ohne Server.</p>
 
 <ul class="facts">
   <li><strong>Lokal und verschlüsselt</strong><span>Alle Einträge liegen in einer verschlüsselten Datenbank auf deinem Gerät, geschützt durch deine PIN. Wir erhalten sie zu keinem Zeitpunkt.</span></li>
-  <li><strong>Kein Konto, keine Werbung, kein Tracking</strong><span>Die einzige Internetverbindung, die die App selbst auslöst, ist die Abo-Prüfung über Google Play.</span></li>
-  <li><strong>14 Tage kostenlos</strong><span>Danach brauchst du für neue Einträge ein monatliches Abo über Google Play. Deine bestehenden Einträge bleiben immer les- und exportierbar.</span></li>
+  <li><strong>Kein Konto bei uns, keine Werbung, kein Tracking</strong><span>Die einzige Internetverbindung, die die App selbst auslöst, ist die Abo-Prüfung über Google Play.</span></li>
+  <li><strong>14 Tage kostenlos</strong><span>Danach brauchst du für neue Einträge ein Monatsabo über Google Play. Deine bestehenden Einträge bleiben immer les- und exportierbar.</span></li>
   <li><strong>Kein Medizinprodukt</strong><span>PocketSana hilft beim Festhalten deiner Daten und ersetzt keine ärztliche Beratung, Diagnose oder Behandlung.</span></li>
 </ul>
 
@@ -24,5 +24,5 @@ ohne Server.</p>
   <li><a class="secondary" href="{{ '/impressum' | relative_url }}">Impressum</a></li>
 </ul>
 
-<p class="note">Die Rechtstexte liegen derzeit nur auf Deutsch vor; massgeblich ist die deutsche
-Fassung. Fragen? Schreib an <a href="mailto:contact.pocketsana@gmail.com">contact.pocketsana@gmail.com</a>.</p>
+<p class="note">Die Rechtstexte auf dieser Website gibt es auf Deutsch; in der App stehen zusätzlich
+Übersetzungen zur Information bereit. Massgeblich ist die deutsche Fassung. Fragen? Schreib an <a href="mailto:contact.pocketsana@gmail.com">contact.pocketsana@gmail.com</a>.</p>

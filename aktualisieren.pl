@@ -3,7 +3,7 @@
 # damit Website und App immer denselben Text zeigen. Aufruf: perl aktualisieren.pl
 use strict; use warnings; use utf8;
 use FindBin;
-my $quelle = "$FindBin::Bin/../meine-akte/legal";
+my $quelle = "$FindBin::Bin/../meine-akte-main/legal";  # Owner-Entscheid 06.10.2026 (b): vorerst reine Android-Fassung von main
 my %seiten = (
   'datenschutzerklaerung.md' => ['datenschutz.md', 'Datenschutzerklärung', '/datenschutz'],
   'nutzungsbedingungen.md'   => ['nutzungsbedingungen.md', 'Nutzungsbedingungen', '/nutzungsbedingungen'],
