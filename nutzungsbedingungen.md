@@ -9,8 +9,8 @@ permalink: /nutzungsbedingungen
 Stand: 15. Oktober 2026
 
 Gemeinsame Fassung für Android und iPhone. Die für Android geltenden Teile
-entsprechen inhaltlich der Fassung der Android-Version mit Stand vom
-15. Oktober 2026.
+entsprechen inhaltlich der Fassung der Android-Version
+mit Stand vom 15. Oktober 2026.
 
 Diese Nutzungsbedingungen bestehen aus vier Teilen: **Teil A** regelt die
 allgemeine Nutzung der App, **Teil B** die Bedingungen des
