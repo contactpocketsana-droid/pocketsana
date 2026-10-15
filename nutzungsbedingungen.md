@@ -8,10 +8,15 @@ permalink: /nutzungsbedingungen
 
 Stand: 15. Oktober 2026
 
-Diese Nutzungsbedingungen bestehen aus drei Teilen: **Teil A** regelt die
+Gemeinsame Fassung für Android und iPhone. Die für Android geltenden Teile
+entsprechen inhaltlich der Fassung der Android-Version mit Stand vom
+15. Oktober 2026.
+
+Diese Nutzungsbedingungen bestehen aus vier Teilen: **Teil A** regelt die
 allgemeine Nutzung der App, **Teil B** die Bedingungen des
 PocketSana-Premium-Abos einschliesslich Widerrufsrecht, **Teil C** den
-medizinischen Haftungsausschluss.
+medizinischen Haftungsausschluss. **Teil D** enthält Zusatzbedingungen, die
+nur für die iPhone-Version aus dem App Store von Apple gelten.
 
 ---
 
@@ -22,6 +27,13 @@ medizinischen Haftungsausschluss.
 Diese Nutzungsbedingungen gelten für die Nutzung der App "PocketSana – Meine
 Gesundheitsdaten" (nachfolgend "die App"), bereitgestellt von PocketSana Felbar
 (Einzelunternehmen, Inhaber Daniel Felbar).
+
+Die App gibt es für Android-Geräte (über Google Play) und – ab ihrer
+Veröffentlichung – für das iPhone (über den App Store von Apple). Wo sich die beiden Versionen unterscheiden,
+ist das in diesen Bedingungen mit «Android» bzw. «iPhone» angegeben; für die
+iPhone-Version gilt zusätzlich Teil D. Die iPhone-Version ist noch nicht im
+App Store erhältlich; die mit «iPhone» angegebenen Teile und Teil D gelten
+erst ab ihrer Veröffentlichung.
 
 **Anbieter (geografische Anschrift):**
 
@@ -150,7 +162,7 @@ die App selbst als Software-Produkt.
 ### A.7 Gewährleistung
 
 Der kostenlose Lesemodus ohne Abo (siehe Teil A.8) und die kostenlose
-Testphase (siehe Teil B.1) werden **"wie besehen" (as is)** bereitgestellt,
+Testphase der Android-Version (siehe Teil B.1) werden **"wie besehen" (as is)** bereitgestellt,
 ohne Garantie ständiger Verfügbarkeit oder
 Fehlerfreiheit. Unsere Pflicht nach Teil A.8 und die Haftung nach Teil A.6
 bleiben davon unberührt.
@@ -186,7 +198,7 @@ in diesen Bedingungen "Lesemodus ohne Abo".
 - Lesen und Durchsuchen aller vorhandenen Einträge
 - Bearbeiten bestehender Einträge
 - Papierkorb (inklusive Wiederherstellen gelöschter Einträge)
-- Export (Backup/PDF) und Backup-Wiederherstellung (Letztere nur bei der Ersteinrichtung, also nach einer Neuinstallation oder nach dem Löschen der App-Daten in den Android-Einstellungen, siehe Datenschutzerklärung Abschnitt 4.5)
+- Export (Backup/PDF) und Backup-Wiederherstellung (Letztere nur bei der Ersteinrichtung, also nach einer Neuinstallation – auf Android auch nach dem Löschen der App-Daten in den Android-Einstellungen, auf dem iPhone nur nach dem Löschen und erneuten Installieren der App; siehe Datenschutzerklärung Abschnitt 4.5)
 - Erfassen der allgemeinen Notizen im Bereich Termine (nicht an einen
   einzelnen Termin gebunden)
 - Anlegen eines neuen Profils samt der dazugehörigen Stammdaten
@@ -201,7 +213,8 @@ in diesen Bedingungen "Lesemodus ohne Abo".
   neuer Termine (samt deren Erinnerungen), Dokumente und Fotos
 - Protokollieren einer Medikamenteneinnahme
 - Funktion «Wie beim letzten Mal erfassen»
-- Health-Connect-Importe (manuell und automatisch)
+- Importe aus Health Connect (Android) bzw. Apple Health (iPhone), manuell
+  und automatisch
 
 ### A.9 Änderungen dieser Bedingungen
 
@@ -209,23 +222,38 @@ Wir können diese Bedingungen ändern, etwa bei neuen Funktionen oder
 geänderter Rechtslage. Wesentliche, für dich nachteilige Änderungen (z. B.
 Einschränkungen des Leistungsumfangs, etwa wenn eine Funktion wegfällt oder
 nur noch mit Abo nutzbar ist; für Preiserhöhungen gilt nicht dieser Absatz,
-sondern ausschliesslich der folgende) kündigen wir dir **mindestens 30 Tage im
-Voraus** mit einem Hinweis in der App an (wir kennen keine
+sondern ausschliesslich die beiden folgenden zu Google Play bzw. zum App Store)
+kündigen wir dir **mindestens 30 Tage im Voraus** mit einem Hinweis in der App an (wir kennen keine
 E-Mail-Adressen unserer Nutzerinnen und Nutzer, ausser du hast uns selbst
 geschrieben); in diesem Fall steht dir für
 ein laufendes Abo ein **Sonderkündigungsrecht** zum Zeitpunkt des
-Inkrafttretens der Änderung zu; bei einem im Voraus bezahlten Zeitraum
-(z. B. Jahresabo) erstatten wir dir auf Anfrage über Google Play den Anteil,
-der auf die Zeit nach dem Inkrafttreten entfällt. Das Datum oben zeigt den Stand der
-aktuellen Fassung.
+Inkrafttretens der Änderung zu. **Android:** Bei einem im Voraus bezahlten
+Zeitraum (z. B. Jahresabo) erstatten wir dir auf Anfrage über Google Play den
+Anteil, der auf die Zeit nach dem Inkrafttreten entfällt. **iPhone:** Bei
+einem im Voraus bezahlten Zeitraum (z. B. Jahresabo) kannst du die
+Erstattung des Anteils, der auf die Zeit nach dem Inkrafttreten entfällt,
+nach der Sonderkündigung zuerst bei Apple beantragen
+([reportaproblem.apple.com](https://reportaproblem.apple.com)). Lehnt Apple
+ab, erstatten wir dir diesen Anteil auf Anfrage direkt. Das Datum oben zeigt
+den Stand der aktuellen Fassung.
 
 **Preiserhöhungen bei einem über Google Play abgeschlossenen Abo:** Wir
 erhöhen den Preis für ein laufendes Abo nur mit deiner Zustimmung: Bei Google
 Play wählen wir dafür das Verfahren, bei dem du der Erhöhung in der Mitteilung
 bzw. im Ablauf von Google Play ausdrücklich zustimmen musst, oder wir belassen
 dir den bisherigen Preis. Google Play informiert dich mindestens 30 Tage vor
-einer Preiserhöhung. Stimmst du nicht zu, endet dein Abo zum Ende des laufenden, bereits
-bezahlten Abrechnungszeitraums — deine Daten bleiben nach Teil A.8 erhalten.
+einer Preiserhöhung. Stimmst du nicht zu, endet dein Abo zum Ende des
+laufenden, bereits bezahlten Abrechnungszeitraums — deine Daten bleiben nach
+Teil A.8 erhalten.
+
+**Preiserhöhungen bei einem über den App Store abgeschlossenen Abo
+(iPhone):** Wir erhöhen den Preis für ein laufendes Abo nur mit deiner
+Zustimmung: Wir erhöhen ihn nur dann, wenn Apple dich nach seinen Regeln
+ausdrücklich um Zustimmung bittet; sähen diese Regeln für die Erhöhung keine
+Zustimmung vor, belassen wir dir den bisherigen Preis. Apple informiert dich
+vor einer Preiserhöhung (z. B. per E-Mail oder Mitteilung). Stimmst du nicht zu, endet dein Abo zum Ende des laufenden,
+bereits bezahlten Abrechnungszeitraums — deine Daten bleiben nach Teil A.8
+erhalten.
 
 Geänderte Bedingungen gelten für dich erst, wenn du sie in der App
 ausdrücklich erneut akzeptierst (die App zeigt dir dazu den
@@ -239,7 +267,7 @@ laufende Testphase oder ein laufendes bezahltes Abo kannst du wie bisher
 nutzen, auch für neue Einträge, solange es ohne Unterbrechung weiterläuft
 (auch über Verlängerungen hinweg). In der App kannst du ein neues Abo erst
 abschliessen, nachdem du die geänderte Fassung akzeptiert hast; schliesst du ein Abo direkt über Google
-Play ab, kannst du es nutzen, für dich gilt aber bis zu deiner Zustimmung die
+Play bzw. den App Store ab, kannst du es nutzen, für dich gilt aber bis zu deiner Zustimmung die
 bisherige Fassung. Die Zustimmung kannst du jederzeit nachholen — in
 den Einstellungen unter "Rechtliches" oder sobald du einen neuen Eintrag
 erfassen möchtest.
@@ -300,8 +328,9 @@ Auto-Verlängerungsklauseln in Teil B.1.
 **Vereinigte Staaten:** Für Verbraucher:innen in den USA, insbesondere in
 Kalifornien (*California Automatic Renewal Law*), gilt: Du kannst dein Abo
 online mindestens so einfach kündigen, wie du es abgeschlossen hast — über
-die Google-Play-Abo-Verwaltung, die auch direkt aus den Einstellungen der App
-verlinkt ist. Zwingendes US-Verbraucherrecht (u. a. der *Restore Online
+die Google-Play-Abo-Verwaltung (Android) bzw. die Abo-Verwaltung von Apple
+(iPhone), die jeweils auch direkt aus den Einstellungen der App erreichbar
+ist. Zwingendes US-Verbraucherrecht (u. a. der *Restore Online
 Shoppers' Confidence Act*, ROSCA) bleibt vorbehalten.
 
 **Alle anderen Länder:** Für Nutzer:innen ausserhalb der oben genannten
@@ -314,14 +343,22 @@ Rechtswahl-/Gerichtsstandsklausel vor.
 
 Die **Deinstallation der App ist keine Kündigung des Abos.** Ein laufendes
 PocketSana-Premium-Abo läuft technisch und vertraglich **separat über Google
-Play** weiter und muss dort gekündigt werden (siehe Teil B.1), auch wenn du
-die App vom Gerät entfernst.
+Play** (Android) bzw. **den App Store** (iPhone) weiter und muss dort
+gekündigt werden (siehe Teil B.1), auch wenn du die App vom Gerät entfernst.
 
 ---
 
 ## Teil B — Abo- und Widerrufsbedingungen (PocketSana Premium)
 
 ### B.1 Abo-Modell
+
+PocketSana Premium gibt es als Monatsabo und – nicht in allen Ländern – als
+Jahresabo. Auf Android schliesst du es über Google Play ab, auf dem iPhone
+über den App Store von Apple. Testphase, Vertragspartner, erhältliche Abos,
+Verlängerung und Kündigung unterscheiden sich je nach Version; sie sind
+deshalb unten getrennt aufgeführt.
+
+**Android-Version (Google Play):**
 
 - **Testphase:** Der volle Funktionsumfang ist während der ersten **14 Tage
   ab der ersten Einrichtung dieser Installation** nutzbar, **ohne dass dafür
@@ -394,8 +431,6 @@ die App vom Gerät entfernst.
   zur Sonderregel in Deutschland siehe oben). Eine anteilige Erstattung des
   laufenden Zeitraums erfolgt nur, soweit die Google-Play-Erstattungsrichtlinien
   oder zwingendes Recht es vorsehen oder Teil A.9 es bestimmt.
-- Zur Konsequenz eines beendeten Abos für deine bereits erfassten Daten
-  siehe Teil A.8.
 - **Offline-Gnadenfrist:** Ist die App zeitweise offline und kann den
   Abo-Status nicht bei Google Play abfragen, bleibt ein zuvor aktives Abo
   für **7 Tage** ab der letzten erfolgreichen Prüfung weiter nutzbar, bevor
@@ -413,9 +448,115 @@ die App vom Gerät entfernst.
   Import von Messwerten zusätzlich Health Connect auf deinem Gerät. Weitere
   Hardware oder Dienste sind nicht erforderlich.
 
+**iPhone-Version (App Store):**
+
+- **Kostenlose Testphase:** Auf dem iPhone bieten wir die Testphase als
+  kostenloses Einführungsangebot des Abos im App Store an. Sie dauert
+  **2 Wochen** und beginnt erst, wenn du das Abo im Kaufdialog von Apple
+  abschliesst; dafür ist ein Zahlungsmittel in deinem Apple Account nötig.
+  Apple gewährt das Einführungsangebot nur einmal je Apple Account; ob du es
+  noch nutzen kannst, zeigt dir der Abo-Bildschirm der App. **Schaltest du
+  die automatische Verlängerung nicht rechtzeitig vor dem Ende der
+  Testphase aus, geht sie automatisch in das kostenpflichtige Abo über,
+  das du im Kaufdialog gewählt hast (Monats- oder Jahresabo)**, und Apple belastet den Preis, der dir im Kaufdialog angezeigt
+  wurde. Kündigst du während der Testphase, kannst du die App bis zu ihrem
+  Ende voll nutzen; danach gilt der Lesemodus ohne Abo (Teil A.8). Eine
+  Testphase, die die App selbst gewährt, gibt es auf dem iPhone nicht: Ohne
+  Abschluss des Abos stehen nach der Einrichtung nur die Funktionen des
+  Lesemodus ohne Abo zur Verfügung (Teil A.8).
+- Erst wenn du PocketSana Premium **aktiv im Kaufdialog von Apple
+  abschliesst**, kommt ein Abo-Vertrag zustande. Apple verkauft das Abo in
+  unserem Auftrag als Kommissionärin: Der Kaufvertrag über das Abo kommt
+  mit **Apple Distribution International Ltd.** (Hollyhill Industrial
+  Estate, Hollyhill, Cork, Irland) zustande, die ihn im eigenen Namen, aber
+  für unsere Rechnung abschliesst. Das gilt für alle Länder, in denen wir
+  die iPhone-Version anbieten (Schweiz, Deutschland, Österreich). Apple
+  wickelt Zahlung, Belege, Verlängerungen und Rückerstattungen ab; für den
+  Kauf gelten zusätzlich die
+  [Apple-Mediendienste-Bedingungen](https://www.apple.com/legal/internet-services/itunes/).
+  Wir liefern die Leistung: die Freischaltung der in Teil A.8 genannten
+  Funktionen in der App.
+  Der Vertrag über die Nutzung der App selbst, also diese
+  Nutzungsbedingungen, besteht in allen Ländern mit uns (siehe auch
+  Teil D).
+- **Monats- und Jahresabo:** PocketSana Premium gibt es im App Store als
+  **Monatsabo** (Abrechnung monatlich) und – nicht in allen Ländern – als
+  **Jahresabo** (Abrechnung jährlich im Voraus). Beide Abos gehören im App
+  Store zur selben Abo-Gruppe; du kannst also jeweils nur eines davon
+  aktiv haben. Das Jahresabo bieten wir derzeit nur in der Schweiz und in
+  Deutschland an, nicht in Österreich. Welche Abos für dich erhältlich sind,
+  zeigen dir die App und der Kaufdialog des App Store. Beide Abos schalten
+  dieselben Funktionen frei (Teil A.8).
+- **Verlängerung:** Das Abo **verlängert sich automatisch um den gewählten
+  Zeitraum** (einen Monat bzw. ein Jahr) zum dann gültigen Preis, solange du
+  die automatische Verlängerung nicht spätestens 24 Stunden vor dem Ende
+  des laufenden Zeitraums ausschaltest, also kündigst (zu Preiserhöhungen
+  siehe Teil A.9); massgeblich ist die Frist, die dir Apple im Kaufdialog
+  und in der Abo-Verwaltung nennt. Preis, Laufzeit und
+  Verlängerungsbedingungen zeigt dir der Kaufdialog von Apple vor dem
+  Abschluss.
+- **Für Verbraucher:innen in Deutschland** gilt abweichend davon und
+  abweichend von der Kündigungsregel unten: Nach den deutschen
+  Apple-Mediendienste-Bedingungen (derzeit, Stand 14. September 2026)
+  kannst du dein Abo jederzeit mit sofortiger Wirkung kündigen und erhältst
+  über den Apple Support eine anteilige Rückerstattung. Das gilt ab dem
+  ersten Tag des Abos, nicht erst nach einem Jahr, und für das Monats- wie
+  für das Jahresabo.
+- **Wechsel zwischen Monats- und Jahresabo:** In der App selbst ist kein
+  Wechsel vorgesehen; wechseln kannst du nur über die Abo-Verwaltung des
+  App Store (siehe «Kündigung»). Nach den Regeln von Apple gilt ein Wechsel
+  vom Monats- zum Jahresabo sofort; den nicht genutzten Teil deines
+  Monatsabos erstattet dir Apple anteilig. Ein Wechsel vom Jahres- zum
+  Monatsabo gilt ab der nächsten Verlängerung. Die Verrechnung nimmt Apple
+  vor.
+- Massgeblich sind ergänzend die Apple-Mediendienste-Bedingungen deines
+  Landes; zwingende Verbraucherrechte deines Wohnsitzlandes bleiben
+  unberührt.
+- **Kündigung:** jederzeit in der Abo-Verwaltung von Apple. Du öffnest sie
+  in der App über «Abo verwalten» oder in den Einstellungen deines iPhones
+  (unter deinem Namen → «Abonnements»; die Bezeichnungen können je nach
+  iOS-Version leicht abweichen). Eine Kündigung wird zum Ende des laufenden,
+  bereits bezahlten Abrechnungszeitraums wirksam (beim Jahresabo also zum
+  Ende des Abo-Jahres; zur Sonderregel in Deutschland siehe oben). Eine
+  anteilige Erstattung des laufenden Zeitraums erfolgt nur, soweit die
+  Erstattungsregeln von Apple oder zwingendes Recht es vorsehen oder
+  Teil A.9 es bestimmt.
+- **Offline-Gnadenfrist:** Ist die App zeitweise offline und kann den
+  Abo-Status nicht bei Apple abfragen, bleibt ein zuvor aktives Abo für
+  **7 Tage** ab der letzten erfolgreichen Prüfung weiter nutzbar, bevor die
+  App auf den Status "kein aktives Abo" zurückfällt.
+- Das Abo gilt für alle deine Geräte mit demselben Apple Account, auf denen
+  du die App nutzt. Deine Einträge werden zwischen diesen Geräten aber nicht
+  abgeglichen; sie bleiben auf jedem Gerät getrennt gespeichert. Das Abo
+  lässt sich nicht über die Familienfreigabe teilen.
+- **Funktionsweise, technische Schutzmassnahmen, Kompatibilität und
+  Interoperabilität:** PocketSana Premium ist kein eigenes Programm und
+  kein zusätzlicher Download. Es schaltet in der bereits installierten App
+  die in Teil A.8 genannten Funktionen frei; alles andere bleibt
+  unverändert. Technische Schutzmassnahmen (z. B. Kopierschutz oder ein
+  digitales Rechtemanagement) setzen wir nicht ein. Voraussetzung für die
+  Nutzung ist ein iPhone mit iOS 16 oder neuer und ein Apple Account mit
+  Zugang zum App Store. Für Medikamenten- und Termin-Erinnerungen musst du
+  Mitteilungen für PocketSana erlauben (siehe Teil C), für den Import von
+  Messwerten ist die Health-App (Apple Health) nötig. Weitere Hardware oder
+  Dienste sind nicht erforderlich.
+
+**Für beide Versionen:**
+
+- Zur Konsequenz eines beendeten Abos für deine bereits erfassten Daten
+  siehe Teil A.8, gleichgültig, über welchen Store du es abgeschlossen hast.
+- **Wechsel zwischen Android und iPhone:** Ein über Google Play
+  abgeschlossenes Abo gilt nur in der Android-App, ein über den App Store
+  abgeschlossenes nur in der iPhone-App. Wechselst du das Gerät, kannst du
+  deine Daten über ein Backup mitnehmen, das Abo aber nicht; kündige das
+  bisherige Abo in diesem Fall selbst beim bisherigen Store. Die Testphase
+  der Android-Version wird nicht auf das iPhone übertragen; stellst du auf
+  Android ein Backup vom iPhone wieder her, gilt sie nach den Regeln oben
+  als abgelaufen.
+
 ### B.2 Zahlungsabwicklung
 
-Die Zahlungsabwicklung erfolgt **ausschliesslich über Google Play Billing**.
+**Android-Version (Google Play):** Die Zahlungsabwicklung erfolgt **ausschliesslich über Google Play Billing**.
 Wir sehen und speichern deine Zahlungsdaten (Kreditkarte etc.) zu keinem
 Zeitpunkt selbst — nur den Kaufstatus in der App sowie die in der
 Datenschutzerklärung (Abschnitt 2) genannten Bestellangaben in der Play
@@ -437,25 +578,59 @@ uns.
   Auszahlung selbst erfolgt aber in jedem Fall über Google Play auf das dort
   verwendete Zahlungsmittel.
 
+**iPhone-Version (App Store):** Die Zahlungsabwicklung erfolgt
+**ausschliesslich über den App Store von Apple** mit dem Zahlungsmittel
+deines Apple Accounts. Wir sehen deine Zahlungsdaten zu keinem Zeitpunkt
+und erhalten von Apple keine Angaben zu deiner Person. Es gelten zusätzlich
+die Apple-Mediendienste-Bedingungen. Der Bestellabschluss samt
+ausdrücklichem Hinweis auf die Zahlungspflicht erfolgt im Kaufdialog von
+Apple, nicht auf einer eigenen Bestellseite von uns.
+
+- **Belege** für dein Abo stellt Apple aus; du erhältst sie per E-Mail von
+  Apple und findest sie in deinem Kaufverlauf bei Apple (z. B. unter
+  [reportaproblem.apple.com](https://reportaproblem.apple.com)).
+- **Rückerstattungen** über den App Store entscheidet und leistet Apple. Du
+  beantragst sie unter
+  [reportaproblem.apple.com](https://reportaproblem.apple.com) oder in der
+  App unter Einstellungen → Abo → «Vertrag widerrufen», wo du über
+  «Rückerstattung bei Apple beantragen» direkt zum Antrag bei Apple
+  gelangst. **Wir selbst können auf dem iPhone keine Rückerstattung über
+  Apple auslösen**; wir helfen dir aber gern bei der Antragstellung
+  (contact.pocketsana@gmail.com). Die Auszahlung erfolgt über Apple auf das
+  dort verwendete Zahlungsmittel. Erreicht uns ein wirksamer Widerruf
+  (Teil B.3) und erstattet Apple nicht, erstatten wir dir den belasteten
+  Betrag selbst per Banküberweisung.
+
 ### B.3 Widerrufsrecht (für Verbraucher:innen in der EU/im EWR und im Vereinigten Königreich)
 
 Dieser Abschnitt gilt für Verbraucher:innen mit gewöhnlichem Aufenthalt in
 der EU, im EWR oder im Vereinigten Königreich. In der Schweiz besteht bei
 Fernabsatzverträgen kein gesetzliches Widerrufsrecht; Nutzer:innen in der
 Schweiz können ihr Abo aber jederzeit nach Teil B.1 kündigen und innerhalb
-des Google-Play-Zeitfensters eine Rückerstattung nach Teil B.2 beantragen.
+des Google-Play-Zeitfensters eine Rückerstattung nach Teil B.2 beantragen
+(auf dem iPhone: eine Rückerstattung bei Apple nach Teil B.2).
 
-**Wem gegenüber du widerrufst:** In der EU, im EWR und im Vereinigten
+**Wem gegenüber du widerrufst (Android-Version):** In der EU, im EWR und im Vereinigten
 Königreich ist Google Commerce Limited deine Vertragspartnerin für das Abo
 (Teil B.1). Richte deinen Widerruf deshalb an Google Play, am einfachsten
 über den Kaufverlauf deines Google-Kontos (siehe «Praktische Abwicklung»
 unten). Die gesetzliche Widerrufsbelehrung erhältst du auch von Google Play,
 in den Google-Play-Nutzungsbedingungen und in der Google-Play-Hilfe.
 
+**Wem gegenüber du widerrufst (iPhone-Version):** Hast du das Abo im App
+Store abgeschlossen, ist Apple Distribution International Ltd. deine
+Vertragspartnerin für das Abo (Teil B.1). Richte deinen Widerruf deshalb
+am einfachsten an Apple, über
+[reportaproblem.apple.com](https://reportaproblem.apple.com) oder in der
+App unter Einstellungen → Abo → «Vertrag widerrufen» (siehe «Praktische
+Abwicklung auf dem iPhone» unten); du kannst ihn aber auch uns gegenüber
+erklären. Für die iPhone-Version gelten die eigene Widerrufsbelehrung und
+das eigene Muster-Widerrufsformular weiter unten.
+
 Wir informieren dich hiermit über das Widerrufsrecht und dessen Ausübung
 (Art. 6 Abs. 1 lit. h, Art. 11 Abs. 1 i.V.m. Anhang I RL 2011/83/EU):
 
-**Widerrufsbelehrung — Widerrufsrecht**
+**Widerrufsbelehrung (Android-Version) — Widerrufsrecht**
 
 Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen
 Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
@@ -472,7 +647,7 @@ ausüben: Google Play stellt dafür im Kaufverlauf deines Google-Kontos eine
 Funktion bereit (Bestellung «PocketSana Premium» → «Problem melden» →
 Erstattung beantragen).
 
-**Folgen des Widerrufs**
+**Folgen des Widerrufs (Android-Version)**
 
 Wenn du diesen Vertrag widerrufst, wird dir der für das Abo gezahlte
 Betrag unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag
@@ -491,13 +666,65 @@ Widerrufsrechts unterrichtest, bereits erbrachten Leistung im Vergleich zum
 Gesamtumfang der im Vertrag vorgesehenen Leistung entspricht. Google Play
 kann diesen Anteil von der Erstattung abziehen.
 
-**Muster-Widerrufsformular** (bitte nur ausfüllen und zurücksenden, wenn du
-den Vertrag widerrufen willst):
+**Muster-Widerrufsformular (Android-Version)** (bitte nur ausfüllen und
+zurücksenden, wenn du den Vertrag widerrufen willst):
 
 - An Google Commerce Limited, c/o Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland, **oder** an
   PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 76 462 67 76, contact.pocketsana@gmail.com:
 - Hiermit widerrufe ich den von mir abgeschlossenen Vertrag über die
   Erbringung der folgenden Dienstleistung: PocketSana Premium (Abo).
+- Bestellt am: _____
+- Name des Verbrauchers/der Verbraucherin: _____
+- Anschrift des Verbrauchers/der Verbraucherin: _____
+- Unterschrift des Verbrauchers/der Verbraucherin (nur bei Mitteilung auf
+  Papier): _____
+- Datum: _____
+
+**Widerrufsbelehrung (iPhone-Version) — Widerrufsrecht**
+
+Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen
+Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
+des Vertragsschlusses, also ab dem Abschluss des Abos im Kaufdialog von
+Apple – auch wenn das Abo mit der kostenlosen Gratiszeit beginnt; mit dem
+Übergang in den bezahlten Zeitraum beginnt keine neue Frist. Um dein
+Widerrufsrecht auszuüben, musst du Apple Distribution International Ltd.
+(Hollyhill Industrial Estate, Hollyhill, Cork, Irland,
+rightofwithdrawal@apple.com; online über
+[reportaproblem.apple.com](https://reportaproblem.apple.com) oder die
+Kaufhistorie deines Apple Accounts) **oder** uns (PocketSana Felbar,
+Einzelunternehmen, Inhaber Daniel Felbar, Salamanderweg 1, 7320 Sargans,
+Schweiz, Telefon +41 76 462 67 76,
+contact.pocketsana@gmail.com) mittels einer eindeutigen Erklärung über
+deinen Entschluss, diesen Vertrag zu widerrufen, informieren. Du kannst
+dafür das untenstehende Muster-Widerrufsformular verwenden, das jedoch
+nicht vorgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus,
+dass du die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf
+der Widerrufsfrist absendest.
+
+**Folgen des Widerrufs (iPhone-Version)**
+
+Hast du bereits einen Betrag bezahlt, wird er dir unverzüglich und
+spätestens binnen vierzehn Tagen ab dem Tag erstattet, an dem die
+Mitteilung über deinen Widerruf bei Apple Distribution International Ltd.
+oder bei uns eingegangen ist. Apple erstattet über das Zahlungsmittel
+deines Apple Accounts. Erstattet Apple nicht (etwa weil Apple deinen
+rechtzeitig gestellten Antrag ablehnt), erstatten wir dir den belasteten
+Betrag vollständig selbst, per Banküberweisung; dafür brauchen wir deinen
+Apple-Beleg und deine Bankverbindung. Kosten entstehen dir dadurch nicht.
+Widerrufst du während der kostenlosen Gratiszeit, ist nichts zu
+erstatten. **Wichtig:** Ein Widerruf, den du uns gegenüber erklärst,
+beendet das Abo bei Apple nicht. Schalte die automatische Verlängerung
+deshalb zusätzlich in der Abo-Verwaltung von Apple aus (Teil B.1); nur
+Apple kann das Abo beenden.
+
+**Muster-Widerrufsformular (iPhone-Version)** (wenn du den Vertrag
+widerrufen willst, dann fülle bitte dieses Formular aus und sende es
+zurück):
+
+- An Apple Distribution International Ltd., Hollyhill Industrial Estate, Hollyhill, Cork, Irland, rightofwithdrawal@apple.com, **oder** an
+  PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz, contact.pocketsana@gmail.com:
+- Hiermit widerrufe ich den von mir abgeschlossenen Vertrag über die
+  Erbringung der folgenden Dienstleistung: PocketSana Premium (Abo, App Store).
 - Bestellt am: _____
 - Name des Verbrauchers/der Verbraucherin: _____
 - Anschrift des Verbrauchers/der Verbraucherin: _____
@@ -513,6 +740,19 @@ eine Schritt-für-Schritt-Anleitung. Die Rückzahlung erfolgt in jedem Fall
 eine rechtzeitig gestellte Anfrage ab, kannst du dich an uns wenden; für
 die Frist genügt dann das Datum deiner Anfrage bei Google Play. Mit dem
 Widerruf endet das Abo; die Verlängerung wird gestoppt.
+
+**Praktische Abwicklung auf dem iPhone:** Am einfachsten widerrufst du
+direkt bei Apple, über den Rückerstattungsantrag zu deinem Kauf. In der App
+findest du dazu unter Einstellungen → Abo → «Vertrag widerrufen» eine
+Schritt-für-Schritt-Anleitung; «Rückerstattung bei Apple beantragen» öffnet
+das Rückerstattungsformular von Apple oder, falls das nicht möglich ist,
+[reportaproblem.apple.com](https://reportaproblem.apple.com). Lehnt Apple
+eine rechtzeitig gestellte Anfrage ab, wende dich an uns (siehe «Folgen
+des Widerrufs (iPhone-Version)» oben). Schalte die automatische
+Verlängerung zusätzlich in der Abo-Verwaltung von Apple aus (Teil B.1).
+Möchtest du das Abo nur beenden, ohne zu widerrufen, genügt diese
+Kündigung; sie wird zum Ende des laufenden Abrechnungszeitraums wirksam
+(zur Sonderregel in Deutschland siehe Teil B.1).
 
 ### B.4 Kein automatischer Datenverlust
 
@@ -546,14 +786,17 @@ bist du selbst verantwortlich.
 
 **Zur Zuverlässigkeit der Erinnerungsfunktion:** Erinnerungen für
 Medikamente und Termine werden technisch von deinem Gerätebetriebssystem
-ausgelöst und angezeigt. Akku-Optimierungsfunktionen deines
+ausgelöst und angezeigt. Wie das geschieht, unterscheidet sich zwischen
+Android und iPhone; die folgenden Absätze sind deshalb getrennt.
+
+**Android-Version:** Akku-Optimierungsfunktionen deines
 Betriebssystems oder Geräteherstellers (z. B. der Android-"Doze"-Modus oder
 herstellerspezifisches Energiemanagement) können dazu führen, dass eine
 Erinnerung verzögert, unterdrückt oder erst nach manuellem Entsperren des
 Geräts angezeigt wird.
 
 Die Datenbank ist verschlüsselt und kann erst nach PIN-Eingabe gelesen
-werden. Deshalb plant die App Erinnerungen nur beim Entsperren und stellt
+werden. Deshalb plant die Android-App Erinnerungen nur beim Entsperren und stellt
 sie bei jedem Entsperren neu. **Medikamenten-Erinnerungen** werden dabei
 jeweils sieben Tage im Voraus geplant; wird die App länger als sieben Tage
 nicht entsperrt, pausieren sie bis zum nächsten Entsperren.
@@ -569,15 +812,51 @@ verzögert, unterdrückt oder gar nicht ausgelöst werden.
 Nach einem Neustart des Geräts werden Erinnerungen ebenfalls erst wieder
 ausgelöst, nachdem du PocketSana geöffnet und entsperrt hast. Wechselst du
 die Zeitzone (z. B. auf Reisen), während PocketSana gesperrt ist, bleiben
-bereits eingeplante Medikamenten-Erinnerungen auf der Uhrzeit der bisherigen Zeitzone, bis du
-PocketSana wieder entsperrst; sofern Mitteilungen erlaubt sind, weist dich
-die App mit einer Mitteilung (ohne Medikamentennamen) darauf hin.
+bereits eingeplante Medikamenten-Erinnerungen auf der Uhrzeit der
+bisherigen Zeitzone, bis du PocketSana wieder entsperrst; sofern
+Mitteilungen erlaubt sind, weist dich die App mit einer Mitteilung (ohne
+Medikamentennamen) darauf hin.
 
 Wir setzen die technisch verfügbaren Mittel ein (u. a. exakte Alarme über
 die entsprechende Systemberechtigung). Ohne die Systemberechtigung «Alarme
 & Erinnerungen» werden Medikamenten- und Termin-Erinnerungen nicht
-ausgelöst; die App weist dich darauf hin. Eine **zeitgenaue und garantierte
-Zustellung jeder einzelnen Erinnerung können wir jedoch nicht zusichern**,
+ausgelöst; die App weist dich darauf hin.
+
+**iPhone-Version:** Erinnerungen erscheinen als Mitteilungen von iOS.
+Einstellungen deines iPhones können dazu führen, dass eine Erinnerung nicht
+oder nur unauffällig erscheint, z. B. wenn Mitteilungen für PocketSana
+ausgeschaltet sind, ein Fokus (etwa «Nicht stören» oder «Schlafen») aktiv
+ist, der Ton ausgeschaltet ist oder eine Zusammenfassung von Mitteilungen
+die Erinnerung zurückhält.
+
+Die Datenbank ist verschlüsselt und kann erst nach PIN-Eingabe gelesen
+werden. Deshalb plant die iPhone-App Erinnerungen nur beim Entsperren und
+wenn du in die entsperrte App zurückkehrst. **Medikamenten-Erinnerungen**
+werden dabei jeweils bis zu sieben Tage im Voraus geplant; wird die App
+länger als sieben Tage nicht entsperrt, pausieren sie bis zum nächsten
+Entsperren. iOS lässt nur eine begrenzte Zahl geplanter Mitteilungen je App
+zu; PocketSana plant deshalb höchstens 60 Medikamenten- und
+Termin-Erinnerungen gleichzeitig ein, die jeweils nächsten zuerst. **Bei
+vielen Einnahmezeiten pro Tag (etwa ab neun, zusammen mit
+Termin-Erinnerungen auch früher) reicht die Planung deshalb weniger als
+sieben Tage weit**, und eine Erinnerung an einen weit in der Zukunft
+liegenden Termin wird erst eingeplant, wenn sie zu den nächsten gehört.
+Öffne PocketSana deshalb regelmässig, damit die nächsten Erinnerungen
+nachgeplant werden. Bereits geplante Erinnerungen bleiben auf dem iPhone
+auch nach einem Neustart erhalten. Wechselst du die Zeitzone (z. B. auf
+Reisen), folgen bereits geplante Medikamenten-Erinnerungen der Uhrzeit
+der neuen Zeitzone; Termin-Erinnerungen bleiben auf den festen Zeitpunkt
+des Termins ausgerichtet, ihre Uhrzeit verschiebt sich also um den
+Zeitunterschied. Sobald du PocketSana wieder öffnest und entsperrst,
+werden die Erinnerungen zudem für die neue Zeitzone neu geplant.
+
+Wir setzen die technisch verfügbaren Mittel ein (lokale Mitteilungen von
+iOS zu festen Zeitpunkten). Ohne deine Erlaubnis für Mitteilungen werden
+Medikamenten- und Termin-Erinnerungen nicht angezeigt; die App weist dich
+darauf hin.
+
+**Für beide Versionen:** Eine **zeitgenaue und garantierte
+Zustellung jeder einzelnen Erinnerung können wir nicht zusichern**,
 da dies von Einstellungen deines Geräts abhängt, auf die wir keinen
 Einfluss haben. **Verlasse dich bei zeitkritischen Medikamenteneinnahmen
 nicht ausschliesslich auf diese App.** Nutze ergänzend eine
@@ -586,11 +865,14 @@ Dosierhilfe mit eigenem Alarm oder die Unterstützung einer weiteren
 Person). Für Schäden aus einer verspäteten, ausgebliebenen oder fehlerhaft
 dargestellten Erinnerung haften wir nicht, soweit die Ursache im Verhalten
 des Betriebssystems oder in Geräteeinstellungen liegt, die ausserhalb
-unseres Einflussbereichs liegen, oder darin, dass du die App länger als
-sieben Tage nicht entsperrt hast, sodass — wie in diesem Teil C beschrieben —
-keine weiteren Medikamenten-Erinnerungen eingeplant waren. Unberührt bleiben
-die Haftung für eigenes vorsätzliches oder grobfahrlässiges Verhalten sowie
-die Haftung für Personen- und Gesundheitsschäden nach Teil A.6.
+unseres Einflussbereichs liegen, oder darin, dass du die App auf Android
+länger als sieben Tage nicht entsperrt hast, sodass keine weiteren
+Medikamenten-Erinnerungen eingeplant waren, bzw. auf dem iPhone so lange
+nicht entsperrt hast, dass die bereits geplanten Medikamenten- oder
+Termin-Erinnerungen ausgelaufen waren und keine weiteren nachgeplant wurden
+(jeweils wie in diesem Teil C beschrieben). Unberührt bleiben die Haftung für eigenes
+vorsätzliches oder grobfahrlässiges Verhalten sowie die Haftung für
+Personen- und Gesundheitsschäden nach Teil A.6.
 
 **Bei gesundheitlichen Beschwerden oder in einem Notfall** wende dich
 immer an eine Ärztin, einen Arzt oder die reguläre Notrufnummer deines
@@ -608,6 +890,108 @@ Haftungsausschlusses gelten Teil A.6 und dieser Teil C.
 
 Die Erinnerungsfunktion ist eine Komfortfunktion und kein medizinischer
 Alarm.
+
+---
+
+## Teil D — Zusatzbedingungen für die iPhone-Version (App Store)
+
+Dieser Teil gilt zusätzlich, wenn du die App über den App Store von Apple
+bezogen hast. Er geht den Teilen A bis C vor, soweit er etwas anderes
+bestimmt. Anwendbares Recht und Gerichtsstand richten sich auch für diesen
+Teil nach Teil A.10; zwingende Rechte als Verbraucher:in bleiben unberührt.
+
+### D.1 Vertragsparteien
+
+Diese Nutzungsbedingungen werden ausschliesslich zwischen dir und uns
+(PocketSana Felbar, Einzelunternehmen, Inhaber Daniel Felbar, Anschrift in
+Teil A.1) geschlossen, nicht mit Apple Inc.
+oder einer anderen Apple-Gesellschaft («Apple»). Für die App und ihre
+Inhalte sind allein wir verantwortlich, nicht Apple. Für den Kauf des Abos
+im App Store gilt zusätzlich Teil B.1. Diese Nutzungsbedingungen dürfen den
+Nutzungsregeln der
+[Apple-Mediendienste-Bedingungen](https://www.apple.com/legal/internet-services/itunes/)
+nicht widersprechen; bei einem Widerspruch zu diesen Nutzungsregeln gehen
+die Nutzungsregeln vor. Für dich günstigere Regelungen dieser Bedingungen
+(z. B. Teil A.6, A.7, A.8, A.10, B.2, B.3) bleiben davon unberührt.
+
+### D.2 Umfang der Lizenz
+
+Du erhältst ein einfaches, nicht übertragbares Recht, die App auf
+Apple-Geräten zu nutzen, die dir gehören oder die du kontrollierst, im
+Rahmen der Nutzungsregeln der Apple-Mediendienste-Bedingungen. Personen,
+die mit deinem Apple Account über die Familienfreigabe oder über einen
+Volumenkauf verbunden sind, dürfen die App ebenfalls nutzen, soweit Apple
+das vorsieht. Das gilt nur für die App selbst: Das Abo PocketSana Premium
+lässt sich nicht über die Familienfreigabe teilen. Im Übrigen gilt
+Teil A.5.
+
+### D.3 Wartung und Support
+
+Für Wartung und Support der App sind allein wir zuständig, soweit diese
+Bedingungen oder das anwendbare Recht es vorsehen. Apple ist nicht
+verpflichtet, Wartungs- oder Supportleistungen für die App zu erbringen.
+
+### D.4 Gewährleistung
+
+Für eine gesetzliche oder vertragliche Gewährleistung sind allein wir
+verantwortlich, soweit sie nicht wirksam ausgeschlossen ist (Teil A.7).
+Entspricht die App einer anwendbaren Gewährleistung nicht, kannst du das
+Apple melden; Apple erstattet dir dann den Kaufpreis der App, sofern einer
+bezahlt wurde. Im gesetzlich zulässigen Umfang hat Apple darüber hinaus
+keine Gewährleistungspflicht für die App. Für alle weiteren Ansprüche,
+Verluste, Haftungen, Schäden, Kosten oder Aufwendungen wegen der
+Nichterfüllung einer Gewährleistung sind allein wir verantwortlich, im
+Rahmen von Teil A.6 und Teil C. Zwingende Gewährleistungsrechte nach
+Teil A.7 bleiben unberührt. Das gilt auch für deine gesetzlichen Rechte
+gegenüber Apple Distribution International Ltd. als Verkäuferin des Abos
+(Teil B.1).
+
+### D.5 Ansprüche im Zusammenhang mit der App
+
+Für Ansprüche von dir oder Dritten im Zusammenhang mit der App oder deren
+Besitz oder Nutzung sind wir zuständig, nicht Apple. Das gilt insbesondere
+für (i) Produkthaftungsansprüche, (ii) Ansprüche, die App erfülle
+anwendbare rechtliche oder behördliche Anforderungen nicht, und
+(iii) Ansprüche aus Verbraucherschutz-, Datenschutz- oder ähnlichen
+Vorschriften, auch im Zusammenhang mit der Nutzung von Apple Health
+(HealthKit). Für Umfang und Grenzen unserer Haftung gelten Teil A.6 und
+Teil C unverändert. Diese Zuständigkeit beschränkt weder deine zwingenden
+Ansprüche gegen Apple noch erweitert sie unsere datenschutzrechtliche
+Verantwortung über die Datenschutzerklärung (Abschnitt 2) hinaus.
+
+### D.6 Geistiges Eigentum
+
+Macht ein Dritter geltend, die App oder dein Besitz und deine Nutzung der
+App verletze seine Rechte am geistigen Eigentum, sind allein wir, nicht
+Apple, für die Untersuchung, Verteidigung, Beilegung und Erledigung dieses
+Anspruchs zuständig.
+
+### D.7 Einhaltung von Exportvorschriften
+
+Du bestätigst, dass du dich nicht in einem Land aufhältst, gegen das die
+Regierung der USA ein Embargo verhängt hat oder das sie als
+Terrorismus unterstützendes Land («terrorist supporting country») bezeichnet,
+und dass du nicht auf einer Liste verbotener oder eingeschränkter Parteien
+der US-Regierung stehst.
+
+### D.8 Name und Kontakt des Anbieters
+
+Fragen, Beschwerden und Ansprüche zur App richtest du an uns: PocketSana Felbar
+(Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 76 462 67 76,
+E-Mail contact.pocketsana@gmail.com (siehe auch Teil A.1).
+
+### D.9 Bedingungen Dritter
+
+Bei der Nutzung der App hältst du die anwendbaren Bedingungen Dritter ein,
+z. B. die deines Mobilfunk- oder Internetanbieters.
+
+### D.10 Apple als begünstigte Dritte
+
+Apple und die Tochtergesellschaften von Apple sind begünstigte Dritte
+dieser Nutzungsbedingungen. Mit deiner Annahme dieser Nutzungsbedingungen
+erhält Apple das Recht, sie dir gegenüber als begünstigte Dritte
+durchzusetzen (und es gilt als angenommen, dass Apple dieses Recht
+angenommen hat).
 
 ---
 
