@@ -14,7 +14,7 @@ ohne Server.</p>
 <ul class="facts">
   <li><strong>Lokal und verschlüsselt</strong><span>Alle Einträge liegen in einer verschlüsselten Datenbank auf deinem Gerät, geschützt durch deine PIN. Wir erhalten sie zu keinem Zeitpunkt.</span></li>
   <li><strong>Kein Konto bei uns, keine Werbung, kein Tracking</strong><span>Die einzige Internetverbindung, die die App selbst auslöst, ist die Abo-Prüfung über Google Play.</span></li>
-  <li><strong>14 Tage kostenlos</strong><span>Danach brauchst du für neue Einträge ein Monatsabo über Google Play. Deine bestehenden Einträge bleiben immer les- und exportierbar.</span></li>
+  <li><strong>14 Tage kostenlos</strong><span>Danach brauchst du für neue Einträge ein Abo über Google Play – monatlich oder, in ausgewählten Ländern, jährlich. Deine bestehenden Einträge bleiben immer les- und exportierbar.</span></li>
   <li><strong>Kein Medizinprodukt</strong><span>PocketSana hilft beim Festhalten deiner Daten und ersetzt keine ärztliche Beratung, Diagnose oder Behandlung.</span></li>
 </ul>
 
