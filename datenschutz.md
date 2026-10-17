@@ -6,10 +6,10 @@ permalink: /datenschutz
 
 # Datenschutzerklärung — PocketSana – Meine Gesundheitsdaten
 
-Stand: 15. Oktober 2026
+Stand: 17. Oktober 2026
 
 Gemeinsame Fassung für Android und iPhone. Die für Android geltenden Teile
-entsprechen inhaltlich der Fassung der Android-Version mit Stand vom 14. Oktober 2026.
+entsprechen inhaltlich der Fassung der Android-Version mit Stand vom 17. Oktober 2026.
 
 ## 1. Kurzfassung
 
@@ -37,6 +37,11 @@ und nicht löschen. Die Kontrolle liegt vollständig bei dir. Für deine
 Einträge sind wir deshalb **kein Verantwortlicher** im datenschutzrechtlichen
 Sinn: Du führst sie in deinem persönlichen Bereich, so wie ein Notizbuch
 oder eine Tabelle auf deinem eigenen Gerät (Abschnitt 2).
+
+Für die wenigen Daten, die wir selbst verarbeiten (Abschnitt 2, zweiter
+Absatz), stehen dir die Rechte nach Abschnitt 15.1 zu. **Den Verarbeitungen,
+die wir auf unser berechtigtes Interesse stützen, kannst du widersprechen
+(Abschnitt 15.3).**
 
 **Android:** Die einzige Internetverbindung, die **wir selbst** auslösen, ist die Kauf-
 und Berechtigungsprüfung des PocketSana-Premium-Abos über Google Play
@@ -69,11 +74,15 @@ Datenbearbeitung entscheidet (Art. 4 Nr. 7 DSGVO; Art. 5 lit. j DSG). Bei
 deinen Einträgen entscheidest allein du, was du erfasst, wozu, wie lange
 und ob du es jemandem weitergibst; die App speichert sie ausschliesslich
 verschlüsselt auf deinem Gerät, und wir erhalten sie zu keinem Zeitpunkt —
-es gibt keinen Server, kein Online-Konto bei uns und keine Übertragung an uns. Das Führen
-deiner eigenen Gesundheitsaufzeichnungen ist damit eine rein persönliche
+es gibt keinen Server, kein Online-Konto bei uns und keine Übertragung an uns. Wir
+verfolgen mit deinen Einträgen keine eigenen Zwecke. Führst du die Einträge
+für dich oder deine Angehörigen, ist das zudem eine rein persönliche
 Tätigkeit, auf die die Datenschutzgesetze nicht anwendbar sind (Art. 2
-Abs. 2 lit. c DSGVO; Art. 2 Abs. 2 lit. a DSG). Wir stellen dir dafür nur
-das Werkzeug bereit.
+Abs. 2 lit. c DSGVO; Art. 2 Abs. 2 lit. a DSG). Nutzt du die App beruflich
+(z. B. in der Pflege, Nutzungsbedingungen Teil A.2), bist du selbst
+Verantwortliche:r für die Daten der betreuten Personen und musst die für
+dich geltenden Datenschutz- und Schweigepflichten einhalten. Wir stellen dir
+dafür nur das Werkzeug bereit.
 
 Für die wenigen Verarbeitungen, die wir selbst durchführen — die Einsicht
 in die Bestell- und Abo-Angaben, die uns Google in der Play Console
@@ -84,11 +93,13 @@ die Verkaufs-, Abo- und Auszahlungsberichte, die uns Apple in App Store
 Connect bereitstellt (für die Buchhaltung), die
 Beantwortung von Support-Anfragen an uns (einschliesslich
 Widerrufserklärungen per E-Mail) und von öffentlichen Bewertungen
-im Store (Abschnitt 7) sowie, auf dem iPhone, die
-Abwicklung einer Erstattung, die wir nach den Nutzungsbedingungen (Teil B.2
-und B.3) selbst per Banküberweisung leisten (Name, Bankverbindung,
-Apple-Kaufbeleg) —, ist PocketSana Felbar (Einzelunternehmen,
-Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz,
+im Store (Abschnitt 7), auf dem iPhone die
+Abwicklung einer Erstattung, die wir nach den Nutzungsbedingungen (Teil A.9,
+B.2 und B.3) selbst per Banküberweisung leisten (Name, Bankverbindung,
+Apple-Kaufbeleg), sowie die Prüfung deines Abo-Status durch die App auf
+deinem Gerät (Abschnitt 4.6; dabei erhalten wir keine Daten) —, ist
+PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar),
+Salamanderweg 1, 7320 Sargans, Schweiz,
 UID CHE-485.068.824, E-Mail: contact.pocketsana@gmail.com, verantwortlich.
 Die Berichte von Apple enthalten zusammengefasste Zahlen (z. B. Anzahl
 Käufe und Verlängerungen je Land und Zeitraum); Namen, Apple Account,
@@ -116,7 +127,7 @@ Wichtig für die Reichweite: Die nachfolgend genannten Gesetze gelten für
 die **von uns** durchgeführten Verarbeitungen (Abschnitt 2, zweiter
 Absatz: Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, eigene
 Erstattungen, Antworten auf Store-Bewertungen). Deine Einträge in der App
-fallen nicht darunter, weil du sie selbst und ausschliesslich für persönliche Zwecke führst (Abschnitt 2,
+fallen nicht darunter, weil du sie selbst führst und wir sie nicht erhalten (Abschnitt 2,
 erster Absatz). Wir beschreiben sie in dieser Erklärung trotzdem
 ausführlich, damit du weisst, wie die App mit ihnen umgeht.
 
@@ -334,6 +345,15 @@ nicht von sich aus. Sie setzt stattdessen den Import und die Anzeige der
 Sportwerte aus Health Connect aus, bis du in den Einstellungen über «Mit
 Health Connect verbinden» erneut zustimmst.
 
+**Was wir mit Daten aus Health Connect nie tun:** Wir erhalten sie nicht,
+und die App gibt sie nicht von sich aus weiter — weder an uns noch an Dritte;
+nur wenn du selbst ein Backup oder einen PDF-Export erstellst und weitergibst,
+verlassen sie zusammen mit deinen übrigen Einträgen das Gerät (Abschnitt 4.5).
+Sie werden
+nur für die von dir aktivierte Anzeige und Übernahme in deine eigenen
+Einträge verwendet, nicht für Werbung, Marketing, Profilbildung oder die
+Einschätzung von Kreditwürdigkeit, und nicht verkauft.
+
 ### 4.3a Apple-Health-Importe (iPhone, optional, nur nach deiner Freigabe)
 
 Wenn du den Import aktivierst, liest die App die von dir einzeln
@@ -370,7 +390,10 @@ freigegeben oder abgelehnt hast; eine Ablehnung sieht für die App aus wie
 Health-App bzw. in den iOS-Einstellungen beim Eintrag für PocketSana.
 
 **Was wir mit diesen Werten nie tun:** Wir erhalten sie nicht, und die App
-gibt sie nicht weiter — weder an uns noch an Dritte. Sie werden nicht für
+gibt sie nicht von sich aus weiter — weder an uns noch an Dritte; nur wenn du
+selbst ein Backup oder einen PDF-Export erstellst und weitergibst, verlassen
+sie zusammen mit deinen übrigen Einträgen das Gerät (Abschnitt 4.5). Sie
+werden nicht für
 Werbung, Marketing oder Auswertungen deines Nutzungsverhaltens verwendet,
 nicht verkauft und nicht in iCloud gespeichert (zu einem Backup, das du
 selbst in iCloud Drive ablegst, siehe Abschnitt 4.5).
@@ -562,8 +585,9 @@ zuletzt bestätigten Abo-Status speichert die App im Schlüsselbund
 
 - **Kamera:** wird nur für Fotos genutzt, die du selbst in der App aufnimmst:
   für die Fotodokumentation (z. B. Wundverlauf) und dein Profilbild mit
-  Live-Vorschau direkt in der App, für Dokumente und den Scan deines
-  Medikamentenplans über die Kamera-App deines Geräts. Bei Dokumenten und
+  Live-Vorschau direkt in der App, auf **Android** für Dokumente und den Scan
+  deines Medikamentenplans über die Kamera-App deines Geräts (zum iPhone
+  siehe unten). Bei Dokumenten und
   beim Medikamentenplan-Scan läuft die Texterkennung auf dem Gerät
   (Abschnitte 4.1 und 5). Die Kamera-Berechtigung wird erst beim ersten
   tatsächlichen Fotografier-Versuch angefragt, nicht schon beim App-Start. **Hinweis
@@ -838,12 +862,12 @@ von vornherein verschlüsselt und nur auf deinem Gerät hält — auch wenn wir
 selbst diese Daten nicht verarbeiten (Abschnitt 2).
 
 **Schweiz (DSG):** Gesundheitsdaten gelten als besonders schützenswerte
-Personendaten (Art. 5 lit. c Ziff. 2 DSG). Biometrische Daten sind nach
-Art. 5 lit. c Ziff. 4 DSG ebenfalls besonders schützenswert, **soweit sie
-eine natürliche Person eindeutig identifizieren** — das ist hier nicht der
-Fall, weil wir wie in Abschnitt 4.4 beschrieben nie biometrische Rohdaten
-erhalten, sondern nur ein Erfolgs-/Misserfolgs-Signal vom Betriebssystem
-(auf dem iPhone: Secure Enclave, Abschnitt 4.4a).
+Personendaten (Art. 5 lit. c Ziff. 2 DSG). Biometrische Daten, die eine
+natürliche Person eindeutig identifizieren, sind nach Art. 5 lit. c Ziff. 4
+DSG ebenfalls besonders schützenswert. Solche Daten verarbeiten weder wir
+noch die App: Die Erkennung läuft ausschliesslich im Betriebssystem, die App
+erhält nur ein Erfolgs-/Misserfolgs-Signal (auf dem iPhone: Secure Enclave;
+Abschnitte 4.4, 4.4a).
 
 **EU (DSGVO):** Gesundheitsdaten sind besondere Kategorien personenbezogener
 Daten nach Art. 9 Abs. 1 DSGVO. Aus demselben technischen Grund (kein
@@ -865,7 +889,7 @@ in der Google Play Console (Rückerstattungen, Widerrufe, Buchhaltung) bzw.
 in die Berichte von Apple in App Store Connect (Buchhaltung) und Prüfung
 deines Abo-Status in der App (Abschnitte 4.6, 9); die Abwicklung einer
 Erstattung, die wir auf dem iPhone selbst per Banküberweisung leisten
-(Nutzungsbedingungen, Teil B.2 und B.3); die Beantwortung deiner
+(Nutzungsbedingungen, Teil A.9, B.2 und B.3); die Beantwortung deiner
 Support-Anfragen, wenn du uns per E-Mail schreibst; die Beantwortung
 öffentlicher Bewertungen im Google Play Store bzw. App Store über die dort
 vorgesehene Antwortfunktion (wir sehen dabei deinen öffentlichen Anzeigenamen, deine
@@ -918,32 +942,45 @@ Zustimmung zur Aktivierung des Imports (Abschnitte 4.3 und 4.3a).
 Absatz):**
 
 - **EU/UK:** Die Bestell- und Abo-Angaben, die uns Google in der Play
-  Console anzeigt, sehen wir nur ein, soweit das zur Erfüllung des Vertrags
-  mit dir nötig ist (Rückerstattungen, Widerrufe, Buchhaltung); die
+  Console anzeigt, sehen wir nur ein, soweit das zur Erfüllung unseres
+  Vertrags mit dir nötig ist (Rückerstattungen, Widerrufe), d. h. des
+  Nutzungsvertrags nach unseren Nutzungsbedingungen einschliesslich der dort
+  geregelten Widerrufe und Erstattungen (Teil A.9, B.2, B.3). Das gilt auch
+  dort, wo Google Commerce Limited bzw. Apple Vertragspartnerin des
+  Abo-Kaufs ist; die
   Abo-Abwicklung selbst führen Google bzw. Apple durch (Abschnitt 9). Support-Anfragen,
   einschliesslich Widerrufserklärungen per E-Mail, verarbeiten wir zur
-  Beantwortung bzw. Abwicklung deiner Anfrage. Leisten wir dir auf dem
+  Durchführung dieses Vertrags oder auf deine Anfrage vor einem
+  Vertragsschluss. Leisten wir dir auf dem
   iPhone eine Erstattung selbst, verarbeiten wir deinen Namen, deine
   Bankverbindung und deinen Apple-Kaufbeleg zur Ausführung der Überweisung.
-  Rechtsgrundlage ist jeweils **Art. 6 Abs. 1 lit. b DSGVO**. Die Berichte
+  Die App prüft auf deinem Gerät, ob ein gültiges Abo besteht, und
+  speichert das Ergebnis lokal (Abschnitte 4.4b, 4.6), damit sie PocketSana
+  Premium freischalten kann; wir erhalten dabei keine Daten.
+  Rechtsgrundlage ist jeweils **Art. 6 Abs. 1 lit. b DSGVO**. Support-Anfragen
+  ohne Bezug zu einem Vertrag beantworten wir gestützt auf unser
+  berechtigtes Interesse, Anfragen zu unserer App zu beantworten (**Art. 6
+  Abs. 1 lit. f DSGVO**). Die Berichte
   von Apple in App Store Connect enthalten keine Angaben zu deiner Person;
   soweit sie dennoch Personendaten enthalten sollten, sehen wir sie für die
   Buchhaltung ein, gestützt auf unser berechtigtes Interesse an einer
-  belegbaren Buchführung (**Art. 6 Abs. 1 lit. f DSGVO**). Öffentliche
+  belegbaren Buchführung (**Art. 6 Abs. 1 lit. f DSGVO**); dasselbe gilt,
+  soweit wir die Angaben in der Play Console für die Buchhaltung einsehen.
+  Öffentliche
   Bewertungen im Google Play Store bzw. App Store beantworten wir gestützt
   auf unser berechtigtes Interesse, auf öffentliche Rückmeldungen zu
   antworten (**Art. 6 Abs. 1 lit. f DSGVO**).
   Gesundheitsangaben, die du in einer Bewertung selbst öffentlich machst,
   verarbeiten wir nur zur Beantwortung (Art. 9 Abs. 2 lit. e DSGVO).
-  Eine Ausnahme von lit. b ist
-  auch die zehnjährige Aufbewahrung der Auszahlungs- und Umsatzberichte und
+  Nicht auf lit. b stützen lässt sich
+  die zehnjährige Aufbewahrung der Auszahlungs- und Umsatzberichte und
   der Belege eigener Erstattungen für die
-  Buchhaltung (Abschnitt 11): Sie dauert über das Vertragsende hinaus an
-  und lässt sich deshalb nicht auf lit. b stützen. Wir stützen sie auf unser
+  Buchhaltung (Abschnitt 11), weil sie über das Vertragsende hinaus
+  andauert. Wir stützen sie auf unser
   berechtigtes Interesse, die Aufbewahrungspflicht des Schweizer
   Buchführungsrechts (Art. 958f OR) zu erfüllen und die Buchführung belegbar
   zu halten (**Art. 6 Abs. 1 lit. f DSGVO**; zum Widerspruchsrecht siehe
-  Abschnitt 15). Art. 6 Abs. 1 lit. c DSGVO kommt dafür nicht in Betracht,
+  Abschnitt 15.3). Art. 6 Abs. 1 lit. c DSGVO kommt dafür nicht in Betracht,
   weil er eine Pflicht aus dem Recht der EU oder eines EU-Mitgliedstaats
   voraussetzt (Art. 6 Abs. 3 DSGVO). Ebenfalls auf unser berechtigtes
   Interesse, Ansprüche belegen zu können (**Art. 6 Abs. 1 lit. f DSGVO**),
@@ -958,7 +995,10 @@ Absatz):**
   Bewertung siehe oben. Schreibst du uns in einer
   Support-Anfrage freiwillig Gesundheitsangaben, verarbeiten wir sie allein
   zur Beantwortung, gestützt auf deine damit ausdrücklich erklärte
-  Einwilligung (Art. 9 Abs. 2 lit. a DSGVO), und löschen sie danach. Diese
+  Einwilligung (Art. 9 Abs. 2 lit. a DSGVO), und löschen sie danach. Bewahren
+  wir eine Widerrufserklärung als Nachweis auf (Abschnitt 11), behalten wir
+  davon nur die für den Nachweis nötigen Angaben; Gesundheitsangaben darin
+  löschen wir nach der Beantwortung. Diese
   Einwilligung kannst du jederzeit per E-Mail an contact.pocketsana@gmail.com
   widerrufen; wir löschen die Angaben dann sofort. Bitte nenne in Anfragen
   nur, was zur Beantwortung nötig ist.
@@ -999,8 +1039,8 @@ Abschnitt 15.
   [Google-Play-Zahlungsbedingungen](https://payments.google.com/legaldocument?family=0.privacynotice)
   in eigener Verantwortung. Erreicht uns ein Widerruf direkt, geben wir die
   dafür nötigen Angaben (Bestellnummer, Datum, Name, soweit genannt) an
-  Google Commerce Limited weiter oder veranlassen die Erstattung in der Play
-  Console.
+  Google Commerce Limited weiter oder veranlassen die Erstattung und die
+  Beendigung des Abos in der Play Console.
 - **Health Connect** (Android-Systemdienst) — erhält keine Daten von der
   App; im Gegenteil: liefert der App Daten, rein lokal auf deinem Gerät —
   Rolle: kein Datenempfänger im rechtlichen Sinn.
@@ -1035,10 +1075,14 @@ Abschnitt 15.
   selbst ein Backup in iCloud Drive ablegst, speichert Apple diese
   verschlüsselte Datei als Anbieterin deines iCloud-Kontos.
 
-- **E-Mail-Dienst (Gmail, Google)** — speichert und übermittelt
-  Support-Anfragen, die du uns schreibst; Google verarbeitet sie dabei nach
-  seinen eigenen Nutzungs- und Datenschutzbedingungen; Übermittlung in die
-  USA nach Abschnitt 10.
+- **E-Mail-Dienst (Gmail, Google Ireland Limited, Irland)** — speichert und
+  übermittelt Support-Anfragen und Widerrufserklärungen, die du uns
+  schreibst, in unserem Postfach; Übermittlung an Google LLC in die USA nach
+  Abschnitt 10.
+- **Unser Vertreter in der EU** (Stefan Felbar, Lustenau, Österreich;
+  Abschnitt 17) — erhält Anfragen, die du an ihn richtest oder die über ihn
+  an uns gelangen, und leitet sie an uns weiter — Rolle: Vertreter nach
+  Art. 27 DSGVO.
 - **Google Play (Bewertungen)** — Google betreibt die Bewertungsfunktion
   (im EWR und in der Schweiz **Google Ireland Limited**, in den übrigen Ländern
   einschliesslich Vereinigtes Königreich **Google LLC**); unsere Antwort auf deine Bewertung veröffentlicht
@@ -1056,8 +1100,9 @@ Abschnitt 15.
 Ausser den oben genannten, eng begrenzten Rollen von Google (Abo-Abwicklung,
 E-Mail-Dienst für Support-Anfragen, Veröffentlichung unserer Antworten auf
 Store-Bewertungen), Apple (Abo-Abwicklung, Veröffentlichung unserer Antworten
-auf App-Store-Bewertungen) und unserer
-Bank (eigene Erstattungen auf dem iPhone) geben wir **keine** Daten an Dritte
+auf App-Store-Bewertungen), unserer
+Bank (eigene Erstattungen auf dem iPhone) und unserem Vertreter in der EU
+(Weiterleitung von Anfragen) geben wir **keine** Daten an Dritte
 weiter — bei uns gibt es keine eigene Infrastruktur, über die das technisch
 möglich wäre.
 
@@ -1071,7 +1116,7 @@ Gesundheitsdaten aus der App sind nie darunter. Wir geben Daten nur an
 Stellen weiter, die einen gleichwertigen Schutz deiner Daten gewährleisten
 wie diese Erklärung und die Richtlinien des App Store bzw. von Google Play:
 Die hier genannten Stellen haben ihren Sitz in der Schweiz oder in der EU
-(Irland) und sind an das DSG bzw. die DSGVO gebunden, oder sie haben ihren
+(Irland, Österreich) und sind an das DSG bzw. die DSGVO gebunden, oder sie haben ihren
 Sitz in den USA (etwa Google LLC) bzw. übermitteln dorthin, jeweils auf
 Grundlage der in Abschnitt 10 genannten Garantien (Data Privacy Framework
 bzw. Standardvertragsklauseln). An Stellen ohne
@@ -1149,11 +1194,11 @@ unterliegen den Aufbewahrungsregeln von Google Play, die Berichte in App
 Store Connect denen von Apple. Auszahlungs- und
 Umsatzberichte aus der Play Console und aus App Store Connect, ebenso die
 Belege von Erstattungen, die wir selbst geleistet haben (Zahlungsbeleg mit
-Name, Bankverbindung, Betrag), bewahren wir für die Buchhaltung zehn
+Name, Bankverbindung, Betrag; Apple-Kaufbeleg), bewahren wir für die Buchhaltung zehn
 Jahre auf (Art. 958f OR); darüber hinaus legen wir keine eigene Kopie an.
 Unsere Antworten auf Store-Bewertungen bleiben im Google Play Store bzw.
 App Store sichtbar, solange deine Bewertung dort veröffentlicht ist; eine
-eigene Kopie legen wir nicht an. Widersprichst du (Abschnitt 15), entfernen
+eigene Kopie legen wir nicht an. Widersprichst du (Abschnitt 15.3), entfernen
 wir unsere Antwort.
 
 **Ausnahme Papierkorb:** Bereits von dir gelöschte, aber noch nicht
@@ -1192,6 +1237,9 @@ nicht Verantwortlicher sind (Abschnitt 2):
   Geräteübertragungen (Abschnitt 4.5).
 - iPhone: Vom iCloud-Backup und vom Backup auf einem Computer
   ausgeschlossene App-Daten (Abschnitt 4.5).
+- Android: Die App verhindert auf allen Bildschirmen mit deinen Einträgen
+  Bildschirmfotos und Bildschirmaufnahmen und zeigt in der App-Übersicht
+  keinen Inhalt.
 - iPhone: Anders als auf Android kann die App Bildschirmfotos nicht
   verhindern. Sie deckt ihren Inhalt aber in der App-Übersicht von iOS und
   während einer Bildschirmaufnahme oder Bildschirmspiegelung ab.
@@ -1233,9 +1281,10 @@ Vorfall bei dieser Architektur unwahrscheinlich. Unabhängig davon
 informieren wir dich über einen Hinweis in der App (mit dem nächsten
 App-Update) und über den Store-Eintrag, wenn wir von
 einer Schwachstelle in der Verschlüsselung der App erfahren, die deine lokal
-gespeicherten Einträge betrifft — freiwillig, denn eine gesetzliche
-Meldepflicht besteht dafür nicht, weil wir für diese Einträge nicht
-Verantwortlicher sind (Abschnitt 2). Sollte eine Verletzung des Schutzes von Daten auftreten,
+gespeicherten Einträge betrifft — freiwillig, denn nach DSG und DSGVO
+besteht dafür keine Meldepflicht, weil wir für diese Einträge nicht
+Verantwortlicher sind (Abschnitt 2; zur abweichenden Lage in den USA siehe
+Abschnitt 19). Sollte eine Verletzung des Schutzes von Daten auftreten,
 für die wir verantwortlich sind:
 
 - **EU:** Ist ein Risiko für deine Rechte und Freiheiten wahrscheinlich,
@@ -1284,7 +1333,7 @@ für die wir verantwortlich sind:
   diesem Fall öffentlich zugängliche Kanäle (Hinweis in der App mit dem nächsten App-Update,
   Store-Eintrag) als Ersatzmassnahme (Art. 34 Abs. 3 lit. c DSGVO).
 
-## 14. Reichweite der INTERNET-Berechtigung und Netzwerkzugriff
+## 14. Internetzugriff der App
 
 Diese App ist so gebaut, dass sie **keine** Gesundheitsdaten überträgt —
 das ist ein zentrales Architekturprinzip. **Android:** Für die Abwicklung des
@@ -1329,29 +1378,73 @@ Sicherheit» → «App-Datenschutzbericht» selbst nachsehen.
 
 ## 15. Deine Rechte
 
+### 15.1 Deine Rechte gegenüber uns
+
+Für die wenigen Daten, die wir selbst verarbeiten (Abschnitt 2, zweiter
+Absatz: Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, eigene
+Erstattungen, Antworten auf Store-Bewertungen), hast du gegenüber uns
+folgende Rechte:
+
+- **Auskunft** — Art. 25 DSG (Schweiz); Art. 15 DSGVO (EU).
+- **Berichtigung** — Art. 32 Abs. 1 DSG (Schweiz); Art. 16 DSGVO (EU).
+- **Löschung** — Art. 32 Abs. 2 lit. c DSG (Schweiz); Art. 17 DSGVO (EU).
+- **Einschränkung** — Art. 18 DSGVO (EU); in der Schweiz vergleichbar
+  Art. 32 Abs. 2 lit. a DSG.
+- **Datenherausgabe/-übertragbarkeit** — Art. 28 DSG (Schweiz); Art. 20
+  DSGVO (EU).
+- **Widerspruch** — Art. 21 DSGVO (EU); Art. 30 Abs. 2 lit. b DSG
+  (Schweiz); siehe Abschnitt 15.3.
+- **Widerruf einer Einwilligung** — Art. 7 Abs. 3 DSGVO (EU); zu
+  Gesundheitsangaben in Support-Anfragen siehe Abschnitt 8.
+- **Beschwerderecht** — für die Daten, die wir selbst verarbeiten: nicht in
+  der App, sondern bei der Aufsichtsbehörde — Schweiz: Anzeige beim EDÖB
+  ([edoeb.admin.ch](https://www.edoeb.admin.ch); siehe unten); EU: Art. 77
+  DSGVO, Beschwerde bei der Aufsichtsbehörde deines Aufenthaltsorts.
+
+Schreib uns dafür an contact.pocketsana@gmail.com oder an unsere
+Postanschrift (Abschnitt 2); in der EU kannst du dich auch an unseren
+Vertreter wenden (Abschnitt 17). Auskunft erteilen wir in der Regel innert
+30 Tagen (Art. 25 Abs. 7 DSG); auf Anträge nach der DSGVO antworten wir
+innert eines Monats (Art. 12 Abs. 3 DSGVO).
+
+**Zum Beschwerderecht in der Schweiz:** Du kannst dem EDÖB eine Anzeige
+erstatten. Er eröffnet eine Untersuchung, wenn Anzeichen für einen Verstoss
+gegen das Datenschutzrecht bestehen; bei Verstössen von geringfügiger
+Bedeutung kann er davon absehen (Art. 49 DSG). Er informiert dich über die
+unternommenen Schritte und das Ergebnis. Anders als bei einer Beschwerde
+nach Art. 77 DSGVO bist du im Verfahren des EDÖB aber nicht Partei. Deine
+Ansprüche gegen uns kannst du zudem mit einer **Zivilklage** durchsetzen
+(Art. 32 DSG).
+
+Ein **Recht auf keine ausschliesslich automatisierte Entscheidung** ist
+hier nicht einschlägig — weder nach **Art. 22 DSGVO** noch nach dessen
+Schweizer Pendant **Art. 21 DSG** (Informationspflicht bei einer
+automatisierten Einzelentscheidung): Die App trifft keine automatisierten
+Einzelfallentscheidungen mit Rechtswirkung für dich — sie zeigt deine
+eigenen Eingaben und die von dir freigegebenen, aus Health Connect bzw.
+Apple Health importierten Werte an und fasst sie allenfalls rechnerisch zusammen
+(Durchschnitte, Minimum/Maximum, Stundenmittelwerte, Zähler und
+Prozentanteile, BMI; vollständige Liste in Abschnitt 4.1), ohne sie
+medizinisch zu bewerten (siehe Abschnitte 4.1, 4.3, 4.3a und 7).
+
+### 15.2 Kontrolle über deine Einträge in der App
+
 Da alle Gesundheitsdaten ausschliesslich auf deinem eigenen Gerät liegen und
 wir keinen Zugriff darauf haben, übst du deine Rechte an diesen Einträgen
 **direkt in der App** aus, statt bei uns anfragen zu müssen — wir halten
 schlicht nichts von ihnen, worüber wir für dich verfügen könnten. Die
-nachfolgenden Gesetzesartikel gelten deshalb im rechtlichen Sinn für die
-wenigen Daten, die wir selbst verarbeiten (Abschnitt 2, zweiter Absatz:
-Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen, eigene
-Erstattungen, Antworten auf Store-Bewertungen); für deine Einträge stehen
-dir die entsprechenden Funktionen der App unabhängig davon jederzeit zur
-Verfügung. Bei Abo-/Kaufdaten, Support-Anfragen, Widerrufserklärungen,
-eigenen Erstattungen und Antworten auf Store-Bewertungen wende dich an
-contact.pocketsana@gmail.com.
+folgenden Funktionen der App stehen dir dafür jederzeit zur Verfügung. Sie
+sind keine gesetzlichen Ansprüche gegen uns, weil wir deine Einträge nicht
+verarbeiten.
 
-- **Auskunft** — Alle Journale sind jederzeit einsehbar — Art. 25 DSG
-  (Schweiz); Art. 15 DSGVO (EU).
-- **Berichtigung** — Alle Einträge sind jederzeit editierbar; Ausnahmen:
+- **Einsicht** — Alle Journale sind jederzeit einsehbar.
+- **Bearbeitung** — Alle Einträge sind jederzeit editierbar; Ausnahmen:
   Bei aus Health Connect bzw. Apple Health importierten Stundenwerten sind Datum und Uhrzeit
   fest, importierte Schlafnächte lassen sich nur löschen (Abschnitte 4.3 und 4.3a).
   Wundfotos lassen sich nur hinzufügen und löschen. Erfasste Einnahmen im
   Einnahmeprotokoll lassen sich löschen und neu erfassen, aber nicht
-  bearbeiten — Art. 32 Abs. 1 DSG (Schweiz); Art. 16 DSGVO (EU).
-- **Löschung** — in der App auf mehreren Wegen (siehe unten) — Art. 32
-  Abs. 2 lit. c DSG (Schweiz); Art. 17 DSGVO (EU).
+  bearbeiten.
+- **Löschung** — in der App auf mehreren Wegen (siehe unten).
   - Einzelne Einträge: Papierkorb (Wiederherstellen/endgültig löschen) oder
     die Funktion «Alte Einträge aufräumen» in den Einstellungen, die ältere
     Einträge gesammelt in den Papierkorb verschiebt (ausgenommen sind
@@ -1379,10 +1472,9 @@ contact.pocketsana@gmail.com.
   Android in den Health-Connect-Einstellungen deines Geräts, auf dem iPhone
   in der Health-App bzw. in den iOS-Einstellungen beim Eintrag für
   PocketSana; bereits übernommene Werte bleiben gespeichert, bis du sie
-  löschst) — Art. 18 DSGVO (EU; kein direktes Schweizer Pendant).
-- **Datenübertragbarkeit** — Backup-Export (siehe Abschnitt 4.5) oder
-  PDF-Exporte (Notfallausweis, Arzttermin-Export) — Art. 28
-  DSG (Schweiz); Art. 20 DSGVO (EU).
+  löschst).
+- **Export** — Backup-Export (siehe Abschnitt 4.5) oder PDF-Exporte
+  (Notfallausweis, Arzttermin-Export).
 - **Beenden der Nutzung** — Für deine Einträge hast du uns keine Einwilligung
   erteilt (Abschnitt 8); dort gibt es also nichts zu widerrufen. Du beendest die Nutzung
   jederzeit, indem du die betroffenen Einträge löschst, die App-Daten in den
@@ -1391,10 +1483,6 @@ contact.pocketsana@gmail.com.
   sämtlicher Daten" unten). Da
   deine Daten ausschliesslich auf deinem Gerät liegen, können wir sie nicht
   für dich löschen; das wirkt allein durch dein Handeln in der App.
-- **Beschwerderecht** — für die Daten, die wir selbst verarbeiten: nicht in
-  der App, sondern bei der Aufsichtsbehörde — Schweiz: Beschwerde beim EDÖB
-  ([edoeb.admin.ch](https://www.edoeb.admin.ch)); EU: Art. 77 DSGVO,
-  Beschwerde bei der Aufsichtsbehörde deines Aufenthaltsorts.
 
 **Löschung sämtlicher Daten:**
 
@@ -1482,34 +1570,28 @@ die Sicherheit dieser Kopie — ob du sie lokal oder in einem Cloud-Speicher
 gewählten Ort liegt der Zugriffsschutz (z. B. eine sichere
 Cloud-Kontoeinrichtung) in deiner eigenen Verantwortung, nicht bei uns.
 
-**Zum Beschwerderecht in der Schweiz:** Der EDÖB prüft
-Anzeigen gegen private Verantwortliche wie uns nur bei Verdacht auf
-systematische Verstösse von einigem Gewicht — anders als eine
-EU-Aufsichtsbehörde nach Art. 77 DSGVO besteht **keine Pflicht**, eine
-einzelne individuelle Beschwerde zu bearbeiten oder zu entscheiden. Der
-eigentliche individuelle Rechtsweg gegen uns als private Verantwortliche ist die
-**Zivilklage** nach Art. 32 DSG (siehe Berichtigung/Löschung oben).
+Für Fragen, die die App selbst nicht beantworten kann, kontaktiere uns unter
+contact.pocketsana@gmail.com.
 
-Ein **Recht auf keine ausschliesslich automatisierte Entscheidung** ist
-hier nicht einschlägig — weder nach **Art. 22 DSGVO** noch nach dessen
-Schweizer Pendant **Art. 21 DSG** (Informationspflicht bei einer
-automatisierten Einzelentscheidung): Die App trifft keine automatisierten
-Einzelfallentscheidungen mit Rechtswirkung für dich — sie zeigt deine
-eigenen Eingaben und die von dir freigegebenen, aus Health Connect bzw.
-Apple Health importierten Werte an und fasst sie allenfalls rechnerisch zusammen
-(Durchschnitte, Minimum/Maximum, Stundenmittelwerte, Zähler und
-Prozentanteile, BMI; vollständige Liste in Abschnitt 4.1), ohne sie
-medizinisch zu bewerten (siehe Abschnitte 4.1, 4.3, 4.3a und 7).
+Diese Datenschutzerklärung und die Nutzungsbedingungen findest du in der
+App sowohl im Ersteinrichtungs-Ablauf als auch dauerhaft in den
+Einstellungen unter "Rechtliches" (Art. 12 Abs. 1 DSGVO).
+
+### 15.3 Dein Widerspruchsrecht (Art. 21 DSGVO)
+
+**Gegen die Verarbeitungen, die wir auf unser berechtigtes Interesse
+stützen (Beantwortung von Store-Bewertungen und von Support-Anfragen ohne
+Bezug zu einem Vertrag, Aufbewahrung von Buchhaltungsunterlagen und
+Widerrufserklärungen, Einsicht in die Berichte von Apple und in die Angaben
+in der Play Console für die Buchhaltung), kannst du
+jederzeit aus Gründen, die sich aus deiner besonderen Situation ergeben,
+Widerspruch einlegen.** In der Schweiz kannst du einer Bearbeitung ebenfalls
+widersprechen (Art. 30 Abs. 2 lit. b DSG). Schreib dazu an
+contact.pocketsana@gmail.com.
 
 Ein **Widerspruchsrecht** (Art. 21 DSGVO) gilt nur für Verarbeitungen auf
 Basis eines berechtigten Interesses oder für Direktwerbung. Direktwerbung
-betreiben wir nicht. Auf ein berechtigtes Interesse stützen wir allein die
-zehnjährige Aufbewahrung der Buchhaltungsunterlagen, die Aufbewahrung von
-Widerrufserklärungen als Nachweis (Abschnitt 8 in Verbindung mit Abschnitt
-11), die Einsicht in die Berichte von Apple in App Store Connect für die
-Buchhaltung und die Beantwortung öffentlicher Bewertungen im Store
-(Abschnitt 8). Dagegen steht dir das **Widerspruchsrecht
-nach Art. 21 DSGVO** zu. Wir prüfen deinen Widerspruch im Einzelfall; weil
+betreiben wir nicht. Wir prüfen deinen Widerspruch im Einzelfall; weil
 uns das Schweizer Buchführungsrecht (Art. 958f OR) die Aufbewahrung der
 Buchhaltung zwingend vorschreibt und Widerrufserklärungen der
 Verteidigung von Rechtsansprüchen dienen, werden die Gründe für die
@@ -1518,19 +1600,13 @@ Weitere
 Verarbeitungen auf Basis eines berechtigten Interesses führen wir nicht
 durch. Sollte sich das ändern, nennen wir die Verarbeitung in Abschnitt 8 und du kannst ihr hier widersprechen.
 
-Für Fragen, die die App selbst nicht beantworten kann, kontaktiere uns unter
-contact.pocketsana@gmail.com.
-
-Diese Datenschutzerklärung und die Nutzungsbedingungen findest du in der
-App sowohl im Ersteinrichtungs-Ablauf als auch dauerhaft in den
-Einstellungen unter "Rechtliches" (Art. 12 Abs. 1 DSGVO).
-
 ## 16. Für Nutzer:innen in der Schweiz gilt zusätzlich
 
 Es gilt das Schweizer Datenschutzgesetz (DSG) für die von uns selbst
-durchgeführten Bearbeitungen (Abschnitt 2, zweiter Absatz). Beschwerden über die
-Datenbearbeitung durch uns kannst du an den Eidgenössischen Datenschutz- und
-Öffentlichkeitsbeauftragten (EDÖB) richten: [edoeb.admin.ch](https://www.edoeb.admin.ch).
+durchgeführten Bearbeitungen (Abschnitt 2, zweiter Absatz). Eine Anzeige wegen der
+Datenbearbeitung durch uns kannst du beim Eidgenössischen Datenschutz- und
+Öffentlichkeitsbeauftragten (EDÖB) einreichen (Abschnitt 15.1):
+[edoeb.admin.ch](https://www.edoeb.admin.ch).
 
 Eine Datenschutz-Folgenabschätzung (Art. 22 DSG) ist für unsere Bearbeitungen
 nicht erforderlich, weil wir deine Einträge in der App nicht bearbeiten und die
@@ -1546,9 +1622,10 @@ Bearbeitungen (Abschnitt 17).
 
 - Die DSGVO gilt für die von uns selbst durchgeführten Verarbeitungen
   (Abschnitt 2, zweiter Absatz) mit den in Abschnitt 8 genannten
-  Rechtsgrundlagen. Deine Einträge in der App sind vom Anwendungsbereich
-  der DSGVO ausgenommen, weil du sie für ausschliesslich persönliche Zwecke
-  führst (Art. 2 Abs. 2 lit. c DSGVO).
+  Rechtsgrundlagen. Deine Einträge in der App verarbeiten wir nicht
+  (Abschnitt 2). Führst du sie für ausschliesslich persönliche Zwecke, sind
+  sie zudem vom Anwendungsbereich der DSGVO ausgenommen (Art. 2 Abs. 2
+  lit. c DSGVO); zur beruflichen Nutzung siehe Abschnitt 2.
 - **Vertreter in der EU (Art. 27 DSGVO):** Unser Vertreter in der EU ist
   Stefan Felbar, Hasenfeldstrasse 70, 6890 Lustenau, Österreich,
   E-Mail: info@prodacts.at. Er ist zusätzlich zu uns Anlaufstelle für
@@ -1575,6 +1652,16 @@ Bearbeitungen (Abschnitt 17).
   dieser Verarbeitungen (Art. 30 Abs. 1 DSGVO).
 - Dir steht das Beschwerderecht bei der für deinen Aufenthaltsort
   zuständigen Datenschutz-Aufsichtsbehörde zu (Art. 77 DSGVO).
+- **Speichern auf deinem Gerät (Deutschland: § 25 TDDDG; Österreich: § 165
+  Abs. 3 TKG 2021):** Die App speichert Informationen auf deinem Gerät und
+  liest sie dort aus (u. a. deine Einträge, Einstellungen, Abo-Status, auf
+  Android den Beginn der Testphase; auf deine Anforderung Werte aus Health
+  Connect bzw. Apple Health). Das ist jeweils unbedingt erforderlich, um die von dir
+  gewünschten Funktionen bereitzustellen; eine Einwilligung ist dafür nicht
+  nötig. Auf Android legt zudem die Texterkennungsbibliothek ML Kit beim
+  ersten Scan eine zufällige, installationsbezogene Kennung an; sie wird
+  weder von uns ausgelesen noch übertragen (Abschnitte 4.1 und 5). Cookies,
+  Werbe-IDs oder Tracking-Kennungen verwenden wir nicht.
 
 ## 18. Vereinigtes Königreich: zusätzlich geltende Punkte
 
@@ -1588,7 +1675,9 @@ Bearbeitungen (Abschnitt 17).
   über eine mutmassliche Verletzung des UK GDPR jederzeit **zunächst direkt
   an uns** wenden — vor einer Beschwerde beim ICO oder stattdessen. Wir
   bestätigen den Eingang deiner Beschwerde innerhalb von 30 Tagen. Kontakt:
-  contact.pocketsana@gmail.com.
+  contact.pocketsana@gmail.com. Beschwerden kannst du auch an das
+  *Information Commissioner's Office* (ICO,
+  [ico.org.uk](https://ico.org.uk)) richten.
 - Im Übrigen gelten die Ausführungen zur Rollenverteilung (Abschnitt 2),
   zu den Rechtsgrundlagen (Abschnitt 8) sowie zu Datenschutzbeauftragtem und
   Folgenabschätzung (Abschnitt 17) unter der UK GDPR entsprechend. Deine
@@ -1639,7 +1728,8 @@ Consumer-Health-Data-Datenschutzerklärung. Wir erheben diese Daten nicht
 aus der App – deine Einträge bleiben auf deinem Gerät und erreichen uns nie
 (Abschnitt 2). Gesundheitsangaben, die du uns freiwillig in einer
 Support-Anfrage schreibst, verarbeiten wir allein zur Beantwortung mit
-deiner Einwilligung und löschen sie danach (Abschnitt 8). Sollten wir die
+deiner Einwilligung und löschen sie danach, auch in einer als Nachweis
+aufbewahrten Widerrufserklärung (Abschnitt 8). Sollten wir die
 App in den USA anbieten, stellen wir dafür zusätzlich eine eigene, kurze
 Consumer-Health-Data-Datenschutzerklärung bereit, die diesen Fall abdeckt.
 Da wir deine Daten zudem weder verkaufen noch mit Dritten teilen, sind die verschärften Anforderungen für "Sale"/"Sharing" nicht
@@ -1714,14 +1804,15 @@ für uns **vollständig**: Die für kleine Unternehmen (Jahresumsatz
 ≤ AUD 3 Mio.) sonst greifende Ausnahme, unter die wir als Einzelunternehmen
 an sich fielen, können wir nicht in Anspruch nehmen, denn sie gilt nicht für
 Anbieter eines "health service", und die App kann unter diesen weiten
-Begriff fallen (§6FB Privacy Act 1988), weil sie der Dokumentation/Verwaltung
+Begriff fallen (s 6FB Privacy Act 1988), weil sie der Dokumentation/Verwaltung
 deiner Gesundheit dient. Wir gehen deshalb vorsorglich davon aus, dass die
 APPs für uns gelten. **APP 3.3** (explizite Einwilligung für die Erhebung
 von "sensitive information") setzt aber voraus, dass wir solche Daten
 erheben — das tun wir nicht, deine Einträge bleiben auf deinem Gerät
-(Abschnitt 2). Ein Recht auf Zugang zu und Berichtigung
-deiner Daten (APP 12/13) übst du wie in Abschnitt 15 beschrieben direkt in
-der App aus. Beschwerden kannst du an das *Office of the Australian
+(Abschnitt 2). Zugang zu und Berichtigung der Daten, die wir selbst
+verarbeiten (APP 12/13), kannst du wie in Abschnitt 15.1 beschrieben bei uns
+verlangen; deine Einträge verwaltest du direkt in der App (Abschnitt 15.2).
+Beschwerden kannst du an das *Office of the Australian
 Information Commissioner* (OAIC, [oaic.gov.au](https://www.oaic.gov.au))
 richten.
 
@@ -1771,4 +1862,5 @@ bei uns gibt es nicht).
 ## 23. Änderungen dieser Erklärung
 
 Wir passen diese Erklärung an, wenn sich die App oder die Rechtslage ändert.
-Das Datum oben zeigt den Stand der aktuellen Fassung.
+Das Datum oben zeigt den Stand der aktuellen Fassung. Bei wesentlichen
+Änderungen zeigt dir die App den Bestätigungsbildschirm erneut (Abschnitt 8).

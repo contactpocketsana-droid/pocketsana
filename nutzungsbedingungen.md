@@ -6,11 +6,10 @@ permalink: /nutzungsbedingungen
 
 # Nutzungsbedingungen (AGB) — PocketSana – Meine Gesundheitsdaten
 
-Stand: 15. Oktober 2026
+Stand: 17. Oktober 2026
 
 Gemeinsame Fassung für Android und iPhone. Die für Android geltenden Teile
-entsprechen inhaltlich der Fassung der Android-Version
-mit Stand vom 15. Oktober 2026.
+entsprechen inhaltlich der Fassung der Android-Version mit Stand vom 17. Oktober 2026.
 
 Diese Nutzungsbedingungen bestehen aus vier Teilen: **Teil A** regelt die
 allgemeine Nutzung der App, **Teil B** die Bedingungen des
@@ -71,15 +70,15 @@ Daten gesichert wären. Das hat direkte Konsequenzen:
 Die App ist für den **privaten Gebrauch** bestimmt. Wenn du sie in einem
 beruflichen Umfeld einsetzt (z. B. in der Pflege oder in einer Arztpraxis),
 tust du das in eigener Verantwortung — einschliesslich der Einhaltung der
-für dich geltenden Berufs- und Schweigepflichten.
+für dich geltenden Berufs-, Schweige- und Datenschutzpflichten.
 
 ### A.3 Nutzerpflichten
 
 - Du bist für die **Richtigkeit und Vollständigkeit** der von dir
   eingetragenen Daten selbst verantwortlich.
 - Du bist für den **Schutz deines Geräts** (PIN, Bildschirmsperre,
-  Betriebssystem-Updates) selbst verantwortlich; wir haften nicht für Folgen
-  eines nicht ausreichend geschützten Geräts.
+  Betriebssystem-Updates) selbst verantwortlich. Für Folgen eines nicht
+  ausreichend geschützten Geräts haften wir nur nach Massgabe von Teil A.6.
 - Wenn du **Zusatzprofile für Dritte** anlegst (z. B. für Familienangehörige),
   bist du dafür verantwortlich, dass du zur Verarbeitung von deren
   Gesundheitsdaten berechtigt bist (insbesondere bei minderjährigen Kindern
@@ -155,9 +154,10 @@ nicht. Zwingende gesetzliche Haftungsregeln (z. B. Produkthaftung) bleiben
 in jedem Fall unberührt. Ab dem 9. Dezember 2026 ist in den
 EU-Mitgliedstaaten die Produkthaftungsrichtlinie (EU) 2024/2853 anzuwenden;
 nach ihr gilt Software ausdrücklich als Produkt im Sinne der
-Produkthaftung. Dieser Vorbehalt
-umfasst ab diesem Zeitpunkt daher auch eine mögliche Produkthaftung für
-die App selbst als Software-Produkt.
+Produkthaftung. Für Versionen der App, die nach dem 9. Dezember 2026
+bereitgestellt werden, umfasst dieser Vorbehalt daher auch eine mögliche
+Produkthaftung für die App selbst als Software-Produkt nach den nationalen
+Umsetzungen dieser Richtlinie.
 
 ### A.7 Gewährleistung
 
@@ -176,15 +176,20 @@ Richtlinie (EU) 2019/770 (Deutschland: §§ 327 ff. BGB; Österreich: VGG;
 u. a. Nachbesserung, Preisminderung, Vertragsbeendigung bei nicht
 vertragsgemässer Bereitstellung von PocketSana Premium als digitaler
 Dienstleistung) — diese
-werden durch die vorstehende Klausel nicht eingeschränkt. Diese Rechte
-bestehen gegenüber deiner Vertragspartnerin bzw. deinem Vertragspartner
-nach Teil B.1; wir wirken an der Abhilfe mit, weil wir die Leistung liefern.
-Für
+werden durch die vorstehende Klausel nicht eingeschränkt. Für
 Verbraucher:innen im **Vereinigten Königreich** gelten insoweit die
 Qualitätsrechte des *Consumer Rights Act 2015* (Teil 1, Kapitel 3) für
 digitale Inhalte. Auch die Einschränkungen im ersten Absatz («wie besehen»,
 «Best Effort») gelten nur im Rahmen des Vorbehalts in Teil A.10 —
 zwingende Gewährleistungsrechte deines Wohnsitzstaats bleiben unberührt.
+
+Gewährleistungsrechte aus dem Abo-Kauf bestehen gegenüber deiner
+Vertragspartnerin bzw. deinem Vertragspartner nach Teil B.1
+(iPhone: in allen Ländern, in denen wir die iPhone-Version anbieten, Apple
+Distribution International Ltd.; Android: in der EU, im EWR, im Vereinigten
+Königreich und in den weiteren in Teil B.1 genannten Gebieten Google
+Commerce Limited, sonst wir); wir wirken an der Abhilfe mit, weil wir die
+Leistung liefern.
 
 ### A.8 Was ohne Abo weiterhin möglich ist – und was nicht
 
@@ -198,7 +203,11 @@ in diesen Bedingungen "Lesemodus ohne Abo".
 - Lesen und Durchsuchen aller vorhandenen Einträge
 - Bearbeiten bestehender Einträge
 - Papierkorb (inklusive Wiederherstellen gelöschter Einträge)
-- Export (Backup/PDF) und Backup-Wiederherstellung (Letztere nur bei der Ersteinrichtung, also nach einer Neuinstallation – auf Android auch nach dem Löschen der App-Daten in den Android-Einstellungen, auf dem iPhone nur nach dem Löschen und erneuten Installieren der App; siehe Datenschutzerklärung Abschnitt 4.5)
+- Export (Backup/PDF)
+- Backup-Wiederherstellung bei der Ersteinrichtung, also nach einer
+  Neuinstallation – auf Android auch nach dem Löschen der App-Daten in den
+  Android-Einstellungen, auf dem iPhone nur nach dem Löschen und erneuten
+  Installieren der App (siehe Datenschutzerklärung Abschnitt 4.5)
 - Erfassen der allgemeinen Notizen im Bereich Termine (nicht an einen
   einzelnen Termin gebunden)
 - Anlegen eines neuen Profils samt der dazugehörigen Stammdaten
@@ -227,7 +236,10 @@ kündigen wir dir **mindestens 30 Tage im Voraus** mit einem Hinweis in der App 
 E-Mail-Adressen unserer Nutzerinnen und Nutzer, ausser du hast uns selbst
 geschrieben); in diesem Fall steht dir für
 ein laufendes Abo ein **Sonderkündigungsrecht** zum Zeitpunkt des
-Inkrafttretens der Änderung zu. **Android:** Bei einem im Voraus bezahlten
+Inkrafttretens der Änderung zu. Du übst es aus, indem du die Verlängerung in
+der Abo-Verwaltung von Google Play bzw. Apple ausschaltest (Teil B.1) und
+uns mitteilst (contact.pocketsana@gmail.com), dass du wegen der Änderung
+kündigst; zur Wahrung des Rechts genügt die Mitteilung an uns. **Android:** Bei einem im Voraus bezahlten
 Zeitraum (z. B. Jahresabo) erstatten wir dir auf Anfrage über Google Play den
 Anteil, der auf die Zeit nach dem Inkrafttreten entfällt. **iPhone:** Bei
 einem im Voraus bezahlten Zeitraum (z. B. Jahresabo) kannst du die
@@ -236,6 +248,14 @@ nach der Sonderkündigung zuerst bei Apple beantragen
 ([reportaproblem.apple.com](https://reportaproblem.apple.com)). Lehnt Apple
 ab, erstatten wir dir diesen Anteil auf Anfrage direkt. Das Datum oben zeigt
 den Stand der aktuellen Fassung.
+
+**Änderungen der App:** Wir dürfen die App aus triftigem Grund ändern
+(z. B. Anpassung an neue Betriebssystemversionen, Rechts- oder
+Sicherheitsanforderungen, Weiterentwicklung), soweit dir dadurch keine
+zusätzlichen Kosten entstehen. Schränkt eine solche Änderung den
+Leistungsumfang für dich wesentlich ein (z. B. wenn eine Funktion wegfällt
+oder nur noch mit Abo nutzbar ist), gelten die Ankündigung und das
+Sonderkündigungsrecht nach dem vorstehenden Absatz entsprechend.
 
 **Preiserhöhungen bei einem über Google Play abgeschlossenen Abo:** Wir
 erhöhen den Preis für ein laufendes Abo nur mit deiner Zustimmung: Bei Google
@@ -258,7 +278,9 @@ erhalten.
 Geänderte Bedingungen gelten für dich erst, wenn du sie in der App
 ausdrücklich erneut akzeptierst (die App zeigt dir dazu den
 Bestätigungsbildschirm erneut). Dort kannst du auch «Nicht zustimmen (keine
-neuen Einträge)» wählen. Dann gilt für dich die bisherige Fassung weiter: Deine
+neuen Einträge)» wählen. Dann gilt für dich der Text der bisherigen Fassung
+weiter (für Änderungen der App selbst gilt der Absatz «Änderungen der App»
+oben): Deine
 bestehenden Einträge bleiben wie im Lesemodus ohne Abo (Teil A.8) les-,
 bearbeit- und exportierbar, und du kannst weiterhin Backups erstellen; neue
 Einträge sind erst möglich, wenn du die geänderte Fassung akzeptierst — ausser
@@ -279,17 +301,18 @@ nur, soweit sie dir nicht den Schutz der zwingenden Bestimmungen des Rechts
 deines gewöhnlichen Aufenthaltsstaats entzieht (für die EU: Art. 6 Abs. 2
 Rom-I-VO, Verordnung (EG) Nr. 593/2008; in EWR-Staaten ausserhalb der EU das
 dortige Kollisionsrecht). Vor Schweizer Gerichten gilt
-für Verbraucher:innen mit gewöhnlichem Aufenthalt ausserhalb der Schweiz nach
-Art. 120 IPRG das Recht ihres Aufenthaltsstaats.
+für Verbraucher:innen mit gewöhnlichem Aufenthalt ausserhalb der Schweiz unter
+den Voraussetzungen von Art. 120 IPRG das Recht ihres Aufenthaltsstaats; eine
+Rechtswahl ist dann ausgeschlossen.
 
 Gerichtsstand ist Sargans (Schweiz). Das gilt jedoch **nur, soweit gesetzlich
 zulässig, und nicht gegenüber Verbraucherinnen und Verbrauchern**. Bist du
-Verbraucher:in, kannst du uns an deinem Wohnsitz verklagen. Verklagt werden
-kannst du nur dort, wo es das für dich geltende Recht vorsieht. Massgeblich
-sind insbesondere Art. 15–17 Lugano-Übereinkommen (Schweiz, EU-Staaten,
-Norwegen und Island; für Liechtenstein die dortigen nationalen Vorschriften),
-Art. 17–19 Brüssel-Ia-Verordnung (innerhalb der EU) sowie die
-entsprechenden nationalen Vorschriften (z. B. § 38 ZPO in Deutschland).
+Verbraucher:in, kannst du uns an deinem Wohnsitz oder an unserem Sitz
+verklagen; wir können dich nur an deinem Wohnsitz verklagen (Schweiz:
+Art. 32 und 35 ZPO; EU-Staaten, Norwegen und Island: Art. 15–17
+Lugano-Übereinkommen; Liechtenstein: die dortigen nationalen Vorschriften).
+Ergänzend gelten die entsprechenden nationalen Vorschriften (z. B. § 38 ZPO
+in Deutschland).
 
 Diese Einschränkungen gehen der Rechtswahl-/Gerichtsstandsklausel vor, soweit
 zwingendes Recht sie verlangt.
@@ -370,7 +393,9 @@ deshalb unten getrennt aufgeführt.
   Testphase weiter; fehlt dieser Eintrag im Backup oder wurde er verändert,
   gilt die Testphase als abgelaufen. Die Testphase setzt zudem eine richtig
   gehende Geräteuhr voraus: Liegt ihr Beginn nach der Geräteuhr in der
-  Zukunft, gilt sie ebenfalls als abgelaufen.
+  Zukunft, gilt sie ebenfalls als abgelaufen. Zeigt die Geräteuhr ein
+  offensichtlich falsches Datum (vor dem Jahr 2025), ist die Testphase erst
+  nutzbar, wenn die Uhr richtig gestellt ist.
 - Erst wenn du danach (oder freiwillig früher) den Kauf von PocketSana
   Premium **aktiv über den Google-Play-Kaufdialog abschliesst**, kommt ein
   kostenpflichtiger Abo-Vertrag zustande. Schliesst du den Kauf
@@ -456,8 +481,10 @@ deshalb unten getrennt aufgeführt.
   abschliesst; dafür ist ein Zahlungsmittel in deinem Apple Account nötig.
   Apple gewährt das Einführungsangebot nur einmal je Apple Account; ob du es
   noch nutzen kannst, zeigt dir der Abo-Bildschirm der App. **Schaltest du
-  die automatische Verlängerung nicht rechtzeitig vor dem Ende der
-  Testphase aus, geht sie automatisch in das kostenpflichtige Abo über,
+  die automatische Verlängerung nicht spätestens 24 Stunden vor dem Ende der
+  Testphase aus (massgeblich ist die Frist, die Apple dir im Kaufdialog und
+  in der Abo-Verwaltung nennt), geht sie automatisch in das kostenpflichtige
+  Abo über,
   das du im Kaufdialog gewählt hast (Monats- oder Jahresabo)**, und Apple belastet den Preis, der dir im Kaufdialog angezeigt
   wurde. Kündigst du während der Testphase, kannst du die App bis zu ihrem
   Ende voll nutzen; danach gilt der Lesemodus ohne Abo (Teil A.8). Eine
@@ -597,8 +624,8 @@ Apple, nicht auf einer eigenen Bestellseite von uns.
   gelangst. **Wir selbst können auf dem iPhone keine Rückerstattung über
   Apple auslösen**; wir helfen dir aber gern bei der Antragstellung
   (contact.pocketsana@gmail.com). Die Auszahlung erfolgt über Apple auf das
-  dort verwendete Zahlungsmittel. Erreicht uns ein wirksamer Widerruf
-  (Teil B.3) und erstattet Apple nicht, erstatten wir dir den belasteten
+  dort verwendete Zahlungsmittel. Widerrufst du wirksam (Teil B.3) und
+  erstattet Apple nicht, erstatten wir dir den belasteten
   Betrag selbst per Banküberweisung.
 
 ### B.3 Widerrufsrecht (für Verbraucher:innen in der EU/im EWR und im Vereinigten Königreich)
@@ -666,8 +693,9 @@ Widerrufsrechts unterrichtest, bereits erbrachten Leistung im Vergleich zum
 Gesamtumfang der im Vertrag vorgesehenen Leistung entspricht. Google Play
 kann diesen Anteil von der Erstattung abziehen.
 
-**Muster-Widerrufsformular (Android-Version)** (bitte nur ausfüllen und
-zurücksenden, wenn du den Vertrag widerrufen willst):
+**Muster-Widerrufsformular (Android-Version)** (wenn du den Vertrag
+widerrufen willst, dann fülle bitte dieses Formular aus und sende es
+zurück):
 
 - An Google Commerce Limited, c/o Customer Support, 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Irland, **oder** an
   PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar), Salamanderweg 1, 7320 Sargans, Schweiz, Telefon +41 76 462 67 76, contact.pocketsana@gmail.com:
@@ -686,7 +714,8 @@ Du hast das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen
 Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
 des Vertragsschlusses, also ab dem Abschluss des Abos im Kaufdialog von
 Apple – auch wenn das Abo mit der kostenlosen Gratiszeit beginnt; mit dem
-Übergang in den bezahlten Zeitraum beginnt keine neue Frist. Um dein
+Übergang in den bezahlten Zeitraum beginnt keine neue Frist (der Preis wird
+dir im Kaufdialog vor Abschluss angezeigt). Um dein
 Widerrufsrecht auszuüben, musst du Apple Distribution International Ltd.
 (Hollyhill Industrial Estate, Hollyhill, Cork, Irland,
 rightofwithdrawal@apple.com; online über
@@ -739,7 +768,10 @@ eine Schritt-für-Schritt-Anleitung. Die Rückzahlung erfolgt in jedem Fall
 über Google Play auf das dort verwendete Zahlungsmittel. Lehnt Google Play
 eine rechtzeitig gestellte Anfrage ab, kannst du dich an uns wenden; für
 die Frist genügt dann das Datum deiner Anfrage bei Google Play. Mit dem
-Widerruf endet das Abo; die Verlängerung wird gestoppt.
+Widerruf endet der Abo-Vertrag. Damit Google Play nicht trotzdem verlängert,
+schalte die Verlängerung zur Sicherheit zusätzlich in der
+Google-Play-Abo-Verwaltung aus (Teil B.1); widerrufst du uns gegenüber,
+beenden wir das Abo zusätzlich selbst in der Google Play Console.
 
 **Praktische Abwicklung auf dem iPhone:** Am einfachsten widerrufst du
 direkt bei Apple, über den Rückerstattungsantrag zu deinem Kauf. In der App
@@ -775,7 +807,8 @@ Möglichen (z. B. einer Sauerstoffsättigung über 100 %) ist keine
 medizinische Bewertung; bei Vitalwerten blockiert er das Speichern nicht,
 bei der Körpergrösse im Profil sind nur Werte zwischen 30 und 272 cm
 speicherbar. Die App ist eine reine
-Dokumentationshilfe. Einfache Statistiken, die die
+Dokumentationshilfe. Die Zyklusfunktion dient nicht der Verhütung oder
+Familienplanung. Einfache Statistiken, die die
 App anzeigt (z. B. Durchschnitt, Minimum/Maximum, Anzahl der
 Medikamenteneinnahmen, Reinalkohol in Gramm, durchschnittliche Zykluslänge,
 BMI), sind reine Rechenzusammenfassungen deiner eigenen Einträge und keine
@@ -870,9 +903,10 @@ länger als sieben Tage nicht entsperrt hast, sodass keine weiteren
 Medikamenten-Erinnerungen eingeplant waren, bzw. auf dem iPhone so lange
 nicht entsperrt hast, dass die bereits geplanten Medikamenten- oder
 Termin-Erinnerungen ausgelaufen waren und keine weiteren nachgeplant wurden
-(jeweils wie in diesem Teil C beschrieben). Unberührt bleiben die Haftung für eigenes
-vorsätzliches oder grobfahrlässiges Verhalten sowie die Haftung für
-Personen- und Gesundheitsschäden nach Teil A.6.
+(jeweils wie in diesem Teil C beschrieben). Unberührt bleibt unsere Haftung
+nach Teil A.6 für Vorsatz und grobe Fahrlässigkeit (auch unserer
+Hilfspersonen), für die Verletzung wesentlicher Vertragspflichten sowie für
+Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit.
 
 **Bei gesundheitlichen Beschwerden oder in einem Notfall** wende dich
 immer an eine Ärztin, einen Arzt oder die reguläre Notrufnummer deines
@@ -906,7 +940,9 @@ Diese Nutzungsbedingungen werden ausschliesslich zwischen dir und uns
 (PocketSana Felbar, Einzelunternehmen, Inhaber Daniel Felbar, Anschrift in
 Teil A.1) geschlossen, nicht mit Apple Inc.
 oder einer anderen Apple-Gesellschaft («Apple»). Für die App und ihre
-Inhalte sind allein wir verantwortlich, nicht Apple. Für den Kauf des Abos
+Inhalte sind allein wir verantwortlich, nicht Apple. Deine gesetzlichen
+Rechte gegenüber Apple Distribution International Ltd. als Verkäuferin des
+Abos (Teil B.1, B.3, D.4) bleiben davon unberührt. Für den Kauf des Abos
 im App Store gilt zusätzlich Teil B.1. Diese Nutzungsbedingungen dürfen den
 Nutzungsregeln der
 [Apple-Mediendienste-Bedingungen](https://www.apple.com/legal/internet-services/itunes/)
@@ -921,7 +957,9 @@ Apple-Geräten zu nutzen, die dir gehören oder die du kontrollierst, im
 Rahmen der Nutzungsregeln der Apple-Mediendienste-Bedingungen. Personen,
 die mit deinem Apple Account über die Familienfreigabe oder über einen
 Volumenkauf verbunden sind, dürfen die App ebenfalls nutzen, soweit Apple
-das vorsieht. Das gilt nur für die App selbst: Das Abo PocketSana Premium
+das vorsieht und sie die Voraussetzungen von Teil A.4 erfüllen (mindestens
+18 Jahre); Teil A.3 zu Zusatzprofilen für Kinder bleibt unberührt. Das gilt
+nur für die App selbst: Das Abo PocketSana Premium
 lässt sich nicht über die Familienfreigabe teilen. Im Übrigen gilt
 Teil A.5.
 
@@ -937,7 +975,8 @@ Für eine gesetzliche oder vertragliche Gewährleistung sind allein wir
 verantwortlich, soweit sie nicht wirksam ausgeschlossen ist (Teil A.7).
 Entspricht die App einer anwendbaren Gewährleistung nicht, kannst du das
 Apple melden; Apple erstattet dir dann den Kaufpreis der App, sofern einer
-bezahlt wurde. Im gesetzlich zulässigen Umfang hat Apple darüber hinaus
+bezahlt wurde (die App selbst ist kostenlos; für das Abo gelten Teil B.2
+und B.3). Im gesetzlich zulässigen Umfang hat Apple darüber hinaus
 keine Gewährleistungspflicht für die App. Für alle weiteren Ansprüche,
 Verluste, Haftungen, Schäden, Kosten oder Aufwendungen wegen der
 Nichterfüllung einer Gewährleistung sind allein wir verantwortlich, im
