@@ -26,7 +26,7 @@ Die App gibt es für Android-Geräte (über Google Play) und für das iPhone
 ist das in diesen Bedingungen mit «Android» bzw. «iPhone» angegeben; für die
 iPhone-Version gilt zusätzlich Teil D.
 
-**Anbieter (geografische Anschrift):**
+**Anbieter / Impressum (geografische Anschrift):**
 
 - PocketSana Felbar (Einzelunternehmen, Inhaber Daniel Felbar)
 - Salamanderweg 1
