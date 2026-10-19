@@ -804,17 +804,22 @@ Absatz):**
 
 Weitere Empfänger gibt es nicht.
 
-Die App selbst gibt Daten nur im Rahmen der Abo-Abwicklung über Google Play
-bzw. Apple weiter und enthält keine Analyse- oder Werbebibliotheken;
-Gesundheitsdaten aus der App gibt sie nie weiter. Wir geben Daten nur an
-Stellen weiter, die einen gleichwertigen Schutz deiner Daten gewährleisten
-wie diese Erklärung und die Richtlinien des App Store bzw. von Google Play:
-Die hier genannten Stellen haben ihren Sitz in der Schweiz oder in der EU
-(Irland, Österreich) und sind an das DSG bzw. die DSGVO gebunden, oder sie haben ihren
-Sitz in den USA (etwa Google LLC) bzw. übermitteln dorthin, jeweils auf
-Grundlage der in Abschnitt 10 genannten Garantien (Data Privacy Framework
-bzw. Standardvertragsklauseln). An Stellen ohne
-diesen Schutz geben wir keine Daten weiter.
+Die App gibt von sich aus nur die Daten weiter, die für die
+Abo-Abwicklung nötig sind, die Google Play bzw. Apple in eigener
+Verantwortung durchführen; Gesundheitsdaten gibt sie nie von sich aus
+weiter. Backups, Exporte und Dokumente, die du teilst oder in einer
+anderen App öffnest, gehen nur dorthin, wohin du sie selbst schickst
+(Abschnitt 4.5). Analyse-, Tracking- oder Werbesoftware haben wir nicht
+eingebaut (zu den Diagnose-Komponenten der Google-Bibliotheken auf
+Android siehe Abschnitt 5). Wir selbst geben Daten nur an Stellen weiter,
+die einen gleichwertigen Schutz deiner Daten gewährleisten wie diese
+Erklärung und die Richtlinien des App Store bzw. von Google Play: Sie
+haben ihren Sitz in der Schweiz oder in der EU und sind an das DSG bzw.
+die DSGVO gebunden, oder sie haben ihren Sitz in den USA (etwa Google LLC)
+bzw. übermitteln dorthin, jeweils auf Grundlage der in Abschnitt 10
+genannten Garantien (Data Privacy Framework bzw.
+Standardvertragsklauseln). An Stellen ohne diesen Schutz geben wir keine
+Daten weiter.
 
 ## 10. Internationale Datenübermittlung
 
